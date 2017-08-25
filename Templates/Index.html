@@ -1,38 +1,33 @@
-
 <!DOCTYPE html>
 <html>
 
 <head>
 <meta charset="UTF-8">
 <!--Title-->
-<title>Stroy-Assistant</title>
-<!-- CSS style file -->
-<link rel="stylesheet" href="{{url_for('static',filename='./css/books.css')}}">
-<link rel="stylesheet" href="{{url_for('static',filename='./css/font-awesome.min.css')}}">
+<title>REWRITE</title>
 
-
-<!-- Script files -->
- 
-	<script src="{{url_for('static',filename='3_party/jquery.min.js')}}"></script>
-	<script src="{{url_for('static',filename='data_structures.js')}}"></script>
-	<script src="{{url_for('static',filename='variable_settings.js')}}"></script>
-	<script src="{{url_for('static',filename='index.js')}}"></script>
-
-
-
-
-
-
+<!-- hiden input file loader -->
 <input type="file" id="fileLoader" name="files" title="Load File" />
+
+<!-- script files -->
+	<!-- settings -->
+<script src="{{url_for('Static',filename='bookshelf_variables.js')}}"></script>
+<script src="{{url_for('Static',filename='data_structures.js')}}"></script>
+	<!-- functions -->
+<script src="{{url_for('Static',filename='bookshelf_functions.js')}}"></script>	
 
 </head>
 
 
-<body onload = "storyMenuFunctions.initialDashboard()">
-	<!--Load stories from  -->
-	<div id="storyList">
+<body onload = "">
 
+<div id="main_frame">
+	<div id="bookshelf_function_menu"></div>
+	<div id="bookshelf">
+		<!-- insert book shelfs-->
+	
 	</div>
+</div>
 
 </body>
 
