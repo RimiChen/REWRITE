@@ -1,3 +1,4 @@
+/*style of frames*/
 #main_frame{
     /* Height & width depends on how you want to reveal the overlay (see JS below) */    
     height: 100%;
@@ -11,7 +12,6 @@
     transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
 	margin-left: 0%;
 	border: 2px solid #FFFFFF;
-    text-align: center;	
 	clear:both;
 }
 #bookshelf_function_menu{
@@ -21,12 +21,24 @@
 	margin-top: 2%;
 	clear:both;
 	display:inline-block;
+    position: fixed;
 }
 #bookshelf{
 	height:98%;
 	width: 96%;
 	border: 2px solid #FF0000;
 	margin-top: 2%;
+    margin-left: 3.5%;
 	clear:both;
 	display:inline-block;
+    position: fixed;
+}
+/* style of menu*/
+div.bookshelf_function_button{
+	height:5%;
+    width: 100%;
+	margin-top: 2%;
+	display:inline-block;
+    background-color: rgba(255, 255,0, 1); /* Black w/o opacity */
+
 }
