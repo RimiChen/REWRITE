@@ -1,3 +1,5 @@
+import sys
+import os
 from flask import Flask, flash, redirect, render_template, request, session, abort, send_file, send_from_directory
 from datetime import datetime
 import time
@@ -32,5 +34,3 @@ def send_image_file(path):
 if __name__ == "__main__":
     # record tool log for tracking the system
     app.run(host='0.0.0.0', port=int(sys.argv[1]))
-    # close log file after finish
-    log_file.close()

@@ -8,13 +8,15 @@
 
 <!-- hiden input file loader -->
 <input type="file" id="fileLoader" name="files" title="Load File" />
+<!-- css files -->
+<link rel="stylesheet" href="{{url_for('static',filename='./css/bookshelf.css')}}">
 
 <!-- script files -->
 	<!-- settings -->
-<script src="{{url_for('Static',filename='bookshelf_variables.js')}}"></script>
-<script src="{{url_for('Static',filename='data_structures.js')}}"></script>
+<script src="{{url_for('static',filename='bookshelf_variables.js')}}"></script>
+<script src="{{url_for('static',filename='data_structures.js')}}"></script>
 	<!-- functions -->
-<script src="{{url_for('Static',filename='bookshelf_functions.js')}}"></script>	
+<script src="{{url_for('static',filename='bookshelf_functions.js')}}"></script>	
 
 </head>
 
