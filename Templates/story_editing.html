@@ -10,7 +10,7 @@
 <input type="file" id="fileLoader" name="files" title="Load File" />
 <!-- css files -->
 <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
-<link rel="stylesheet" href="{{url_for('static',filename='./css/bookshelf.css')}}">
+<link rel="stylesheet" href="{{url_for('static',filename='./css/story_editing.css')}}">
 
 <!-- script files -->
 	<!-- settings -->
@@ -19,14 +19,14 @@
 
 <script src="{{url_for('static',filename='data_structures.js')}}"></script>
 <script src="{{url_for('static',filename='bookshelf_variables.js')}}"></script>
-
+<script src="{{url_for('static',filename='story_editing_variables.js')}}"></script>
 	<!-- functions -->
-<script src="{{url_for('static',filename='bookshelf_functions.js')}}"></script>	
+<script src="{{url_for('static',filename='story_editing_functions.js')}}"></script>	
 
 </head>
 
 
-<body onload = "bookshelf_functions.initialize_frames()">
+<body onload = "story_editing.initialize()">
 
 <div id="main_frame">
 	<div id="bookshelf_function_menu">

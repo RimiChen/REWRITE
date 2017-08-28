@@ -33,12 +33,36 @@
 	display:inline-block;
     position: fixed;
 }
+#bookshelf_overlay{
+    /* Height & width depends on how you want to reveal the overlay (see JS below) */    
+    height: 100%;
+    width: 100%;
+    position: fixed; /* Stay in place */
+    z-index: 2; /* Sit on top */
+    left: 0;
+    top: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    overflow-y: hidden; /* Disable horizontal scroll */
+	margin-left: 0%;
+	border: 2px solid #FFFFFF;
+	clear:both;
+}
 /* style of menu*/
 div.bookshelf_function_button{
 	height:5%;
     width: 100%;
 	margin-top: 2%;
 	display:inline-block;
-    background-color: rgba(255, 255,0, 1); /* Black w/o opacity */
-
+    background-color: rgba(255, 255,255, 1); /* Black w/o opacity */
+}
+div.bookshelf_pop_frame{
+    height: 100%;
+    width: 0%;
+    position: fixed; /* Stay in place */
+    z-index: 2; /* Sit on top */
+    background-color: rgba(255,255,255, 0.75); /* Black w/o opacity */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+	border: 2px solid #FFFFFF;
+	clear:both;
 }

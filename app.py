@@ -15,6 +15,11 @@ def render_index():
     return render_template(
         'Index.html')
 
+@app.route("/story_editing")
+def render_story_editing_page():
+    return render_template(
+        'story_editing.html')
+    
 # root folder path
 @app.route("/<path:path>")
 def root_folder_file(path):
