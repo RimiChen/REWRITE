@@ -21,23 +21,29 @@
 <script src="{{url_for('static',filename='bookshelf_variables.js')}}"></script>
 <script src="{{url_for('static',filename='story_editing_variables.js')}}"></script>
 	<!-- functions -->
+<script src="{{url_for('static',filename='shared_methods.js')}}"></script>
+<script src="{{url_for('static',filename='image_source.js')}}"></script>	    
 <script src="{{url_for('static',filename='story_editing_functions.js')}}"></script>	
 
 </head>
 
 
-<body onload = "story_editing.initialize()">
+<body onload = "story_editing.initialize_editing_interface()">
 
 <div id="main_frame">
-	<div id="bookshelf_function_menu">
-        <div class ="bookshelf_function_button" id ="bs_add_story"></div>
-        <div class ="bookshelf_function_button" id ="bs_delete_story"></div>
+	<div id="story_text_left">
+        <div class ="story_content_frame" id="story_content_left"></div>
     </div>
-	<div id="bookshelf">
-		<!-- insert book shelfs-->
-		<div id="bookshelf_overlay"></div>
-		
+	<div id="story_text_middle">
+        	<div class ="story_editing_function_button" id="story_to_assertions"></div>
+
+            <div class ="story_editing_function_button" id="assertions_to_story"></div>
+
 	</div>
+	<div id="story_text_right">
+        <div class ="story_content_frame" id="story_content_right"></div>
+	</div>
+
 </div>
 
 </body>

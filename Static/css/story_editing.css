@@ -1,0 +1,73 @@
+/*style of frames*/
+#main_frame{
+    /* Height & width depends on how you want to reveal the overlay (see JS below) */    
+    height: 100%;
+    width: 100%;
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    background-color: rgba(255,234,205, 1); /* Black w/o opacity */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+	margin-left: 0%;
+	border: 2px solid #FFFFFF;
+	clear:both;
+    
+}
+#story_text_left{
+	height:100%;
+	width: 48%;
+	/*border: 2px solid #0000FF;*/
+	margin-top: 0%;
+	clear:both;
+	display:inline-block;
+    position: fixed;
+}
+#story_text_middle{
+	height:30%;
+	width: 4%;
+	/*border: 2px solid #00FF00;*/
+	margin-top: 20%;
+    margin-left: 48%;
+	clear:both;
+	display:inline-block;
+    position: fixed;
+    vertical-align: middle;
+    text-align: center;
+}
+#story_text_right{
+	height:100%;
+	width: 48%;
+	/*border: 2px solid #FF0000;*/
+	margin-top: 0%;
+    margin-left: 52%;
+	clear:both;
+	display:inline-block;
+    position: fixed;
+}
+div.story_editing_function_button{
+    height: 20%;
+    width: 90%;
+    position: relative; /* Stay in place */
+    z-index: 2; /* Sit on top */
+	clear:both;
+	display:inline-block;  
+    vertical-align: middle;
+    white-space: normal;
+	border: 2px solid rgba(0, 0, 0, 1);    
+    
+}
+div.story_content_frame{
+    height: 68%;
+    width: 80%;
+    position: relative; /* Stay in place */
+    z-index: 3; /* Sit on top */
+	clear:both;
+    vertical-align: middle;
+    margin-left: 10%;
+    margin-top: 20%;
+    white-space: normal;
+	border: 2px solid rgba(0, 0, 0, 1); 
+    overflow-y: scroll;
+}

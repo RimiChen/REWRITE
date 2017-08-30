@@ -107,7 +107,7 @@ var bookshelf_functions = (function () {
 			width: bookshelf_variables.total_width+"px",
 			backgroundColor: "rgba(255,0,255, 1)"
 		});	
-		add_div_background_image(new_frame.id, "Materials/Bookshelf_top.png");
+		shared_methods.add_div_background_image(new_frame.id, "Materials/Bookshelf_top.png");
 		
 		create_a_bookshelf_layer(1);
 	}
@@ -143,7 +143,7 @@ var bookshelf_functions = (function () {
 			textAlign: "center"
 		});	
 		$("#"+new_frame.id).text(category_name);
-		add_div_background_image(new_frame.id,  "Materials/Bookshelf_board.png")
+		shared_methods.add_div_background_image(new_frame.id,  "Materials/Bookshelf_board.png");
 	}
 	function create_a_bookshelf_layer(current_layer_index){
 		//console.log("==System: create other layers");
@@ -219,7 +219,7 @@ var bookshelf_functions = (function () {
 			width: bookshelf_variables.layer_left_width+"px",
 			backgroundColor: "rgba(0,255,0, 1)"
 		});	
-		add_div_background_image(new_frame.id,"Materials/Bookshelf_left.png");
+		shared_methods.add_div_background_image(new_frame.id,"Materials/Bookshelf_left.png");
 
 		
 		//middle frame
@@ -248,7 +248,7 @@ var bookshelf_functions = (function () {
 			width: bookshelf_variables.layer_middle_width+"px",
 			backgroundColor: "rgba(0,255,255, 1)"
 		});			
-		add_div_background_image(new_frame.id, "Materials/Bookshelf_middle.png");
+		shared_methods.add_div_background_image(new_frame.id, "Materials/Bookshelf_middle.png");
 
 		//right frame
 		new_frame = document.createElement("div");
@@ -277,13 +277,10 @@ var bookshelf_functions = (function () {
 			width: bookshelf_variables.layer_right_width+"px",
 			backgroundColor: "rgba(0,0,255, 1)"
 		});	
-		add_div_background_image(new_frame.id, "Materials/Bookshelf_right.png");
+		shared_methods.add_div_background_image(new_frame.id, "Materials/Bookshelf_right.png");
 		
 	}
-    function add_div_background_image(div_name, image_path){
-		//$('selector').css({'background-image':'url(images/example.jpg)'});
-		$("#"+div_name).css({'background-image':'url('+image_path+')', "background-size": "100% 100%"});
-	}
+
 	function add_story_book_button(story_name){
 		console.log("==System: draw book "+story_name);
 		var target_frame_id = "bookshelf_overlay";
@@ -406,13 +403,14 @@ var bookshelf_functions = (function () {
     var initialize_frames = function() {
         console.log("==System: loading bookshelf layers.");
         //start here
+        image_source.initialize_image_pool();
 		//// listen to button functions
         clickAllCanvas("#bs_add_story");
         
 		
 		//// initialize
 		//funciton menu
-		add_div_background_image("bs_add_story", "Materials/add_more_story.png")
+		shared_methods.add_div_background_image("bs_add_story", "Materials/add_more_story.png")
 		/*
 		read varaibles from web storage
 		*/
