@@ -17,30 +17,31 @@ var bookshelf_functions = (function () {
 						temp_story_name = "THE_BOX_OF_ROBBERS";
 						temp_story_category = "Fantacy"
 						create_empty_story(temp_story_name, temp_story_category);
+						shared_methods.load_story_text("Storys/"+temp_story_name+".txt", temp_story_name); 
 						//console.log(g_story_settings.story_pool[temp_story_name].content);
 						
 						temp_story_name = "THE_ENCHANTED_TYPES";
 						temp_story_category = "FairyTale"
 						create_empty_story(temp_story_name, temp_story_category);
-						load_story_text("Storys/"+temp_story_name+".txt", temp_story_name); 
+						shared_methods.load_story_text("Storys/"+temp_story_name+".txt", temp_story_name); 
 						//console.log(g_story_settings.story_pool[temp_story_name].content);
 							
 						temp_story_name = "THE_GIRL_WHO_OWNED_A_BEAR";
 						temp_story_category = "Advanture"
 						create_empty_story(temp_story_name, temp_story_category);
-						load_story_text("Storys/"+temp_story_name+".txt", temp_story_name); 
+						shared_methods.load_story_text("Storys/"+temp_story_name+".txt", temp_story_name); 
 						//console.log(g_story_settings.story_pool[temp_story_name].content);
 
 						temp_story_name = "THE_GLASS_DOG";
 						temp_story_category = "Fantacy"
 						create_empty_story(temp_story_name, temp_story_category);
-						load_story_text("Storys/"+temp_story_name+".txt", temp_story_name); 
+						shared_methods.load_story_text("Storys/"+temp_story_name+".txt", temp_story_name); 
 						//console.log(g_story_settings.story_pool[temp_story_name].content);
 							
 						temp_story_name = "THE_QUEEN_OF_QUOK";
 						temp_story_category = "Advanture"
 						create_empty_story(temp_story_name, temp_story_category);
-						load_story_text("Storys/"+temp_story_name+".txt", temp_story_name); 
+						shared_methods.load_story_text("Storys/"+temp_story_name+".txt", temp_story_name); 
 						//console.log(g_story_settings.story_pool[temp_story_name].content);
 						
 						console.log(g_story_settings.story_pool);
@@ -302,6 +303,7 @@ var bookshelf_functions = (function () {
 		new_frame.class = "story_book";
 		new_frame.addEventListener('click', function(event){
 			console.log("==System: story "+story_name+" was clicked.");
+			localStorage.setItem("R_rewrite_chosen_story", g_story_settings.story_pool[story_name]);
 			window.location.href='/story_editing';
 		});
 		target_frame.appendChild(new_frame);
@@ -388,17 +390,7 @@ var bookshelf_functions = (function () {
 		localStorage.setItem("R_rewrite_story_pool", g_story_settings.story_pool);		
 		
 	}
-	function load_story_text(filePath, story_name){
-		var story_content = "";
-		file_path = filePath;
-		$.get(filePath, function(data){
-			story_content = data;
-			//console.log(data);
-			g_story_settings.story_pool[story_name].content
-				= data;
-			//return data;
-		});
-	}
+
 	/*returned visible functions*/
     var initialize_frames = function() {
         console.log("==System: loading bookshelf layers.");
