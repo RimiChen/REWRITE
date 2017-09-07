@@ -303,7 +303,9 @@ var bookshelf_functions = (function () {
 		new_frame.class = "story_book";
 		new_frame.addEventListener('click', function(event){
 			console.log("==System: story "+story_name+" was clicked.");
-			localStorage.setItem("R_rewrite_chosen_story", g_story_settings.story_pool[story_name]);
+			alert(g_story_settings.story_pool);
+			
+			localStorage.setItem("R_rewrite_chosen_story", JSON.stringify(g_story_settings.story_pool[story_name]));
 			window.location.href='/story_editing';
 		});
 		target_frame.appendChild(new_frame);
@@ -337,7 +339,7 @@ var bookshelf_functions = (function () {
 		//go over story pool
 		old_story_pool = localStorage.getItem("R_rewrite_story_pool");
 		//console.log("===");
-		//console.log(old_story_pool);
+		console.log(old_story_pool);
 		if(old_story_pool === null){
 			// no story
 					//not exist

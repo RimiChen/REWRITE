@@ -68,8 +68,7 @@ div.story_content_frame{
     margin-left: 10%;
     margin-top: 20%;
     white-space: normal;
-	border: 2px solid rgba(0, 0, 0, 1); 
-    overflow-y: scroll;
+	/*border: 2px solid rgba(0, 0, 0, 1); */ 
 }
 #story_content_text{
     height: 100%;
@@ -87,4 +86,8 @@ div.story_content_frame{
     box-sizing: border-box;
     background-color: rgba(0, 0, 0, 0); 
     color:  rgba(0, 0, 0, 1);     
+}
+#story_content_right{
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
