@@ -81,7 +81,15 @@ def get_actor_assertions(actor_key, Rensa):
         #print str(a.prettyprint())
         #print " > " + str(a)
     return Rensa.get_assertions()
-    
+
+def main_function(input_file_name):
+    #text_file = open("./Storys/"+sys.argv[1], "r")
+    text_file = open("./Storys/"+input_file_name, "r")
+    #print text_file.read()
+    inputString = text_file.read()
+    text_file.close()
+    main(inputString)
+'''    
 if __name__ == '__main__':
     #read a text file and separate to sentences
     #for number of sentences
@@ -90,3 +98,4 @@ if __name__ == '__main__':
     inputString = text_file.read()
     text_file.close()
     main(inputString)
+'''

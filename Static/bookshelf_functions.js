@@ -306,6 +306,11 @@ var bookshelf_functions = (function () {
 			alert(g_story_settings.story_pool);
 			
 			localStorage.setItem("R_rewrite_chosen_story", JSON.stringify(g_story_settings.story_pool[story_name]));
+			$.post( "/post_rensa", {
+				javascript_data: story_name
+			});
+			//// this will generate .json file
+			//add loading here?
 			window.location.href='/story_editing';
 		});
 		target_frame.appendChild(new_frame);

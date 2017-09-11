@@ -1,18 +1,23 @@
 '''
 This example demonstrates how to extract simple Rensa assertions from natural text.
 '''
-
 import sys
 import os
 import pprint
-
-memory_path = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '.', 'src'))
-
-sys.path.insert(0, memory_path)
+sys.path.append(os.path.join(os.path.dirname(__file__), '.', 'src'))
 from Brain import *
-from ConceptExtractor import *
+from ConceptExtractor_v2 import *
 
-def main(inputString):
+def rensa_test(input_story_name):
+    print("\nPrepare to process "+input_story_name)
+    text_file = open("./Storys/"+input_story_name+".txt", "r")
+    #print text_file.read()
+    inputString = text_file.read()
+    text_file.close()
+    main(inputString, input_story_name+".txt")
+
+
+def main(inputString, file_name):
     ''' Extract story assertions. '''
     # Here is an example string.
     #string = "Once upon a time, Ariel was a mermaid.  Ariel has the gender female.  Ariel had a shell.  Ariel loved the land. Ariel happily sang a song.  Ariel also loved Eric. So, Ariel gave her voice to Ursula."
@@ -25,10 +30,8 @@ def main(inputString):
     Rensa = make_brain(learned)
 
     # Realize the assertions we learned.
-
-    file_name =sys.argv[1].replace(".txt" , ".json")
-    target = open("./Storys/"+file_name, 'w')
-                
+    file_name =file_name.replace(".txt" , ".json")
+    target = open("./Storys/"+file_name, 'w')               
     print( "Here's what I learned:")
     #target.write("[")
     record_story = []
@@ -46,16 +49,12 @@ def main(inputString):
         temp_dict['r'] = a.to_dict()['r'][0]
         temp_dict['relation']= a.to_dict()['relation']
         temp_dict['l']= a.to_dict()['l'][0]
+        temp_dict['index']= a.to_dict()['index'][0]
+        temp_dict['sentence']= a.to_dict()['sentence'][0]
         record_story.append(dict(temp_dict));
     #target.write("[")
-    target.write(json.dumps([{"r": str(item['r']), "relation": str(item['relation']), "l": str(item['l'])} for item in record_story]))
+    target.write(json.dumps([{"r": str(item['r']), "relation": str(item['relation']), "l": str(item['l']), "index": str(item['index']), "sentence": str(item['sentence'])} for item in record_story]))
     target.close()    
 
     print "* * *\nProcess completed."
 
-if __name__ == '__main__':
-    text_file = open("./Storys/"+sys.argv[1], "r")
-    #print text_file.read()
-    inputString = text_file.read()
-    text_file.close()
-    main(inputString)

@@ -1,4 +1,7 @@
 //variables for storys
+var current_settings ={
+    current_story: ""
+}
 var each_story_settings = {
     story_id: -1,
     story_name: "",
