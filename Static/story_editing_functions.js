@@ -63,7 +63,7 @@ var story_editing = (function () {
         });	
     
 
-        if(sentence.split(' ').length < 50){
+        if(sentence.split(' ').length < 100){
             var new_frame = document.createElement("div");
             new_frame.id = "assertion_sentence_"+index;
             new_frame.class = "assertion_sentence";
