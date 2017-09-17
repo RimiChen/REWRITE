@@ -14,7 +14,7 @@ var shared_methods = (function () {
 		});
 	}       
     var load_story_assertions = function(filePath) {
-        var result_text="";
+        //var result_text="";
         $.ajax({
             async: false,
             dataType : 'json',
@@ -25,13 +25,53 @@ var shared_methods = (function () {
                 for(var key in data){ 
                     //here do your logic and assign value for code varable   
                     each_story_settings.assert_pool[assertion_count] = data[key];
-                    result_text = result_text+ "{"+data[key]['r']+", "+data[key]['relation']+", "+data[key]['l']+"}\n"; 
+                    //initial assertions
+                    each_story_settings.assert_pool[assertion_count]['weight'] = 1;
+                    each_story_settings.assert_pool[assertion_count]['status'] = true;
+
+/*                    
+                    if(assertion_dictionary[each_story_settings.assert_pool[assertion_count]['index']]){
+                        // a list of properties
+                        if(assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count]){
+                            assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count].push(each_story_settings.assert_pool[assertion_count]['r']);
+                        }
+                        else{
+                            assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count] = [];
+                            assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count].push(each_story_settings.assert_pool[assertion_count]['r']);
+                        }
+                    }
+                    else{
+                        assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']] = {};
+                        assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count] = [];
+                        assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count].push(each_story_settings.assert_pool[assertion_count]['r']);
+                        
+                    }
+*/ 
+                    if(assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']]){
+                        // a list of properties
+                        if(assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']]){
+                            assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']].push(each_story_settings.assert_pool[assertion_count]['r']);
+                        }
+                        else{
+                            assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']] = [];
+                            assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']].push(each_story_settings.assert_pool[assertion_count]['r']);
+                        }
+                    }
+                    else{
+                        assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']] = {};
+                        assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']] = [];
+                        assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']].push(each_story_settings.assert_pool[assertion_count]['r']);
+                        
+                    }
+
+                    //result_text = result_text+ "{"+data[key]['r']+", "+data[key]['relation']+", "+data[key]['l']+"}\n"; 
                     assertion_count++;
                 }
+                console.log(assertion_dictionary);
             }
         });
    
-        return result_text;
+        //return result_text;
     }  
 	function create_assertions_row(r_value, rela_value, l_value, result_text){
 		//console.log(r_value+", "+ rela_value+", "+ l_value);

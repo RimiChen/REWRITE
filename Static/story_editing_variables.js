@@ -10,3 +10,8 @@ var each_story_settings = {
     assertion_frame_width: 0,
     assertion_frame_hieght: 50,
 }
+var assertion_dictionary = {
+    //each assertion is a list
+    //object: [{assertion index, assertion status}]
+    showed_assertions: {}
+}
