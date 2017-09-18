@@ -16,6 +16,12 @@ def rensa_test(input_story_name):
     text_file.close()
     main(inputString, input_story_name+".txt")
 
+def save_story(story_path, story_content):
+    print("\nPrepare to process "+story_path)
+    #print(story_content)
+    text_file = open("./"+story_path, "w")
+    text_file.write(story_content)
+    text_file.close()
 
 def main(inputString, file_name):
     ''' Extract story assertions. '''

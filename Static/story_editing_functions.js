@@ -30,7 +30,7 @@ var story_editing = (function () {
             //console.log(result_assertion_text);
         }); 
     }
-    function create_assertion_row(l_text, relation_text, r_text, index, index_text, sentence){
+    var create_assertion_row = function(l_text, relation_text, r_text, index, index_text, sentence){
         //out frame
 		//get parent frame position
 		var target_frame_id = "story_content_right";
@@ -268,6 +268,7 @@ var story_editing = (function () {
         
         each_story_settings.story_name = current_story.name; 
         each_story_settings.total_story_text = shared_methods.load_story_assertions("Storys/"+current_story.name+".json"); 
+       $("#"+"story_content_right").contents().remove();
         for(var item in each_story_settings.assert_pool){
             //create 3 blocks for r, relation, l
             //console.log(item);
@@ -281,8 +282,19 @@ var story_editing = (function () {
             );
         }
         //$("#story_assertion_text").text(each_story_settings.total_story_text);
+        $("#story_content_text").change(function() {
+            $("#story_content_text").text($("#story_content_text").val());
+            current_story.content = $("#story_content_text").text();
+            localStorage.setItem("R_rewrite_chosen_story",  JSON.stringify(current_story));
+        });
+
+        //listen to button reactions:
+        button_actions.listen_button("#story_to_assertions");
+        button_actions.listen_button("#assertions_to_story");
+        
     };
     return {
-        initialize_editing_interface:initialize_editing_interface
+        initialize_editing_interface:initialize_editing_interface,
+        create_assertion_row :create_assertion_row 
     }
 })();

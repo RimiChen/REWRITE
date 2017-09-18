@@ -15,6 +15,7 @@ var shared_methods = (function () {
 	}       
     var load_story_assertions = function(filePath) {
         //var result_text="";
+        each_story_settings.assert_pool = {};
         $.ajax({
             async: false,
             dataType : 'json',
@@ -23,30 +24,16 @@ var shared_methods = (function () {
             success: function(data) {
                 var assertion_count = 0;
                 for(var key in data){ 
+                    console.log(assertion_count);
                     //here do your logic and assign value for code varable   
                     each_story_settings.assert_pool[assertion_count] = data[key];
                     //initial assertions
                     each_story_settings.assert_pool[assertion_count]['weight'] = 1;
                     each_story_settings.assert_pool[assertion_count]['status'] = true;
 
-/*                    
-                    if(assertion_dictionary[each_story_settings.assert_pool[assertion_count]['index']]){
-                        // a list of properties
-                        if(assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count]){
-                            assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count].push(each_story_settings.assert_pool[assertion_count]['r']);
-                        }
-                        else{
-                            assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count] = [];
-                            assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count].push(each_story_settings.assert_pool[assertion_count]['r']);
-                        }
-                    }
-                    else{
-                        assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']] = {};
-                        assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count] = [];
-                        assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][assertion_count].push(each_story_settings.assert_pool[assertion_count]['r']);
-                        
-                    }
-*/ 
+                    each_story_settings.assert_pool[assertion_count]['current_l'] = each_story_settings.assert_pool[assertion_count]['l'];
+                    each_story_settings.assert_pool[assertion_count]['current_r'] = each_story_settings.assert_pool[assertion_count]['r'];
+                    
                     if(assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']]){
                         // a list of properties
                         if(assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']]){
@@ -68,6 +55,7 @@ var shared_methods = (function () {
                     assertion_count++;
                 }
                 console.log(assertion_dictionary);
+                console.log(each_story_settings.assert_pool);
             }
         });
    

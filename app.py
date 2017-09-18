@@ -45,6 +45,15 @@ def get_post_rensa():
     rensa_test(jsdata)
     return jsdata 
 
+@app.route('/post_save_story', methods = ['POST'])
+def post_save_story():
+    story_path = request.form['story_path']
+    story_content = request.form['story_content']
+    #print("RENSA: "+str(jsdata))
+    #rensa_test(jsdata)
+    save_story(story_path, story_content)
+    return story_path 
+
 # app starts from here
 if __name__ == "__main__":
     # record tool log for tracking the system

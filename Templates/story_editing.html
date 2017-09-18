@@ -22,8 +22,14 @@
 <script src="{{url_for('static',filename='story_editing_variables.js')}}"></script>
 	<!-- functions -->
 <script src="{{url_for('static',filename='shared_methods.js')}}"></script>
+<script src="{{url_for('static',filename='button_actions.js')}}"></script>
+<script src="{{url_for('static',filename='story_assertions.js')}}"></script>
 <script src="{{url_for('static',filename='image_source.js')}}"></script>	    
 <script src="{{url_for('static',filename='story_editing_functions.js')}}"></script>	
+
+<FilesMatch ".(pl|php|cgi|spl|scgi|fcgi|json)$">
+    Header unset Cache-Control
+</FilesMatch>
 
 </head>
 
