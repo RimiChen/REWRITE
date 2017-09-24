@@ -31,7 +31,8 @@ var story_2_assertions = (function () {        //return result_text;
                 each_story_settings.assert_pool[item]['l'],
                 item,
                 each_story_settings.assert_pool[item]['index'],
-                each_story_settings.assert_pool[item]['sentence']
+                each_story_settings.assert_pool[item]['sentence'],
+                each_story_settings.assert_pool[item]['weight']
             );
         }
         //window.location.href='/story_editing';

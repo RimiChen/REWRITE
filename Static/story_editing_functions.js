@@ -30,7 +30,7 @@ var story_editing = (function () {
             //console.log(result_assertion_text);
         }); 
     }
-    var create_assertion_row = function(l_text, relation_text, r_text, index, index_text, sentence){
+    var create_assertion_row = function(l_text, relation_text, r_text, index, index_text, sentence, weight){
         //out frame
 		//get parent frame position
 		var target_frame_id = "story_content_right";
@@ -38,7 +38,8 @@ var story_editing = (function () {
 
 		var parent_frame = "#"+target_frame_id;
         var reference_base = $(parent_frame);
-        var parent_frame_width = reference_base.width();
+        var weight_shift = 50;
+        var parent_frame_width = reference_base.width() - weight_shift;
 		var reference_base_position = reference_base.offset();
 		var left_offset = reference_base_position.left;
 		var top_offset = reference_base_position.top;
@@ -150,7 +151,7 @@ var story_editing = (function () {
 			top: 0+"px",
 			left: Math.floor(parent_frame_width/3*0+index_pos_shift)+"px",
 			position:'absolute',
-			height: (each_story_settings.assertion_frame_hieght-2)+"px",
+			height: (each_story_settings.assertion_frame_hieght/2-2)+"px",
             width: Math.floor(parent_frame_width/3-5)+"px",
             zIndex: 5,
             backgroundColor:  "rgba(255, 0, 255, 0.5)",
@@ -192,7 +193,7 @@ var story_editing = (function () {
 			top: 0+"px",
 			left: Math.floor(parent_frame_width/3*1+index_pos_shift)+"px",
 			position:'absolute',
-			height: (each_story_settings.assertion_frame_hieght-2)+"px",
+			height: (each_story_settings.assertion_frame_hieght/2-2)+"px",
             width: Math.floor(parent_frame_width/3-5)+"px",
             zIndex: 5,
             backgroundColor:  "rgba(0, 0, 0, 1)",
@@ -213,7 +214,7 @@ var story_editing = (function () {
 			top: 0+"px",
 			left: Math.floor(parent_frame_width/3*2+index_pos_shift)+"px",
 			position:'absolute',
-			height: (each_story_settings.assertion_frame_hieght-2)+"px",
+			height: (each_story_settings.assertion_frame_hieght/2-2)+"px",
             width: Math.floor(parent_frame_width/3-5)+"px",
             zIndex: 5,
             backgroundColor:  "rgba(255, 255, 0, 0.5)",
@@ -241,6 +242,62 @@ var story_editing = (function () {
             zIndex: 6 
         });
         $("#"+"assertion_right_text_"+index).text(l_text);        
+
+
+    
+        //weight
+        new_frame = document.createElement("div");
+		new_frame.id = "assertion_weight_"+index;
+		new_frame.class = "assertion_weight";
+        target_frame.appendChild(new_frame);
+        
+		$("#"+new_frame.id).css({
+			top: (each_story_settings.assertion_frame_hieght/2+2)+"px",
+			left:0+"px",
+			position:'absolute',
+			height: index_pos_shift+"px",
+            width: index_pos_shift+"px",
+            zIndex: 5,
+            backgroundColor:  "rgba(0, 0, 255, 1)",
+            display: "inline-block",
+            verticalAlign: "center",
+            Align: "center",
+            color: "rgba(255, 255,0, 1)"
+        });	
+        $("#"+"assertion_weight_"+index).text(weight);
+		var current_weight_button = document.getElementById("assertion_weight_"+index);
+		current_index_button.addEventListener('click', function(event){
+            var string_index = g_story_settings.story_pool[current_settings.current_story].content.indexOf(sentence);
+            var tempString = g_story_settings.story_pool[current_settings.current_story].content.substring(0, index); 
+            var lineNumber = tempString.split('\n').length;
+            console.log("assertion #"+index+" in line #"+lineNumber);
+        });
+        text_target_frame_id = "assertion_weight_"+index;
+        text_target_frame = document.getElementById(text_target_frame_id);  
+
+        new_text_area = document.createElement("textarea"); 
+		new_text_area.id = "assertion_weight_text_"+index;
+		new_text_area.class = "assertion_weight_text";
+        text_target_frame.appendChild(new_text_area);
+		$("#"+ text_target_frame.id).css({
+            height: "100%",
+            width: "100%",
+            webkitBoxSizing: "border-box", /* Safari/Chrome, other WebKit */
+            mozBoxSizing: "border-box",   /* Firefox, other Gecko */
+            boxSizing: "border-box",
+            backgroundColor: "rgba(0,0,0,0)", 
+            borderColor:"rgba(0,0,0,0)",
+            color:  "rgba(0, 0, 0, 0)", 
+            verticalAlign: "center",
+            Align: "center",
+            zIndex: 6 ,
+            resize: "none"
+        });
+        $("#"+"assertion_weight_text_"+index).text(weight);                  
+        $("#"+"assertion_weight_text_"+index).change(function() {
+            $("#"+"assertion_weight_text_"+index).text($("#"+"assertion_weight_text_"+index).val());
+            //change weight here
+        });      
     }
   	
     var initialize_editing_interface = function() {
@@ -278,7 +335,8 @@ var story_editing = (function () {
                 each_story_settings.assert_pool[item]['l'],
                 item,
                 each_story_settings.assert_pool[item]['index'],
-                each_story_settings.assert_pool[item]['sentence']
+                each_story_settings.assert_pool[item]['sentence'],
+                each_story_settings.assert_pool[item]['weight']
             );
         }
         //$("#story_assertion_text").text(each_story_settings.total_story_text);

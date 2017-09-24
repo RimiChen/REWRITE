@@ -8,7 +8,7 @@ var each_story_settings = {
     assert_pool: {},
     total_story_text: "",
     assertion_frame_width: 0,
-    assertion_frame_hieght: 50,
+    assertion_frame_hieght: 100,
 }
 var assertion_dictionary = {
     //each assertion is a list
