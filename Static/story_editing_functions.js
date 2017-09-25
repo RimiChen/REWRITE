@@ -325,10 +325,15 @@ var story_editing = (function () {
         
         each_story_settings.story_name = current_story.name; 
         each_story_settings.total_story_text = shared_methods.load_story_assertions("Storys/"+current_story.name+".json"); 
-       $("#"+"story_content_right").contents().remove();
+        $("#"+"story_content_right").contents().remove();
+        console.log(each_story_settings.assert_pool);
+        temp_assertion_pool = [];
+        
         for(var item in each_story_settings.assert_pool){
             //create 3 blocks for r, relation, l
             //console.log(item);
+            temp_assertion_pool.push( each_story_settings.assert_pool[item]);
+/*            
             create_assertion_row(
                 each_story_settings.assert_pool[item]['r'],
                 each_story_settings.assert_pool[item]['relation'],
@@ -338,7 +343,25 @@ var story_editing = (function () {
                 each_story_settings.assert_pool[item]['sentence'],
                 each_story_settings.assert_pool[item]['weight']
             );
+*/
         }
+        temp_assertion_pool.sort(sort_by('storypoints', true, parseInt));
+        
+        for(var item in temp_assertion_pool){
+            //create 3 blocks for r, relation, l
+            //console.log(item);
+            create_assertion_row(
+                temp_assertion_pool[item]['r'],
+                temp_assertion_pool[item]['relation'],
+                temp_assertion_pool[item]['l'],
+                item,
+                temp_assertion_pool[item]['index'],
+                temp_assertion_pool[item]['sentence'],
+                temp_assertion_pool[item]['weight']
+            );
+        } 
+        
+        console.log(temp_assertion_pool);
         //$("#story_assertion_text").text(each_story_settings.total_story_text);
         $("#story_content_text").change(function() {
             $("#story_content_text").text($("#story_content_text").val());
@@ -351,8 +374,21 @@ var story_editing = (function () {
         button_actions.listen_button("#assertions_to_story");
         
     };
+    var sort_by = function(field, reverse, primer){
+        
+           var key = primer ? 
+               function(x) {return primer(x[field])} : 
+               function(x) {return x[field]};
+        
+           reverse = !reverse ? -1 : 1;
+        
+           return function (a, b) {
+               return a = key(a), b = key(b), reverse * ((a > b) - (b > a));
+             } 
+    }
     return {
         initialize_editing_interface:initialize_editing_interface,
-        create_assertion_row :create_assertion_row 
+        create_assertion_row :create_assertion_row,
+        sort_by: sort_by
     }
 })();

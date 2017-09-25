@@ -1,6 +1,7 @@
 //variables for storys
 var current_settings ={
-    current_story: ""
+    current_story: "",
+    take_actor_actions: false
 }
 var each_story_settings = {
     story_id: -1,
@@ -9,6 +10,7 @@ var each_story_settings = {
     total_story_text: "",
     assertion_frame_width: 0,
     assertion_frame_hieght: 100,
+    actor_pool: {}
 }
 var assertion_dictionary = {
     //each assertion is a list

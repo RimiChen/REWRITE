@@ -57,9 +57,32 @@ def main(inputString, file_name):
         temp_dict['l']= a.to_dict()['l'][0]
         temp_dict['index']= a.to_dict()['index'][0]
         temp_dict['sentence']= a.to_dict()['sentence'][0]
+
+        if 'tense' in a.to_dict():
+            #not action
+            temp_dict['is_verb']= "true"
+        else:
+            temp_dict['is_verb']= "false"
+
+        if 'storypoints' in a.to_dict():
+            temp_dict['storypoints'] = a.to_dict()['storypoints'][0]['at']
+            print(a.to_dict()["storypoints"][0]['at'])
+        else:
+            temp_dict['storypoints'] = -1
+            
+
+            
+        
         record_story.append(dict(temp_dict));
     #target.write("[")
-    target.write(json.dumps([{"r": str(item['r']), "relation": str(item['relation']), "l": str(item['l']), "index": str(item['index']), "sentence": str(item['sentence'])} for item in record_story]))
+    target.write(json.dumps([{
+        "r": str(item['r']),
+        "relation": str(item['relation']),
+        "l": str(item['l']),
+        "index": str(item['index']),
+        "sentence": str(item['sentence']),
+        "is_verb": str(item['is_verb']),
+        "storypoints": str(item['storypoints'])} for item in record_story]))
     target.close()    
 
     print "* * *\nProcess completed."

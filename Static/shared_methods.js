@@ -33,18 +33,35 @@ var shared_methods = (function () {
 
                     each_story_settings.assert_pool[assertion_count]['current_l'] = each_story_settings.assert_pool[assertion_count]['l'];
                     each_story_settings.assert_pool[assertion_count]['current_r'] = each_story_settings.assert_pool[assertion_count]['r'];
+                    each_story_settings.assert_pool[assertion_count]['storypoints'] = each_story_settings.assert_pool[assertion_count]['storypoints'];
                     
+                    //first check if it is an action
+                    if(current_settings.take_actor_actions == true){
+                        //use actor's action
+                        feach_story_settings.assert_pool[assertion_count]['current_l']
+                    }
+                    else{
+
+                    }
+
                     if(assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']]){
                         // a list of properties
+                        // same subject have different properties
                         if(assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']]){
+                            //come from same assertion index
                             assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']].push(each_story_settings.assert_pool[assertion_count]['r']);
                         }
                         else{
+                            //not from same assertion   -->  status change
+                            //find a previous action
+                            
+                            
                             assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']] = [];
                             assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']].push(each_story_settings.assert_pool[assertion_count]['r']);
                         }
                     }
                     else{
+                        //different subject
                         assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']] = {};
                         assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']] = [];
                         assertion_dictionary[each_story_settings.assert_pool[assertion_count]['l']][each_story_settings.assert_pool[assertion_count]['index']].push(each_story_settings.assert_pool[assertion_count]['r']);
