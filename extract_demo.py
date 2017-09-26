@@ -32,6 +32,13 @@ def main(inputString, file_name):
     #print "I'm reading: " + string + "\n* * * "
     learned = extract_story_concepts(string)
 
+    print("==================")
+    #print(type(learned))
+    for elem in learned:
+        print("==================")
+        print(elem)     
+    #print("\n".join(learned))
+
     # Store the assertions in a brain.
     Rensa = make_brain(learned)
 

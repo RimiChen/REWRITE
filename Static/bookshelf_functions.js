@@ -397,7 +397,10 @@ var bookshelf_functions = (function () {
 		localStorage.setItem("R_rewrite_story_pool", g_story_settings.story_pool);		
 		
 	}
-
+	function clean_local_storage(){
+		localStorage.removeItem("R_rewrite_story_pool");
+		localStorage.removeItem("R_rewrite_catergory_pool");
+	}
 	/*returned visible functions*/
     var initialize_frames = function() {
         console.log("==System: loading bookshelf layers.");
@@ -413,6 +416,8 @@ var bookshelf_functions = (function () {
 		/*
 		read varaibles from web storage
 		*/
+		//// clean all of local storages
+		clean_local_storage();
 		//// create bookshlef top frame
 		create_bookshelf_first_layer();
 		//// default will have first layer

@@ -11,9 +11,11 @@ from Entity import *
 # Returns a list of story assertions gleaned from the string s.
 def extract_story_concepts(s):
     actors, assertions = [], []
+    '''
     extractActors = extract_actors(assertions, s)
     actors = extractActors[0]
     assertions = extractActors[1]
+    '''
     sentences = split_sentences(s)
     for sp,e in enumerate(sentences):
         assertions = extract_basic_properties(assertions, e, sp)
@@ -28,9 +30,12 @@ def extract_story_concepts(s):
             actors.append(assertions[i]['l'][0])
         
         i = i+1
+    
+    print("==DEBUG== actors:")
     print(actors)
     #suppose all subjects are actors
     for sp,e in enumerate(sentences):
+        print("==DEBUG== "+e)
         assertions = extract_actor_actions(assertions, actors, e, sp)
 
     return assertions
@@ -71,6 +76,8 @@ def extract_actors(assertions, s):
                     {"l":[name], "relation":"has_gender","r":[gender], "index":[assertion_index], "sentence": [s]}
                 ]
                 assertions.extend([x for x in newAssertions if x not in assertions])
+    
+    
     return [actors, assertions]
 
 # Examples:
@@ -121,13 +128,26 @@ def extract_actor_actions(assertions, actors, s, sp):
     matches = []
     for actor in actors:
         # Example: Ariel (sadly) hated (the) (unpredictable) (sea).
+        print("==DEBUG== actor matches")
+        print(actor+"???")
+        print(s)
+
         matches += en.sentence.find(s, actor + " (RB) VB .")
+        matches += en.sentence.find(s, actor + " (RB) VB")
+        #matches += en.sentence.find(s, actor + " (RB) VB NN")
+        matches += en.sentence.find(s, actor + " (RB) VB DT (JJ) NN")
+
         matches += en.sentence.find(s, actor + " (RB) VB DT (JJ) NN .")
         for actor2 in actors:
             # Example: Ariel (happily) loved Eric.
             matches += en.sentence.find(s, actor + " (RB) VB " + actor2)
             # Example: Ariel (sadly) gave (her) (strong) voice to Ursula.
             matches += en.sentence.find(s, actor + " (RB) VB (PRP$) (JJ) NN to " + actor2)
+
+        #print("==DEBUG== actor matches")
+        #print(actor)
+        #print(matches)
+
     for match in matches:
         verb, actorName, actionObj, actionRecipient, pronoun, adverb = "", "", "", "", "", ""
         for i,m in enumerate(match):
