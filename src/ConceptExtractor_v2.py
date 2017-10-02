@@ -21,7 +21,6 @@ def extract_story_concepts(s):
         assertions = extract_basic_properties(assertions, e, sp)
         ## this is almost useless
         #assertions = extract_actor_actions(assertions, actors, e, sp)
-        assertions = extract_actor_properties(assertions, actors, e, sp)
 
     i = 0
     while i < len(assertions):
@@ -37,6 +36,7 @@ def extract_story_concepts(s):
     for sp,e in enumerate(sentences):
         print("==DEBUG== "+e)
         assertions = extract_actor_actions(assertions, actors, e, sp)
+        assertions = extract_actor_properties(assertions, actors, e, sp)
 
     return assertions
 
@@ -82,8 +82,10 @@ def extract_actors(assertions, s):
 
 # Examples:
 # The sea was unpredictable.
-def extract_basic_properties(assertions, s, sp):
-    matches = en.sentence.find(s, "JJ NN")
+def extract_basic_properties(assertions, s, sp):\
+    matches = en.parser.matches(s, "NN NN")
+    matches += en.parser.matches(s, "JJ NN")
+    #matches += en.sentence.find(s, "(DT) J S")
     for match in matches:
         noun = match[1][0]
         adj  = match[0][0]
@@ -104,6 +106,7 @@ def extract_actor_properties(assertions, actors, s, sp):
         matches += en.sentence.find(s, actor + " is (DT) (RB) JJ")
         matches += en.sentence.find(s, actor + " was (DT) (RB) JJ")
         matches += en.sentence.find(s, actor + " looked (RB) JJ")
+        #matches += en.sentence.find(s, actor + " looked (RB) JJ")
     for match in matches:
         actorName, adj = "", ""
         for i,m in enumerate(match):
@@ -128,15 +131,14 @@ def extract_actor_actions(assertions, actors, s, sp):
     matches = []
     for actor in actors:
         # Example: Ariel (sadly) hated (the) (unpredictable) (sea).
-        print("==DEBUG== actor matches")
-        print(actor+"???")
-        print(s)
+        #print("==DEBUG== actor matches")
+        #print(actor+"???")
+        #print(s)
 
         matches += en.sentence.find(s, actor + " (RB) VB .")
         matches += en.sentence.find(s, actor + " (RB) VB")
         #matches += en.sentence.find(s, actor + " (RB) VB NN")
         matches += en.sentence.find(s, actor + " (RB) VB DT (JJ) NN")
-
         matches += en.sentence.find(s, actor + " (RB) VB DT (JJ) NN .")
         for actor2 in actors:
             # Example: Ariel (happily) loved Eric.

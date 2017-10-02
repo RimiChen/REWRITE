@@ -117,6 +117,10 @@ class PartOfSpeechTagger:
 			if ret[i].startswith("NN") and words[i].endswith("ing"):
 				ret[i] = "VBG"
 
+			##R##
+            # rule 9: convert a common noun to a present participle verb (i.e., a gerand)
+			if ret[i].startswith("VB") and words[i].endswith("ed"):
+				ret[i] = "JJ"
 		return ret
 
 pos_tagger = PartOfSpeechTagger()
@@ -164,7 +168,9 @@ def sentence_tag(sentence):
     tagged = TaggedSentence()
     for i in range(len(tokens)):
         tagged.append((tokens[i], tags[i]))
-        
+
+    ##R##print("===DEBUG===")
+    ##R##print(tagged)      
     return tagged
 
 ### CHUNKING #########################################################################################
@@ -178,7 +184,9 @@ chunk_rules = [
     ("PP", r"<IN><NP>",                 "preposition (in, of, on) followed by noun phrase"),
     ("VP", r"<RB.*|RP|VB.*|MD|TO>+",    "verb phrases"),
     ("VA", r"<VP><NP|PP|S>",            "verbs and arguments/adjuncts"),
-    ("S", r"<NP|PP|PRP><VP|VA>",        "subject")
+    ("S", r"<NP|PP|PRP><VP|VA>",        "subject"),
+    ##R##
+    ("J", r"<JJ.*>",        "subject")
 ]
 
 def sentence_chunk(sentence):
@@ -350,6 +358,9 @@ def matches(sentence, pattern, chunked=True):
         for i in range(len(m)):
             m[i] = " ".join([token for token, tag in m[i]])
     
+    
+    ##R##print("===DEBUG===")
+    ##R##print(m) 
     return m
     
 sentence_find = matches
