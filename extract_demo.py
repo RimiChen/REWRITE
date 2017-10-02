@@ -64,6 +64,7 @@ def main(inputString, file_name):
         temp_dict['l']= a.to_dict()['l'][0]
         temp_dict['index']= a.to_dict()['index'][0]
         temp_dict['sentence']= a.to_dict()['sentence'][0]
+        temp_dict['timepoint']= a.to_dict()['timepoint'][0]
 
         if 'tense' in a.to_dict():
             #not action
@@ -80,7 +81,7 @@ def main(inputString, file_name):
 
             
         
-        record_story.append(dict(temp_dict));
+        record_story.append(dict(temp_dict))
     #target.write("[")
     target.write(json.dumps([{
         "r": str(item['r']),
@@ -89,6 +90,7 @@ def main(inputString, file_name):
         "index": str(item['index']),
         "sentence": str(item['sentence']),
         "is_verb": str(item['is_verb']),
+        "timepoint" : str(item['timepoint']),
         "storypoints": str(item['storypoints'])} for item in record_story]))
     target.close()    
 

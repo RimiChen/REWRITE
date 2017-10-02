@@ -8,8 +8,10 @@ import re
 import en
 from Entity import *
 
+
 # Returns a list of story assertions gleaned from the string s.
 def extract_story_concepts(s):
+    current_time_point = 0
     actors, assertions = [], []
     '''
     extractActors = extract_actors(assertions, s)
@@ -18,7 +20,12 @@ def extract_story_concepts(s):
     '''
     sentences = split_sentences(s)
     for sp,e in enumerate(sentences):
-        assertions = extract_basic_properties(assertions, e, sp)
+        temp_assertions = extract_basic_properties(assertions, e, sp, current_time_point)
+        assertions = temp_assertions[0]
+        current_time_point = temp_assertions[1]
+
+        #assertions = extract_basic_properties(assertions, e, sp, current_time_point)
+
         ## this is almost useless
         #assertions = extract_actor_actions(assertions, actors, e, sp)
 
@@ -34,9 +41,21 @@ def extract_story_concepts(s):
     print(actors)
     #suppose all subjects are actors
     for sp,e in enumerate(sentences):
+        temp_assertions = extract_time_shift(assertions, e, sp, current_time_point)
+        assertions = temp_assertions[0]
+        current_time_point = temp_assertions[1]
+        
         print("==DEBUG== "+e)
-        assertions = extract_actor_actions(assertions, actors, e, sp)
-        assertions = extract_actor_properties(assertions, actors, e, sp)
+        temp_assertions = extract_actor_actions(assertions, actors, e, sp, current_time_point)
+        assertions = temp_assertions[0]
+        current_time_point = temp_assertions[1]
+
+        #assertions = extract_actor_actions(assertions, actors, e, sp, current_time_point)
+        temp_assertions = extract_actor_properties(assertions, actors, e, sp, current_time_point)
+        assertions = temp_assertions[0]
+        current_time_point = temp_assertions[1]
+
+        #assertions = extract_actor_properties(assertions, actors, e, sp, current_time_point)
 
     return assertions
 
@@ -82,7 +101,7 @@ def extract_actors(assertions, s):
 
 # Examples:
 # The sea was unpredictable.
-def extract_basic_properties(assertions, s, sp):\
+def extract_basic_properties(assertions, s, sp, current_time_point):
     matches = en.parser.matches(s, "NN NN")
     matches += en.parser.matches(s, "JJ NN")
     #matches += en.sentence.find(s, "(DT) J S")
@@ -91,16 +110,77 @@ def extract_basic_properties(assertions, s, sp):\
         adj  = match[0][0]
         if noun!="" and adj!="":
             assertion_index = len(assertions)
-            assertion = {"l":[noun], "relation":"has_property","r":[adj],"storypoints":[{"at":sp}], "index":[assertion_index], "sentence": [s]}
+            assertion = {"l":[noun], "relation":"has_property","r":[adj],"storypoints":[{"at":sp}], "index":[assertion_index], "sentence": [s], "timepoint": [current_time_point]}
             if assertion not in assertions:
 
                 assertions.append(assertion)
-    return assertions
+    return [assertions, current_time_point]
 
 # Examples:
 # Harry looked ill.
 # Ariel was really happy.
-def extract_actor_properties(assertions, actors, s, sp):
+def extract_time_shift(assertions, s, sp, current_time_point):
+    matches = []
+    # add time rule in here
+    matches = en.parser.matches(s, "after")
+    for match in matches:
+        time_shift_noun = match[0][0]
+        if time_shift_noun!="":
+            assertion_index = len(assertions)
+            time_shift_number = 1
+            current_time_point = current_time_point + time_shift_number
+            assertion = {"l":["after"], "relation":"time_shift","r":[time_shift_number],"storypoints":[{"at":sp}], "index":[assertion_index], "sentence": [s], "timepoint": [current_time_point]}
+            if assertion not in assertions:
+                assertions.append(assertion)
+    matches = en.parser.matches(s, "before")
+    for match in matches:
+        time_shift_noun = match[0][0]
+        if time_shift_noun!="":
+            assertion_index = len(assertions)
+            time_shift_number = -1
+            current_time_point = current_time_point + time_shift_number
+            assertion = {"l":["before"], "relation":"time_shift","r":[time_shift_number],"storypoints":[{"at":sp}], "index":[assertion_index], "sentence": [s], "timepoint": [current_time_point]}
+            if assertion not in assertions:
+                assertions.append(assertion)
+
+    matches = en.parser.matches(s, "yesterday")
+    for match in matches:
+        time_shift_noun = match[0][0]
+        if time_shift_noun!="":
+            assertion_index = len(assertions)
+            time_shift_number = -1
+            current_time_point = current_time_point + time_shift_number
+            assertion = {"l":["yesterday"], "relation":"time_shift","r":[time_shift_number],"storypoints":[{"at":sp}], "index":[assertion_index], "sentence": [s], "timepoint": [current_time_point]}
+            if assertion not in assertions:
+                assertions.append(assertion)  
+
+    matches = en.parser.matches(s, "today")
+    for match in matches:
+        time_shift_noun = match[0][0]
+        if time_shift_noun!="":
+            assertion_index = len(assertions)
+            time_shift_number = 0
+            current_time_point = current_time_point + time_shift_number
+            assertion = {"l":["today"], "relation":"time_shift","r":[time_shift_number],"storypoints":[{"at":sp}], "index":[assertion_index], "sentence": [s], "timepoint": [current_time_point]}
+            if assertion not in assertions:
+                assertions.append(assertion)  
+
+    matches = en.parser.matches(s, "tomorrow")
+    for match in matches:
+        time_shift_noun = match[0][0]
+        if time_shift_noun!="":
+            assertion_index = len(assertions)
+            time_shift_number = 2
+            current_time_point = current_time_point + time_shift_number
+            assertion = {"l":["tomorrow"], "relation":"time_shift","r":[time_shift_number],"storypoints":[{"at":sp}], "index":[assertion_index], "sentence": [s], "timepoint": [current_time_point]}
+            if assertion not in assertions:
+                assertions.append(assertion)  
+
+
+    return [assertions, current_time_point]
+
+
+def extract_actor_properties(assertions, actors, s, sp, current_time_point):
     matches = []
     for actor in actors:
         matches += en.sentence.find(s, actor + " is (DT) (RB) JJ")
@@ -116,10 +196,10 @@ def extract_actor_properties(assertions, actors, s, sp):
             elif m[1][0:2]=="JJ":
                 adj = m[0]
         assertion_index = len(assertions)
-        assertion = {"l":[actorName], "relation":"has_property","r":[adj],"storypoints":[{"at":sp}], "index":[assertion_index], "sentence": [s]}
+        assertion = {"l":[actorName], "relation":"has_property","r":[adj],"storypoints":[{"at":sp}], "index":[assertion_index], "sentence": [s], "timepoint": [current_time_point]}
         if assertion not in assertions:
             assertions.append(assertion)
-    return assertions
+    return [assertions, current_time_point]
 
 # Examples:
 #  - Ariel is an instance of mermaid.
@@ -127,7 +207,7 @@ def extract_actor_properties(assertions, actors, s, sp):
 #  - Ariel loved Eric.
 #  - Ariel gave her voice to Ursula.
 #  - Ariel has the shell.
-def extract_actor_actions(assertions, actors, s, sp):
+def extract_actor_actions(assertions, actors, s, sp, current_time_point):
     matches = []
     for actor in actors:
         # Example: Ariel (sadly) hated (the) (unpredictable) (sea).
@@ -170,10 +250,10 @@ def extract_actor_actions(assertions, actors, s, sp):
             tense = determine_tense(verb)
             if en.verb.infinitive(verb)=="be":
                 assertion_index = len(assertions)
-                assertion = {"l":[actorName], "relation":"instance_of","r":[actionObj],"storypoints":[{"at":sp}],"tense":tense, "verb": [verb], "index":[assertion_index], "sentence": [s]}
+                assertion = {"l":[actorName], "relation":"instance_of","r":[actionObj],"storypoints":[{"at":sp}],"tense":tense, "verb": [verb], "index":[assertion_index], "sentence": [s], "timepoint": [current_time_point]}
             else:
                 assertion_index = len(assertions)
-                assertion = {"l":[actorName], "relation":"action","r":[verb],"storypoints":[{"at":sp}],"tense":tense, "verb": verb, "index":[assertion_index], "sentence": [s]}
+                assertion = {"l":[actorName], "relation":"action","r":[verb],"storypoints":[{"at":sp}],"tense":tense, "verb": verb, "index":[assertion_index], "sentence": [s], "timepoint": [current_time_point]}
                 if actionObj!="":
                     assertion["action_object"] = [actionObj]
                 if actionRecipient!="":
@@ -184,7 +264,7 @@ def extract_actor_actions(assertions, actors, s, sp):
                 if adverb!="" and adverb !="also" and adverb !="too":
                     assertion["with_property"] = [adverb]
             assertions.append(assertion)
-    return assertions
+    return [assertions, current_time_point]
 
 # English honorifics and other abbreviations requiring a period.
 abbreviations=["Mr.","Ms.","Mrs.","Mx.", "Mme.", "Mses.", "Mss.", "Mmes.","Dr.","St.","Messrs.","Esq.","Prof.","Jr.","Sr.","Br.","Fr.",
