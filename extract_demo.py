@@ -45,7 +45,7 @@ def main(inputString, file_name):
     # Realize the assertions we learned.
     file_name =file_name.replace(".txt" , ".json")
     target = open("./Storys/"+file_name, 'w')               
-    print( "Here's what I learned:")
+    #print( "Here's what I learned:")
     #target.write("[")
     record_story = []
     for a in Rensa.get_assertions():
@@ -74,7 +74,7 @@ def main(inputString, file_name):
 
         if 'storypoints' in a.to_dict():
             temp_dict['storypoints'] = a.to_dict()['storypoints'][0]['at']
-            print(a.to_dict()["storypoints"][0]['at'])
+            #print(a.to_dict()["storypoints"][0]['at'])
         else:
             temp_dict['storypoints'] = -1
             

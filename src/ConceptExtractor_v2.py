@@ -57,30 +57,28 @@ def extract_story_concepts(s):
         #if assertions[i]['l'][0] not in  actors:
         #    actors.append(assertions[i]['l'][0])
         
-        if assertions[i]['l'][0] in actor_count:
-            actor_count[assertions[i]['l'][0]] = actor_count[assertions[i]['l'][0]] +1
-        else:
-            actor_count[assertions[i]['l'][0]] = 1
+        if assertions[i]['l'][0] not in actor_count and assertions[i]['l'][0] in sentence_dictionary:
+            actor_count[assertions[i]['l'][0]] = len(sentence_dictionary[assertions[i]['l'][0]])
 
 
         i = i+1
     
     #### get time shift
     
-    print("*****************************************")
-    print(actors)
+    #print("*****************************************")
+    #print(actors)
 
     #print("==DEBUG== actors:")
     #print(actors)
     
     #### retrieve actors' actions
     #### retriece actors' propoties
-
+    #assertions = []
     start_actors = datetime.datetime.now()
     for actor_name in actor_count:
-        if actor_count[actor_name] >= 3 and actor_name in sentence_dictionary:
+        if actor_count[actor_name] >= 20 and actor_name in sentence_dictionary:
         #if actor_name !="" and actor_name in sentence_dictionary and count > 3:
-            print("============= " +actor_name+" ======== " + str(actor_count[actor_name])+ " =======")
+            #print("============= " +actor_name+" ======== " + str(actor_count[actor_name])+ " =======")
 
             for s in sentence_dictionary[actor_name]:
                 #print(s["storypoints"][0]['at'])
@@ -89,11 +87,11 @@ def extract_story_concepts(s):
                 current_time_point = s["timepoint"]
                 #print("============= " +actor_name+" ======== " + e+ " =======")
 
-                temp_assertions = extract_actor_actions_v2(assertions, actors, e, sp, current_time_point, actor_name)
+                temp_assertions = extract_actor_actions_v2(assertions, actor_count, e, sp, current_time_point, actor_name)
                 assertions = temp_assertions[0]
                 current_time_point = temp_assertions[1]
 
-                temp_assertions = extract_actor_properties_v2(assertions, actors, e, sp, current_time_point, actor_name)
+                temp_assertions = extract_actor_properties_v2(assertions, actor_count, e, sp, current_time_point, actor_name)
                 assertions = temp_assertions[0]
                 current_time_point = temp_assertions[1]
     
@@ -170,7 +168,7 @@ def extract_possible_actors(assertions, s, sp, current_time_point, sentence_dict
     #matches += en.sentence.find(s, "(DT) J S")
     for match in matches:
         noun = match[0][0].lower()
-        print(noun)
+        #print(noun)
         #determine  = match[0][0]
         if noun!="":
             assertion_index = len(assertions)
@@ -332,6 +330,7 @@ def extract_actor_properties(assertions, actors, s, sp, current_time_point):
 
 def extract_actor_properties_v2(assertions, actors, s, sp, current_time_point, actor_name):
     actor = actor_name
+    #print(actor+"    "+s)
     matches = []
     matches += en.sentence.find(s, actor + " is (DT) (RB) JJ")
     matches += en.sentence.find(s, actor + " was (DT) (RB) JJ")
@@ -339,10 +338,14 @@ def extract_actor_properties_v2(assertions, actors, s, sp, current_time_point, a
         #matches += en.sentence.find(s, actor + " looked (RB) JJ")
     for match in matches:
         actorName, adj = "", ""
+        #print("==see====")
+        #print(match)
+        #print(match[0])
+        #print(match[0][0])
         for i,m in enumerate(match):
-            if m[0] in actors:
+            if m[0][0] in actors:
                 if i==0:
-                    actorName = m[0]
+                    actorName = m[0][0]
             elif m[1][0:2]=="JJ":
                 adj = m[0]
         assertion_index = len(assertions)
@@ -459,13 +462,23 @@ def extract_actor_actions_v2(assertions, actors, s, sp, current_time_point, acto
         #print(matches)
 
     for match in matches:
+        #print("==see====")
+        #print(match)
+        #print(match[0])
+        #print(match[0][0])
         verb, actorName, actionObj, actionRecipient, pronoun, adverb = "", "", "", "", "", ""
         for i,m in enumerate(match):
+            #print(m)
+            #print(m[1])
+            #print(m[0][0])
+
             if m[1][0:2]=="VB": #or m[1][0:3]=="VBD":
                 verb = m[0]
+                #print(verb)
             elif m[0] in actors:
                 if i==0:
                     actorName = m[0]
+                    #        print(actorName)
                 elif i>=1:
                     actionRecipient = m[0]
             elif m[1][0:2]=="NN":
@@ -474,6 +487,9 @@ def extract_actor_actions_v2(assertions, actors, s, sp, current_time_point, acto
                 pronoun = m[0]
             elif m[1][0:2]=="RB":
                 adverb = m[0]
+        
+        #print("=="+verb+" "+actorName)
+
         if verb!="" and actorName!="":
             tense = determine_tense(verb)
             if en.verb.infinitive(verb)=="be":
@@ -499,8 +515,8 @@ abbreviations=["Mr.","Ms.","Mrs.","Mx.", "Mme.", "Mses.", "Mss.", "Mmes.","Dr.",
 "Rev.","Pr.","Ph.D.","M.D.","M.S.","B.A.","B.S."]
 
 def split_sentences(story):
-    story = story.replace('\n', ' ').replace('\r', '')
-    sentences = re.split(r' *[\.\?!][\'"\)\];]* *',story)
+    story = story.replace('\n', ' ').replace('\r', ' ').replace(',', '.').replace('\"', '.')
+    sentences = re.split(r' *[\.\?!][\'\"\)\];]* *',story)
     return sentences
 
 # Remove punctuation from a word.

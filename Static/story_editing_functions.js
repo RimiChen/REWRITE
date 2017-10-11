@@ -30,6 +30,17 @@ var story_editing = (function () {
             //console.log(result_assertion_text);
         }); 
     }
+    function query_by_key(key_word){
+        result_list = []
+        console.log("query "+key_word.toLowerCase());
+        for(var item in each_story_settings.assert_pool){
+            if(each_story_settings.assert_pool[item]['l'].toLowerCase() == key_word.toLowerCase()){
+                result_list.push( each_story_settings.assert_pool[item]);
+            }
+        }
+        
+        return result_list;
+    }    
     var create_assertion_row = function(l_text, relation_text, r_text, index, index_text, sentence, weight){
         //out frame
 		//get parent frame position
@@ -299,7 +310,7 @@ var story_editing = (function () {
             //change weight here
         });      
     }
-  	
+
     var initialize_editing_interface = function() {
         console.log("==System: loading story editing interface.");
         
@@ -362,6 +373,9 @@ var story_editing = (function () {
         } 
         
         console.log(temp_assertion_pool);
+        //query in here
+        console.log("Test query: Glass-blower")
+        console.log(query_by_key("Glass-blower"));
         //$("#story_assertion_text").text(each_story_settings.total_story_text);
         $("#story_content_text").change(function() {
             $("#story_content_text").text($("#story_content_text").val());
