@@ -42,6 +42,11 @@ var bookshelf_functions = (function () {
 						temp_story_category = "Advanture"
 						create_empty_story(temp_story_name, temp_story_category);
 						shared_methods.load_story_text("Storys/"+temp_story_name+".txt", temp_story_name); 
+
+						temp_story_name = "TEST_STORY";
+						temp_story_category = "Fantacy"
+						create_empty_story(temp_story_name, temp_story_category);
+						shared_methods.load_story_text("Storys/"+temp_story_name+".txt", temp_story_name); 
 						//console.log(g_story_settings.story_pool[temp_story_name].content);
 						
 						console.log(g_story_settings.story_pool);

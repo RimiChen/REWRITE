@@ -332,7 +332,11 @@ def matches(sentence, pattern, chunked=True):
     Example: "The new president was in the news" --> "new* (NN)" --> ["new president", "news"].
     """
     t = sentence_tag(sentence)
+    #print("test====")
+    #print(t)
     v = variations(pattern.split())
+    #print("test====")
+    #print(v)
     m = []
     # Move from token to token in the sentence.
     i = 0
