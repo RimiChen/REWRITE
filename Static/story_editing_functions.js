@@ -381,7 +381,7 @@ var story_editing = (function () {
         //query in here
         console.log("Test query: Glass-blower")
         console.log(query_by_key("Glass-blower"));
-        console.log(shared_methods.query_related_subject("Glass-blower"));
+        //console.log(shared_methods.query_related_subject("Glass-blower"));
         //$("#story_assertion_text").text(each_story_settings.total_story_text);
         $("#story_content_text").change(function() {
             $("#story_content_text").text($("#story_content_text").val());
@@ -389,6 +389,10 @@ var story_editing = (function () {
             localStorage.setItem("R_rewrite_chosen_story",  JSON.stringify(current_story));
         });
 
+
+        //use java function to get verbnet information
+        ///// implement in here
+        
         //listen to button reactions:
         button_actions.listen_button("#story_to_assertions");
         button_actions.listen_button("#assertions_to_story");
