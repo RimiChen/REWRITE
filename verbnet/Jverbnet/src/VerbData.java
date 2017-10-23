@@ -14,6 +14,7 @@ import edu.mit.jverbnet.data.IMember;
 import edu.mit.jverbnet.data.IVerbClass;
 import edu.mit.jverbnet.data.semantics.IPredicateDesc;
 import edu.mit.jverbnet.data.semantics.ISemanticDesc;
+import edu.mit.jverbnet.data.syntax.ISyntaxDesc;
 import edu.mit.jverbnet.index.IVerbIndex;
 import edu.mit.jverbnet.index.VerbIndex;
 
@@ -113,6 +114,7 @@ public class VerbData {
 		List<IPredicateDesc> resultSemanticPredicate = new ArrayList<IPredicateDesc>();
 		
 		//for each index
+/*		
 		for(int i = 0; i < verbIndexList.size(); i++){
 			//for each verb index class related to this verb
 			IVerbClass currentVerbClass = verbIndexList.get(i);
@@ -129,6 +131,30 @@ public class VerbData {
 			
 			
 		}
+*/
+			//for each verb index class related to this verb
+			IVerbClass currentVerbClass = verbIndexList.get(0);
+			IFrame frame = currentVerbClass.getFrames().get(0);
+			tempSemanticPredicate = frame.getSemantics().getPredicates();
+			System.out.println("####");
+			System.out.println(frame.getPrimaryType().getID());
+			IMember member = currentVerbClass.getMembers().get(0);
+			ISyntaxDesc syntax = frame.getSyntax();
+			Set keys = member.getWordnetTypes().keySet();
+			System.out.println("first wordnet keys: " + keys);
+			if(syntax.getPreVerbDescriptors().size()>0) {
+				System.out.println("Syntax pre: "+syntax.getPreVerbDescriptors().get(0).getValue());
+			}
+			if(syntax.getPostVerbDescriptors().size()>0) {
+				System.out.println("Syntax post: "+syntax.getPostVerbDescriptors().get(0).getValue());
+			}
+			//System.out.println("Syntax: "+syntax.getPreVerbDescriptors().get(0).getValue());
+			//System.out.println("Syntax: "+syntax.getPostVerbDescriptors().get(0).getValue());
+			System.out.println(tempSemanticPredicate);
+			//resultSemanticPredicate.addAll(tempSemanticPredicate);
+			resultSemanticPredicate.add(tempSemanticPredicate.get(0));
+			
+			
 
 		return resultSemanticPredicate;
 	}
@@ -172,5 +198,27 @@ public class VerbData {
 			//show verb index
 			printMembersInAnIndex(indexList.get(i));
 		}	
+	}
+	
+	/*
+	 * match frame
+	 */
+	public boolean matchFrame(List<String> targetFrame, List<String> checkedFrame) {
+		boolean isMatched = false;
+		int checkCount = 0;
+		for(int i = 0; i < checkedFrame.size(); i++) {
+			if(checkedFrame.get(i).equals(targetFrame.get(i)) == true) {
+				checkCount ++;
+			}
+		}
+		
+		if(checkCount == checkedFrame.size()) {
+			isMatched = true;
+		}
+		else {
+			isMatched = false;
+		}
+		
+		return isMatched;
 	}
 }

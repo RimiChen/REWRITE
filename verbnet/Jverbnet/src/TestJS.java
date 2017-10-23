@@ -20,7 +20,8 @@ import com.google.gson.reflect.TypeToken;
 import edu.mit.jverbnet.data.semantics.IPredicateDesc;
 
 public class TestJS{
-	Map<String, String> tenseMapping;
+	public Map<String, String> tenseMapping;
+	public Map<String, String> frameMapping;
 	VerbData v_Data;
 	
     public TestJS() throws IOException{
@@ -49,6 +50,15 @@ ran
         tenseMapping.put("had", "have");
         tenseMapping.put("tying", "tie");
         tenseMapping.put("ran", "run");
+
+        
+        frameMapping = new TreeMap<String, String>();
+        frameMapping.put("NN", "NP");
+        frameMapping.put("VB", "V");
+        frameMapping.put("VB", "V");
+        frameMapping.put("JJ", "ADJ");
+        
+    
     }
     public void readJson(String filePath) throws JsonSyntaxException, JsonIOException, FileNotFoundException{
 /*
