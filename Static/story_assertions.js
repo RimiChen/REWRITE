@@ -20,7 +20,8 @@ var story_2_assertions = (function () {        //return result_text;
         });
 
         shared_methods.load_story_assertions("Storys/"+story_name+".json"); 
-
+        shared_methods.link_synonym();
+        
         $("#"+"story_content_right").contents().remove();
         for(var item in each_story_settings.assert_pool){
             //create 3 blocks for r, relation, l

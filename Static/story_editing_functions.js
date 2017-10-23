@@ -40,7 +40,19 @@ var story_editing = (function () {
         }
         
         return result_list;
-    }    
+    }
+    function query_by_value(key_word){
+        result_list = []
+        console.log("query "+key_word.toLowerCase());
+        for(var item in each_story_settings.assert_pool){
+            if(each_story_settings.assert_pool[item]['r'].toLowerCase() == key_word.toLowerCase()){
+                result_list.push( each_story_settings.assert_pool[item]);
+            }
+        }
+        
+        return result_list;
+    } 
+             
     var create_assertion_row = function(l_text, relation_text, r_text, index, index_text, sentence, weight){
         //out frame
 		//get parent frame position
@@ -336,6 +348,10 @@ var story_editing = (function () {
         
         each_story_settings.story_name = current_story.name; 
         each_story_settings.total_story_text = shared_methods.load_story_assertions("Storys/"+current_story.name+".json"); 
+        
+        shared_methods.link_synonym();
+        
+        // clean display
         $("#"+"story_content_right").contents().remove();
         console.log(each_story_settings.assert_pool);
         temp_assertion_pool = [];
@@ -344,17 +360,6 @@ var story_editing = (function () {
             //create 3 blocks for r, relation, l
             //console.log(item);
             temp_assertion_pool.push( each_story_settings.assert_pool[item]);
-/*            
-            create_assertion_row(
-                each_story_settings.assert_pool[item]['r'],
-                each_story_settings.assert_pool[item]['relation'],
-                each_story_settings.assert_pool[item]['l'],
-                item,
-                each_story_settings.assert_pool[item]['index'],
-                each_story_settings.assert_pool[item]['sentence'],
-                each_story_settings.assert_pool[item]['weight']
-            );
-*/
         }
         temp_assertion_pool.sort(sort_by('storypoints', true, parseInt));
         
@@ -376,6 +381,7 @@ var story_editing = (function () {
         //query in here
         console.log("Test query: Glass-blower")
         console.log(query_by_key("Glass-blower"));
+        console.log(shared_methods.query_related_subject("Glass-blower"));
         //$("#story_assertion_text").text(each_story_settings.total_story_text);
         $("#story_content_text").change(function() {
             $("#story_content_text").text($("#story_content_text").val());

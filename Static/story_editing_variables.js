@@ -17,3 +17,7 @@ var assertion_dictionary = {
     //object: [{assertion index, assertion status}]
     showed_assertions: {}
 }
+var first_order_logic = {
+    synonym_group: {}
+    
+}

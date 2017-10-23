@@ -77,7 +77,73 @@ var shared_methods = (function () {
         });
    
         //return result_text;
-    }  
+    }
+    var link_synonym = function(){
+        same_value_pool = {};
+        if(Object.keys(each_story_settings.assert_pool).length == 0){
+            console.log("==System: no assertions");
+        }
+        else{
+            for(item in each_story_settings.assert_pool){
+                value =  each_story_settings.assert_pool[item]['r'].toLowerCase();
+                if(value != ""){
+                    if(same_value_pool[value]){
+                        
+                        //exist
+                        same_value_pool[value].push(each_story_settings.assert_pool[item]['l'].toLowerCase());
+                        same_value_pool[value] = jQuery.unique(same_value_pool[value]);
+                    }
+                    else{
+                        //not exist
+                        same_value_pool[value] = [];
+                        same_value_pool[value].push(each_story_settings.assert_pool[item]['l'].toLowerCase());
+                    }
+                }
+            }
+            console.log("Same value pool:");
+            console.log(same_value_pool);
+        }
+        //first_order_logic.synonym_group
+
+        for(item in same_value_pool){
+            for(subject_index in same_value_pool[item]){
+                //console.log("item: "+same_value_pool[item]);
+                name = same_value_pool[item][subject_index];
+                //console.log("subject: "+name);
+                if(name != ""){
+                    if(first_order_logic.synonym_group[name]){
+                        first_order_logic.synonym_group[name].push.apply(first_order_logic.synonym_group[name], same_value_pool[item]);
+                        first_order_logic.synonym_group[name] = jQuery.unique(first_order_logic.synonym_group[name]);
+                    }
+                    else{
+                        first_order_logic.synonym_group[name] = [];
+                        first_order_logic.synonym_group[name].push.apply(first_order_logic.synonym_group[name], same_value_pool[item]);
+                    }
+                }
+            }
+        }
+        console.log("Similar subjects:");
+        console.log(first_order_logic.synonym_group);
+
+
+    } 
+    var query_related_subject = function(key_word){
+
+        result_list = []
+
+        console.log("query "+key_word.toLowerCase()+" and related subjects");
+        name_list = first_order_logic.synonym_group[key_word.toLowerCase()];
+        console.log(name_list);
+        for(var item in each_story_settings.assert_pool){
+            if(name_list.indexOf(each_story_settings.assert_pool[item]['l'].toLowerCase())>=0){
+                //console.log(each_story_settings.assert_pool[item]);
+                result_list.push( each_story_settings.assert_pool[item]);
+            }
+        }
+        
+        return result_list;
+
+    } 
 	function create_assertions_row(r_value, rela_value, l_value, result_text){
 		//console.log(r_value+", "+ rela_value+", "+ l_value);
 		result_text = result_text+"{"+r_value+", "+rela_value+", "+l_value+"}.\n";
@@ -86,6 +152,8 @@ var shared_methods = (function () {
     return {
         add_div_background_image:add_div_background_image,
 		load_story_text: load_story_text,
-		load_story_assertions: load_story_assertions
+        load_story_assertions: load_story_assertions,
+        link_synonym: link_synonym,
+        query_related_subject: query_related_subject
     }
 })();
