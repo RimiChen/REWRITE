@@ -19,8 +19,10 @@ import edu.mit.jverbnet.index.VerbIndex;
 public class SampleMain {
 
 	private static VerbData v_Data;
+	public static VerbNetDictionary v_dic;
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
+		v_dic = new VerbNetDictionary();
 		System.out.println("Test JVerbnet");
 		v_Data = new VerbData(".\\verbnet\\");
 		

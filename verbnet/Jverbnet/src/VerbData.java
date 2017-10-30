@@ -133,26 +133,27 @@ public class VerbData {
 		}
 */
 			//for each verb index class related to this verb
+
 			IVerbClass currentVerbClass = verbIndexList.get(0);
 			IFrame frame = currentVerbClass.getFrames().get(0);
 			tempSemanticPredicate = frame.getSemantics().getPredicates();
-			System.out.println("####");
-			System.out.println(frame.getPrimaryType().getID());
+			////System.out.println("####");
+			////System.out.println(frame.getPrimaryType().getID());
 			IMember member = currentVerbClass.getMembers().get(0);
 			ISyntaxDesc syntax = frame.getSyntax();
 			Set keys = member.getWordnetTypes().keySet();
-			System.out.println("first wordnet keys: " + keys);
+			////System.out.println("first wordnet keys: " + keys);
 			if(syntax.getPreVerbDescriptors().size()>0) {
-				System.out.println("Syntax pre: "+syntax.getPreVerbDescriptors().get(0).getValue());
+				////System.out.println("Syntax pre: "+syntax.getPreVerbDescriptors().get(0).getValue());
 			}
 			if(syntax.getPostVerbDescriptors().size()>0) {
-				System.out.println("Syntax post: "+syntax.getPostVerbDescriptors().get(0).getValue());
+				////System.out.println("Syntax post: "+syntax.getPostVerbDescriptors().get(0).getValue());
 			}
 			//System.out.println("Syntax: "+syntax.getPreVerbDescriptors().get(0).getValue());
 			//System.out.println("Syntax: "+syntax.getPostVerbDescriptors().get(0).getValue());
-			System.out.println(tempSemanticPredicate);
-			//resultSemanticPredicate.addAll(tempSemanticPredicate);
-			resultSemanticPredicate.add(tempSemanticPredicate.get(0));
+			////System.out.println(tempSemanticPredicate);
+			resultSemanticPredicate.addAll(tempSemanticPredicate);
+			//resultSemanticPredicate.add(tempSemanticPredicate.get(0));
 			
 			
 

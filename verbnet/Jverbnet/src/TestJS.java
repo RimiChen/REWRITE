@@ -93,8 +93,12 @@ ran
 			//System.out.println(assertion.relation);
 			if(assertion.relation.equals("action")==true){
 				System.out.println("=============");
+				System.out.println("subject: "+assertion.l);
 				System.out.println("old: "+assertion.r+", new: "+tenseMapping.get(assertion.r));
-				v_Data.getSemantic(tenseMapping.get(assertion.r));
+				List<IPredicateDesc> semantic = v_Data.getSemantic(tenseMapping.get(assertion.r));
+				if(semantic.size() >0){
+					System.out.println("list size:¡@"+semantic.size()+", list content: "+semantic);
+				}
 			}
 			
 		}
