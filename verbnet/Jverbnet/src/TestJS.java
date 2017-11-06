@@ -1,14 +1,18 @@
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.Writer;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 import java.lang.reflect.Type;
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonIOException;
@@ -84,8 +88,49 @@ ran
   	
         //System.out.println(navigation);
         //mapping word
-
+        //initialize dictionary
+        VerbNetDictionary.jsonDictionary.clear();
+		
+        
 		for (Assertion assertion : assertionList) {
+			Map<String, List<Map<String, String>>> assertionMap = new TreeMap<String, List<Map<String, String>>>();
+			
+			//Map<String, String> semanticMap = new TreeMap<String, String>();
+			//List<Map<String, String>> itemMap = new ArrayList<Map<String, String>>();
+			
+			//Map<String, String> indexEmptyMap = new TreeMap<String, String>();
+			List<Map<String, String>> indexList = new ArrayList<Map<String, String>>();
+			//indexMap.add(indexEmptyMap);
+			
+			//Map<String, String> rEmptyMap = new TreeMap<String, String>();
+			List<Map<String, String>> rList = new ArrayList<Map<String, String>>();
+			//rMap.add(rEmptyMap);
+
+			//Map<String, String> relationEmptyMap = new TreeMap<String, String>();
+			List<Map<String, String>> relationList = new ArrayList<Map<String, String>>();
+			//relationMap.add(relationEmptyMap);
+			
+			//Map<String, String> lEmptyMap = new TreeMap<String, String>();
+			List<Map<String, String>> lList = new ArrayList<Map<String, String>>();
+			//lMap.add(lEmptyMap);
+
+			///Map<String, String> semanticEmptyMap = new TreeMap<String, String>();
+			List<Map<String, String>> semanticList = new ArrayList<Map<String, String>>();
+			//semanticMap.add(semanticEmptyMap);
+
+			
+			
+
+			
+			
+			
+			//itemMap.clear();
+			//itemMap.add(semanticMap);
+					
+			//assertionMap.put("First", itemMap);
+			//jsonDictionary.add(assertionMap);        
+	        
+			
 			/*
 			System.out.println(test.index);
 			System.out.println(test.r);
@@ -95,8 +140,29 @@ ran
 			*/
 			//System.out.println(assertion.relation);
 			if(assertion.relation.equals("action")==true){
+				Map<String, String> indexEmptyMap = new TreeMap<String, String>();
+				indexEmptyMap.put("index", Integer.toString(assertion.index));
+				indexList.add(indexEmptyMap);
+
+				Map<String, String> rEmptyMap = new TreeMap<String, String>();
+				rEmptyMap.put("subject", assertion.r);
+				rList.add(rEmptyMap);				
+				
+				
+				Map<String, String> relationEmptyMap = new TreeMap<String, String>();
+				relationEmptyMap.put("relation", assertion.relation);
+				relationList.add(relationEmptyMap);	
+				
+				
+				Map<String, String> lEmptyMap = new TreeMap<String, String>();
+				lEmptyMap.put("object", assertion.l);
+				lList.add(lEmptyMap);	
+				
+				
 				System.out.println("=============");
+
 				System.out.println("subject: "+assertion.l);
+				
 				System.out.println("old: "+assertion.r+", new: "+tenseMapping.get(assertion.r));
 				List<IPredicateDesc> semantic = v_Data.getSemantic(tenseMapping.get(assertion.r));
 				if(semantic.size() >0){
@@ -104,26 +170,43 @@ ran
 					//create parse tree for this verb, as long as it has semantic
 					ParseTreeNode root = new ParseTreeNode(null);
 					for(IPredicateDesc part:semantic){
-					//	tree.createParseTree(part.getValue().getID());
+
+						//	tree.createParseTree(part.getValue().getID());
 						ParseTreeNode child = new ParseTreeNode(root);
 						child.name = part.getValue().getID();
 						child.type = "predicate";
 						
+						Map<String, String> semanticEmptyMap = new TreeMap<String, String>();
+						semanticEmptyMap.put("predicate", child.name);
+						
 						List<ISemanticArgType> arguments = part.getArgumentTypes();
 						for(ISemanticArgType argument: arguments){
+							
 							ParseTreeNode arg_child = new ParseTreeNode(child);
 							arg_child.name = argument.getID();
 							String theme = VerbNetDictionary.role_reference.get(arg_child.name);
+							
+							
 							if(theme != null ){
+								//semanticEmptyMap.put(argument.getID(), theme);
+								//System.out.println(semanticEmptyMap);
+								//semanticList.add(semanticEmptyMap);
+
 								//exist
 								if(theme == "Patient" || theme == "Theme" || theme =="Experiencer"){
 									arg_child.target_object = assertion.l;
+									semanticEmptyMap.put(argument.getID(), arg_child.target_object);
+									//System.out.println(semanticEmptyMap);
+									semanticList.add(semanticEmptyMap);
 								}
 								else if(theme == "Location"){
 									arg_child.target_object = "some where";
+									semanticEmptyMap.put(argument.getID(), arg_child.target_object);
+									//System.out.println(semanticEmptyMap);
+									semanticList.add(semanticEmptyMap);
 								}
 								else{
-									System.out.println("This theme is not intrpreable: "+theme);
+									//System.out.println("This theme is not intrpreable: "+theme);
 								}
 							}
 
@@ -140,10 +223,38 @@ ran
 						printTree(root, root.child.get(i), i);
 					}
 				}
+				
+				assertionMap.put("index", indexList);
+				assertionMap.put("r", rList);
+				assertionMap.put("relation", relationList);
+				assertionMap.put("l", lList);
+				assertionMap.put("semantic", semanticList);
+				VerbNetDictionary.jsonDictionary.add(assertionMap);
+				//System.out.println(VerbNetDictionary.jsonDictionary);
 			}
-			
+			//System.out.println(assertionMap);
+
 		}
-    }
+		//System.out.println("????");
+		//System.out.println(MyObject myObject = new MyObject();
+
+		
+		//System.out.println(gsonResult.toJson(VerbNetDictionary.jsonDictionary));
+		
+		try (Writer writer = new FileWriter("Output.json")) {
+		    //Gson gson = new GsonBuilder().create();
+		    //gson.toJson(users, writer);
+			Gson gsonResult = new GsonBuilder().setPrettyPrinting().serializeNulls().create();
+			
+		    gsonResult.toJson(VerbNetDictionary.jsonDictionary, writer);
+		}
+		catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+		}
+			
+			
+		    }
     public void printTree(ParseTreeNode parent, ParseTreeNode current, int index){
     	//TODO: debug the recursive
     	if(current.target_object !=""){

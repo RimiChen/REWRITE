@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -7,6 +9,8 @@ public class VerbNetDictionary {
 	public static Map<String, String> predicate_reference;
 	public static Map<String, String> role_reference;
 	public static Map<String, String> role_short_reference;
+	
+	public static List<Map<String, List<Map<String, String>>>> jsonDictionary;
 	
 	//public static Map<String, String> verbnet_reference;
 	public VerbNetDictionary(){
@@ -22,6 +26,16 @@ public class VerbNetDictionary {
 		System.out.println("role refereces: "+role_reference.size());
 
 		role_short_reference = new TreeMap<String, String>();
+		jsonDictionary = new ArrayList<Map<String, List<Map<String, String>>>>();
+		
+		Map<String, String> semanticMap = new TreeMap<String, String>();
+		List<Map<String, String>> itemMap = new ArrayList<Map<String, String>>();
+		itemMap.clear();
+		itemMap.add(semanticMap);
+		Map<String, List<Map<String, String>>> assertionMap = new TreeMap<String, List<Map<String, String>>>();
+		assertionMap.put("First", itemMap);
+		jsonDictionary.add(assertionMap);
+		
 		
 	}
 	//initialize

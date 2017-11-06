@@ -1,0 +1,738 @@
+[
+  {
+    "index": [
+      {
+        "index": "144"
+      }
+    ],
+    "l": [
+      {
+        "object": "wizard"
+      }
+    ],
+    "r": [
+      {
+        "subject": "went"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "wizard",
+        "predicate": "state"
+      },
+      {
+        "Patient": "wizard",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "146"
+      }
+    ],
+    "l": [
+      {
+        "object": "wizard"
+      }
+    ],
+    "r": [
+      {
+        "subject": "cares"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Experiencer": "wizard",
+        "predicate": "emotional_state"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "147"
+      }
+    ],
+    "l": [
+      {
+        "object": "wizard"
+      }
+    ],
+    "r": [
+      {
+        "subject": "went"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "wizard",
+        "predicate": "state"
+      },
+      {
+        "Patient": "wizard",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "148"
+      }
+    ],
+    "l": [
+      {
+        "object": "wizard"
+      }
+    ],
+    "r": [
+      {
+        "subject": "set"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "wizard",
+        "predicate": "take_care_of"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "149"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass"
+      }
+    ],
+    "r": [
+      {
+        "subject": "leaves"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass",
+        "predicate": "state"
+      },
+      {
+        "Patient": "glass",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "150"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass"
+      }
+    ],
+    "r": [
+      {
+        "subject": "leaves"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass",
+        "predicate": "state"
+      },
+      {
+        "Patient": "glass",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "151"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass"
+      }
+    ],
+    "r": [
+      {
+        "subject": "leaves"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass",
+        "predicate": "state"
+      },
+      {
+        "Patient": "glass",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "152"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass"
+      }
+    ],
+    "r": [
+      {
+        "subject": "leaves"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass",
+        "predicate": "state"
+      },
+      {
+        "Patient": "glass",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "153"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass"
+      }
+    ],
+    "r": [
+      {
+        "subject": "leaves"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass",
+        "predicate": "state"
+      },
+      {
+        "Patient": "glass",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "154"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass-blower"
+      }
+    ],
+    "r": [
+      {
+        "subject": "began"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Theme": "glass-blower",
+        "predicate": "begin"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "157"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass-blower"
+      }
+    ],
+    "r": [
+      {
+        "subject": "came"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Theme": "glass-blower",
+        "predicate": "appear"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "158"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass-blower"
+      }
+    ],
+    "r": [
+      {
+        "subject": "had"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass-blower",
+        "predicate": "take_in"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "161"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass-blower"
+      }
+    ],
+    "r": [
+      {
+        "subject": "went"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass-blower",
+        "predicate": "state"
+      },
+      {
+        "Patient": "glass-blower",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "162"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass-blower"
+      }
+    ],
+    "r": [
+      {
+        "subject": "went"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass-blower",
+        "predicate": "state"
+      },
+      {
+        "Patient": "glass-blower",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "163"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass-blower"
+      }
+    ],
+    "r": [
+      {
+        "subject": "tying"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass-blower",
+        "predicate": "together"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "164"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass-blower"
+      }
+    ],
+    "r": [
+      {
+        "subject": "tying"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass-blower",
+        "predicate": "together"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "165"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass-blower"
+      }
+    ],
+    "r": [
+      {
+        "subject": "went"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass-blower",
+        "predicate": "state"
+      },
+      {
+        "Patient": "glass-blower",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "166"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass-blower"
+      }
+    ],
+    "r": [
+      {
+        "subject": "went"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass-blower",
+        "predicate": "state"
+      },
+      {
+        "Patient": "glass-blower",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "167"
+      }
+    ],
+    "l": [
+      {
+        "object": "glass-blower"
+      }
+    ],
+    "r": [
+      {
+        "subject": "went"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Patient": "glass-blower",
+        "predicate": "state"
+      },
+      {
+        "Patient": "glass-blower",
+        "predicate": "Pred"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "170"
+      }
+    ],
+    "l": [
+      {
+        "object": "dog"
+      }
+    ],
+    "r": [
+      {
+        "subject": "ran"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Theme": "dog",
+        "predicate": "manner"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      },
+      {
+        "Theme": "dog",
+        "predicate": "manner"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "171"
+      }
+    ],
+    "l": [
+      {
+        "object": "dog"
+      }
+    ],
+    "r": [
+      {
+        "subject": "ran"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Theme": "dog",
+        "predicate": "manner"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      },
+      {
+        "Theme": "dog",
+        "predicate": "manner"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      }
+    ]
+  },
+  {
+    "index": [
+      {
+        "index": "172"
+      }
+    ],
+    "l": [
+      {
+        "object": "dog"
+      }
+    ],
+    "r": [
+      {
+        "subject": "ran"
+      }
+    ],
+    "relation": [
+      {
+        "relation": "action"
+      }
+    ],
+    "semantic": [
+      {
+        "Theme": "dog",
+        "predicate": "manner"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      },
+      {
+        "Theme": "dog",
+        "predicate": "manner"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      },
+      {
+        "Location": "some where",
+        "Theme": "dog",
+        "predicate": "contact"
+      }
+    ]
+  }
+]
