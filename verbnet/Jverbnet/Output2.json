@@ -1,0 +1,61 @@
+{
+  "dog": [
+    "Theme",
+    "Theme",
+    "Theme",
+    "Theme",
+    "Theme",
+    "Theme",
+    "Theme",
+    "Theme",
+    "Theme",
+    "Theme",
+    "Theme",
+    "Theme"
+  ],
+  "glass": [
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient"
+  ],
+  "glass-blower": [
+    "Theme",
+    "Theme",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient",
+    "Patient"
+  ],
+  "some where": [
+    "Location",
+    "Location",
+    "Location",
+    "Location",
+    "Location",
+    "Location"
+  ],
+  "wizard": [
+    "Patient",
+    "Patient",
+    "Experiencer",
+    "Patient",
+    "Patient",
+    "Patient"
+  ]
+}

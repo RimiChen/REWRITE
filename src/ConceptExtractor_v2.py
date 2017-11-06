@@ -39,6 +39,8 @@ def extract_story_concepts(s):
         assertions = temp_assertions[0]
         current_time_point = temp_assertions[1]
 
+        extract_location(assertions, e, sp, current_time_point)
+
         temp_assertions = extract_basic_properties_v2(assertions, e, sp, current_time_point, sentence_dictionary)
         assertions = temp_assertions[0]
         current_time_point = temp_assertions[1]
@@ -306,6 +308,26 @@ def extract_time_shift(assertions, s, sp, current_time_point):
 
     return [assertions, current_time_point]
 
+def extract_location(assertions, s, sp, current_time_point):
+    matches = []
+    # add time rule in here
+    matches += en.sentence.find(s, " at (DT) NN")
+    matches += en.sentence.find(s, " on (DT) NN")
+    matches += en.sentence.find(s, " in (DT) NN")
+    matches += en.sentence.find(s, " to (DT) NN")
+        #matches += en.sentence.find(s, actor + " looked (RB) JJ")
+    for match in matches:
+        #[place] = ""
+        for i,m in enumerate(match):
+        #    if m[0][0:2]=="NN":
+        #        place = m[0]
+            print(i)
+            print(m)
+        #assertion_index = len(assertions)
+        #assertion = {"l":[actorName], "relation":"has_property","r":[adj],"storypoints":[{"at":sp}], "index":[assertion_index], "sentence": [s], "timepoint": [current_time_point]}
+        #if assertion not in assertions:
+        #    assertions.append(assertion)
+    return [assertions, current_time_point]
 
 def extract_actor_properties(assertions, actors, s, sp, current_time_point):
     matches = []

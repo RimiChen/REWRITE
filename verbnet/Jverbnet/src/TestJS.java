@@ -198,12 +198,52 @@ ran
 									semanticEmptyMap.put(argument.getID(), arg_child.target_object);
 									//System.out.println(semanticEmptyMap);
 									semanticList.add(semanticEmptyMap);
+									
+									if(VerbNetDictionary.attributesDictionary.get(arg_child.target_object) == null){
+										List<String> newAttribute = new ArrayList<String>();
+										newAttribute.add(argument.getID());
+										VerbNetDictionary.attributesDictionary.put(arg_child.target_object, newAttribute);
+									}
+									else{
+										VerbNetDictionary.attributesDictionary.get(arg_child.target_object).add(argument.getID());
+									}
+									
+									if(VerbNetDictionary.attributeCollectDictionary.get(argument.getID()) == null){
+										List<String> newAttribute = new ArrayList<String>();
+										newAttribute.add(arg_child.target_object);
+										VerbNetDictionary.attributeCollectDictionary.put(argument.getID(), newAttribute);
+									}
+									else{
+										VerbNetDictionary.attributeCollectDictionary.get(argument.getID()).add(arg_child.target_object);
+									}
+									
+									
 								}
 								else if(theme == "Location"){
 									arg_child.target_object = "some where";
 									semanticEmptyMap.put(argument.getID(), arg_child.target_object);
 									//System.out.println(semanticEmptyMap);
 									semanticList.add(semanticEmptyMap);
+									
+									if(VerbNetDictionary.attributesDictionary.get(arg_child.target_object) == null){
+										List<String> newAttribute = new ArrayList<String>();
+										newAttribute.add(argument.getID());
+										VerbNetDictionary.attributesDictionary.put(arg_child.target_object, newAttribute);
+									}
+									else{
+										VerbNetDictionary.attributesDictionary.get(arg_child.target_object).add(argument.getID());
+									}
+									
+									if(VerbNetDictionary.attributeCollectDictionary.get(argument.getID()) == null){
+										List<String> newAttribute = new ArrayList<String>();
+										newAttribute.add(arg_child.target_object);
+										VerbNetDictionary.attributeCollectDictionary.put(argument.getID(), newAttribute);
+									}
+									else{
+										VerbNetDictionary.attributeCollectDictionary.get(argument.getID()).add(arg_child.target_object);
+									}
+									
+									
 								}
 								else{
 									//System.out.println("This theme is not intrpreable: "+theme);
@@ -252,8 +292,28 @@ ran
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 		}
+		try (Writer writer = new FileWriter("Output2.json")) {
+		    //Gson gson = new GsonBuilder().create();
+		    //gson.toJson(users, writer);
+			Gson gsonResult = new GsonBuilder().setPrettyPrinting().serializeNulls().create();
 			
+		    gsonResult.toJson(VerbNetDictionary.attributesDictionary, writer);
+		}
+		catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+		}			
+		try (Writer writer = new FileWriter("Output3.json")) {
+		    //Gson gson = new GsonBuilder().create();
+		    //gson.toJson(users, writer);
+			Gson gsonResult = new GsonBuilder().setPrettyPrinting().serializeNulls().create();
 			
+		    gsonResult.toJson(VerbNetDictionary.attributeCollectDictionary, writer);
+		}
+		catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+		}			
 		    }
     public void printTree(ParseTreeNode parent, ParseTreeNode current, int index){
     	//TODO: debug the recursive

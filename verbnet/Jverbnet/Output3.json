@@ -1,0 +1,59 @@
+{
+  "Experiencer": [
+    "wizard"
+  ],
+  "Location": [
+    "some where",
+    "some where",
+    "some where",
+    "some where",
+    "some where",
+    "some where"
+  ],
+  "Patient": [
+    "wizard",
+    "wizard",
+    "wizard",
+    "wizard",
+    "wizard",
+    "glass",
+    "glass",
+    "glass",
+    "glass",
+    "glass",
+    "glass",
+    "glass",
+    "glass",
+    "glass",
+    "glass",
+    "glass-blower",
+    "glass-blower",
+    "glass-blower",
+    "glass-blower",
+    "glass-blower",
+    "glass-blower",
+    "glass-blower",
+    "glass-blower",
+    "glass-blower",
+    "glass-blower",
+    "glass-blower",
+    "glass-blower",
+    "glass-blower"
+  ],
+  "Theme": [
+    "glass-blower",
+    "glass-blower",
+    "dog",
+    "dog",
+    "dog",
+    "dog",
+    "dog",
+    "dog",
+    "dog",
+    "dog",
+    "dog",
+    "dog",
+    "dog",
+    "dog"
+  ]
+}

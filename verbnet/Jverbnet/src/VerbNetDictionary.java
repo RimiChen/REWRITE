@@ -11,6 +11,8 @@ public class VerbNetDictionary {
 	public static Map<String, String> role_short_reference;
 	
 	public static List<Map<String, List<Map<String, String>>>> jsonDictionary;
+	public static Map<String, List<String>> attributesDictionary;
+	public static Map<String, List<String>> attributeCollectDictionary;
 	
 	//public static Map<String, String> verbnet_reference;
 	public VerbNetDictionary(){
@@ -35,6 +37,10 @@ public class VerbNetDictionary {
 		Map<String, List<Map<String, String>>> assertionMap = new TreeMap<String, List<Map<String, String>>>();
 		assertionMap.put("First", itemMap);
 		jsonDictionary.add(assertionMap);
+		
+		attributesDictionary = new TreeMap<String, List<String>>() ;
+		attributeCollectDictionary = new TreeMap<String, List<String>>();
+		
 		
 		
 	}
