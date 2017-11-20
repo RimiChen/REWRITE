@@ -1,0 +1,1089 @@
+{
+  "2": [], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "The Rangoon--one of the Peninsular and Oriental Company's boats plying in the Chinese and Japanese seas--was a screw steamer", 
+      "is_verb": "false", 
+      "l": "boats", 
+      "timepoint": 0, 
+      "r": "Company's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The Rangoon--one of the Peninsular and Oriental Company's boats plying in the Chinese and Japanese seas--was a screw steamer", 
+      "is_verb": "false", 
+      "l": "steamer", 
+      "timepoint": 0, 
+      "r": "screw", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "The Rangoon--one of the Peninsular and Oriental Company's boats plying in the Chinese and Japanese seas--was a screw steamer", 
+      "is_verb": "false", 
+      "l": "company's", 
+      "timepoint": 0, 
+      "r": "Oriental", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The Rangoon--one of the Peninsular and Oriental Company's boats plying in the Chinese and Japanese seas--was a screw steamer", 
+      "is_verb": "false", 
+      "l": "seas--was", 
+      "timepoint": 0, 
+      "r": "Japanese", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and Aouda was not as comfortably provided for on board of her as Phileas Fogg could have wished", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 5, 
+      "sentence": "the trip from Calcutta to Hong Kong only comprised some three thousand five hundred miles", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and the young woman was not difficult to please", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "During the first days of the journey Aouda became better acquainted with her protector", 
+      "is_verb": "false", 
+      "l": "aouda", 
+      "timepoint": 0, 
+      "r": "journey", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "During the first days of the journey Aouda became better acquainted with her protector", 
+      "is_verb": "false", 
+      "l": "days", 
+      "timepoint": 0, 
+      "r": "first", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and constantly gave evidence of her deep gratitude for what he had done", 
+      "is_verb": "false", 
+      "l": "gratitude", 
+      "timepoint": 0, 
+      "r": "deep", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The phlegmatic gentleman listened to her", 
+      "is_verb": "false", 
+      "l": "gentleman", 
+      "timepoint": 0, 
+      "r": "phlegmatic", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 4, 
+      "sentence": "neither his voice nor his manner betraying the slightest emotion; but he seemed to be always on the watch that nothing should be wanting to Aouda's comfort", 
+      "is_verb": "false", 
+      "l": "comfort", 
+      "timepoint": 0, 
+      "r": "Aouda's", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "neither his voice nor his manner betraying the slightest emotion; but he seemed to be always on the watch that nothing should be wanting to Aouda's comfort", 
+      "is_verb": "false", 
+      "l": "emotion", 
+      "timepoint": 0, 
+      "r": "slightest", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 6, 
+      "sentence": "He visited her regularly each day at certain hours", 
+      "is_verb": "false", 
+      "l": "hours", 
+      "timepoint": 0, 
+      "r": "certain", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 7, 
+      "sentence": "He treated her with the strictest politeness", 
+      "is_verb": "false", 
+      "l": "politeness", 
+      "timepoint": 0, 
+      "r": "strictest", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 8, 
+      "sentence": "though Passepartout had given her some hints of his master's eccentricity", 
+      "is_verb": "false", 
+      "l": "eccentricity", 
+      "timepoint": 0, 
+      "r": "master's", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 9, 
+      "sentence": "After all", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 10, 
+      "sentence": "she owed Phileas Fogg her life", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 11, 
+      "sentence": "she owed Phileas Fogg her life", 
+      "is_verb": "false", 
+      "l": "phileas", 
+      "timepoint": 1, 
+      "r": "owed", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "Aouda confirmed the Parsee guide's narrative of her touching history", 
+      "is_verb": "false", 
+      "l": "guide's", 
+      "timepoint": 0, 
+      "r": "Parsee", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "belong to the highest of the native races of India", 
+      "is_verb": "false", 
+      "l": "races", 
+      "timepoint": 0, 
+      "r": "native", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Many of the Parsee merchants have made great fortunes there by dealing in cotton; and one of them", 
+      "is_verb": "false", 
+      "l": "merchants", 
+      "timepoint": 0, 
+      "r": "Parsee", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Many of the Parsee merchants have made great fortunes there by dealing in cotton; and one of them", 
+      "is_verb": "false", 
+      "l": "fortunes", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Sir Jametsee Jeejeebhoy", 
+      "is_verb": "false", 
+      "l": "jametsee", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "was made a baronet by the English government", 
+      "is_verb": "false", 
+      "l": "government", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Aouda was a relative of this great man", 
+      "is_verb": "false", 
+      "l": "man", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 7, 
+      "sentence": "whom she hoped to join at Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 8, 
+      "sentence": "Aouda fastened her great eyes", 
+      "is_verb": "false", 
+      "l": "eyes", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 9, 
+      "sentence": "clear as the sacred lakes of the Himalaya", 
+      "is_verb": "false", 
+      "l": "lakes", 
+      "timepoint": 0, 
+      "r": "sacred", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 10, 
+      "sentence": "upon him; but the intractable Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "intractable", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "The first few days of the voyage passed prosperously", 
+      "is_verb": "false", 
+      "l": "days", 
+      "timepoint": 0, 
+      "r": "few", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "amid favourable weather and propitious winds", 
+      "is_verb": "false", 
+      "l": "weather", 
+      "timepoint": 0, 
+      "r": "favourable", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "amid favourable weather and propitious winds", 
+      "is_verb": "false", 
+      "l": "winds", 
+      "timepoint": 0, 
+      "r": "propitious", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and they soon came in sight of the great Andaman", 
+      "is_verb": "false", 
+      "l": "andaman", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 4, 
+      "sentence": "with its picturesque Saddle Peak", 
+      "is_verb": "false", 
+      "l": "peak", 
+      "timepoint": 0, 
+      "r": "Saddle", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 5, 
+      "sentence": "with its picturesque Saddle Peak", 
+      "is_verb": "false", 
+      "l": "saddle", 
+      "timepoint": 0, 
+      "r": "picturesque", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 6, 
+      "sentence": "but the savage Papuans", 
+      "is_verb": "false", 
+      "l": "papuans", 
+      "timepoint": 0, 
+      "r": "savage", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 7, 
+      "sentence": "who are in the lowest scale of humanity", 
+      "is_verb": "false", 
+      "l": "scale", 
+      "timepoint": 0, 
+      "r": "lowest", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "8": [
+    {
+      "index": 0, 
+      "sentence": "Vast forests of palms", 
+      "is_verb": "false", 
+      "l": "forests", 
+      "timepoint": 0, 
+      "r": "Vast", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "of the gigantic mimosa", 
+      "is_verb": "false", 
+      "l": "mimosa", 
+      "timepoint": 0, 
+      "r": "gigantic", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and tree-like ferns covered the foreground", 
+      "is_verb": "false", 
+      "l": "ferns", 
+      "timepoint": 0, 
+      "r": "tree-like", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 3, 
+      "sentence": "the graceful outlines of the mountains were traced against the sky; and along the coasts swarmed by thousands the precious swallows whose nests furnish a luxurious dish to the tables of the Celestial Empire", 
+      "is_verb": "false", 
+      "l": "outlines", 
+      "timepoint": 0, 
+      "r": "graceful", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "the graceful outlines of the mountains were traced against the sky; and along the coasts swarmed by thousands the precious swallows whose nests furnish a luxurious dish to the tables of the Celestial Empire", 
+      "is_verb": "false", 
+      "l": "swallows", 
+      "timepoint": 0, 
+      "r": "precious", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 5, 
+      "sentence": "the graceful outlines of the mountains were traced against the sky; and along the coasts swarmed by thousands the precious swallows whose nests furnish a luxurious dish to the tables of the Celestial Empire", 
+      "is_verb": "false", 
+      "l": "dish", 
+      "timepoint": 0, 
+      "r": "luxurious", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 6, 
+      "sentence": "the graceful outlines of the mountains were traced against the sky; and along the coasts swarmed by thousands the precious swallows whose nests furnish a luxurious dish to the tables of the Celestial Empire", 
+      "is_verb": "false", 
+      "l": "empire", 
+      "timepoint": 0, 
+      "r": "Celestial", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 7, 
+      "sentence": "The varied landscape afforded by the Andaman Islands was soon passed", 
+      "is_verb": "false", 
+      "l": "islands", 
+      "timepoint": 0, 
+      "r": "Andaman", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 8, 
+      "sentence": "The varied landscape afforded by the Andaman Islands was soon passed", 
+      "is_verb": "false", 
+      "l": "landscape", 
+      "timepoint": 0, 
+      "r": "varied", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 9, 
+      "sentence": "which gave access to the China seas", 
+      "is_verb": "false", 
+      "l": "seas", 
+      "timepoint": 0, 
+      "r": "China", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }
+  ], 
+  "9": [
+    {
+      "index": 0, 
+      "sentence": "after leaving orders that", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "it should be forwarded to him at Hong Kong; and he hoped to conceal his presence to the end of the voyage", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 1, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "It would have been difficult to explain why he was on board without awakening Passepartout's suspicions", 
+      "is_verb": "false", 
+      "l": "suspicions", 
+      "timepoint": 1, 
+      "r": "Passepartout's", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 3, 
+      "sentence": "to renew his acquaintance with the worthy servant", 
+      "is_verb": "false", 
+      "l": "servant", 
+      "timepoint": 1, 
+      "r": "worthy", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "All the detective's hopes and wishes were now centred on Hong Kong; for the steamer's stay at Singapore would be too brief to enable him to take any steps there", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The arrest must be made at Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Hong Kong was the last English ground on which he would set foot; beyond", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Hong Kong was the last English ground on which he would set foot; beyond", 
+      "is_verb": "false", 
+      "l": "ground", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Hong Kong was the last English ground on which he would set foot; beyond", 
+      "is_verb": "false", 
+      "l": "english", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 5, 
+      "sentence": "America offered to Fogg an almost certain refuge", 
+      "is_verb": "false", 
+      "l": "refuge", 
+      "timepoint": 0, 
+      "r": "certain", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 6, 
+      "sentence": "If the warrant should at last make its appearance at Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 7, 
+      "sentence": "Fix could arrest him and give him into the hands of the local police", 
+      "is_verb": "false", 
+      "l": "police", 
+      "timepoint": 0, 
+      "r": "local", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 8, 
+      "sentence": "and there would be no further trouble", 
+      "is_verb": "false", 
+      "l": "trouble", 
+      "timepoint": 0, 
+      "r": "further", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 9, 
+      "sentence": "But beyond Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 10, 
+      "sentence": "a simple warrant would be of no avail; an extradition warrant would be necessary", 
+      "is_verb": "false", 
+      "l": "warrant", 
+      "timepoint": 0, 
+      "r": "extradition", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 11, 
+      "sentence": "a simple warrant would be of no avail; an extradition warrant would be necessary", 
+      "is_verb": "false", 
+      "l": "warrant", 
+      "timepoint": 0, 
+      "r": "simple", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 12, 
+      "sentence": "of which the rascal would take advantage to elude justice", 
+      "is_verb": "false", 
+      "l": "justice", 
+      "timepoint": 0, 
+      "r": "elude", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "Fix thought over these probabilities during the long hours which he spent in his cabin", 
+      "is_verb": "false", 
+      "l": "hours", 
+      "timepoint": 0, 
+      "r": "long", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "either the warrant will be at Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and I have failed at Calcutta; if I fail at Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 3, 
+      "sentence": "if that should turn out to be my last resource", 
+      "is_verb": "false", 
+      "l": "resource", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "That Passepartout was not Fogg's accomplice", 
+      "is_verb": "false", 
+      "l": "accomplice", 
+      "timepoint": 0, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The detective was therefore in a sore strait", 
+      "is_verb": "false", 
+      "l": "strait", 
+      "timepoint": 0, 
+      "r": "sore", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 2, 
+      "sentence": "But suddenly a new idea struck him", 
+      "is_verb": "false", 
+      "l": "idea", 
+      "timepoint": 0, 
+      "r": "new", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 3, 
+      "sentence": "in company with Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }
+  ], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "or had Fogg gone into the interior purposely in quest of this charming damsel", 
+      "is_verb": "false", 
+      "l": "damsel", 
+      "timepoint": 0, 
+      "r": "charming", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "He asked himself whether there had not been a wicked elopement; and this idea so impressed itself upon his mind that he determined to make use of the supposed intrigue", 
+      "is_verb": "false", 
+      "l": "elopement", 
+      "timepoint": 0, 
+      "r": "wicked", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "He asked himself whether there had not been a wicked elopement; and this idea so impressed itself upon his mind that he determined to make use of the supposed intrigue", 
+      "is_verb": "false", 
+      "l": "intrigue", 
+      "timepoint": 0, 
+      "r": "supposed", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Whether the young woman were married or not", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "he would be able to create such difficulties for Mr", 
+      "is_verb": "false", 
+      "l": "difficulties", 
+      "timepoint": 0, 
+      "r": "such", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Fogg at Hong Kong that he could not escape by paying any amount of money", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "But could he even wait till they reached Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "But could he even wait till they reached Hong Kong", 
+      "is_verb": "false", 
+      "l": "hong", 
+      "timepoint": 0, 
+      "r": "reached", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Fogg had an abominable way of jumping from one boat to another", 
+      "is_verb": "false", 
+      "l": "way", 
+      "timepoint": 0, 
+      "r": "abominable", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "before anything could be effected", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }
+  ], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "Fix decided that he must warn the English authorities", 
+      "is_verb": "false", 
+      "l": "authorities", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and signal the Rangoon before her arrival", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "whence there is a telegraphic wire to Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": -1, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "whence there is a telegraphic wire to Hong Kong", 
+      "is_verb": "false", 
+      "l": "wire", 
+      "timepoint": -1, 
+      "r": "telegraphic", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "before acting more positively", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -2, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 5, 
+      "sentence": "to question Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": -2, 
+      "r": "question", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "16": [], 
+  "17": [
+    {
+      "index": 0, 
+      "sentence": "The detective rushed forward with every appearance of extreme surprise", 
+      "is_verb": "false", 
+      "l": "surprise", 
+      "timepoint": 0, 
+      "r": "extreme", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "18": [
+    {
+      "index": 0, 
+      "sentence": "returned the really astonished Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "astonished", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 1, 
+      "sentence": "on the way to Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "I shall stop at Hong Kong--at least for some days", 
+      "is_verb": "false", 
+      "l": "kong--at", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "20": [], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "The Gulf of Bengal does not agree with me as well as the Indian Ocean", 
+      "is_verb": "false", 
+      "l": "ocean", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "22": [
+    {
+      "index": 0, 
+      "sentence": "you don't know that we have a young lady with us", 
+      "is_verb": "false", 
+      "l": "lady", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "A young lady", 
+      "is_verb": "false", 
+      "l": "lady", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "24": [
+    {
+      "index": 0, 
+      "sentence": "Passepartout thereupon recounted Aouda's history", 
+      "is_verb": "false", 
+      "l": "history", 
+      "timepoint": 0, 
+      "r": "Aouda's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Passepartout thereupon recounted Aouda's history", 
+      "is_verb": "false", 
+      "l": "aouda's", 
+      "timepoint": 0, 
+      "r": "recounted", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "the affair at the Bombay pagoda", 
+      "is_verb": "false", 
+      "l": "pagoda", 
+      "timepoint": 0, 
+      "r": "Bombay", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and sentence of the Calcutta court", 
+      "is_verb": "false", 
+      "l": "court", 
+      "timepoint": 0, 
+      "r": "Calcutta", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "who was familiar with the last events", 
+      "is_verb": "false", 
+      "l": "events", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "25": [
+    {
+      "index": 0, 
+      "sentence": "But does your master propose to carry this young woman to Europe", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "a rich merchant at Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "a rich merchant at Hong Kong", 
+      "is_verb": "false", 
+      "l": "merchant", 
+      "timepoint": 0, 
+      "r": "rich", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "27": [], 
+  "28": []
+}

@@ -1,0 +1,1201 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH PHILEAS FOGG AND PASSEPARTOUT ACCEPT EACH OTHER", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "PHILEAS", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "THE ONE AS MASTER", 
+      "is_verb": "false", 
+      "l": "master", 
+      "timepoint": 0, 
+      "r": "AS", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "THE OTHER AS MAN ", 
+      "is_verb": "false", 
+      "l": "man", 
+      "timepoint": 0, 
+      "r": "AS", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "THE OTHER AS MAN ", 
+      "is_verb": "false", 
+      "l": "as", 
+      "timepoint": 0, 
+      "r": "OTHER", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg lived", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Saville Row", 
+      "is_verb": "false", 
+      "l": "row", 
+      "timepoint": 0, 
+      "r": "Saville", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Burlington Gardens", 
+      "is_verb": "false", 
+      "l": "gardens", 
+      "timepoint": 0, 
+      "r": "Burlington", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 3, 
+      "sentence": "He was one of the most noticeable members of the Reform Club", 
+      "is_verb": "false", 
+      "l": "club", 
+      "timepoint": 0, 
+      "r": "Reform", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 4, 
+      "sentence": "He was one of the most noticeable members of the Reform Club", 
+      "is_verb": "false", 
+      "l": "members", 
+      "timepoint": 0, 
+      "r": "noticeable", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "though he seemed always to avoid attracting attention; an enigmatical personage", 
+      "is_verb": "false", 
+      "l": "personage", 
+      "timepoint": 0, 
+      "r": "enigmatical", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 6, 
+      "sentence": "except that he was a polished man of the world", 
+      "is_verb": "false", 
+      "l": "man", 
+      "timepoint": 0, 
+      "r": "polished", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 7, 
+      "sentence": "People said that he resembled Byron--at least that his head was Byronic; but he was a bearded", 
+      "is_verb": "false", 
+      "l": "byron--at", 
+      "timepoint": 0, 
+      "r": "resembled", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 8, 
+      "sentence": "tranquil Byron", 
+      "is_verb": "false", 
+      "l": "byron", 
+      "timepoint": 0, 
+      "r": "tranquil", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "it was more doubtful whether Phileas Fogg was a Londoner", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "no ships ever came into London docks of which he was the owner; he had no public employment; he had never been entered at any of the Inns of Court", 
+      "is_verb": "false", 
+      "l": "docks", 
+      "timepoint": 0, 
+      "r": "London", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "no ships ever came into London docks of which he was the owner; he had no public employment; he had never been entered at any of the Inns of Court", 
+      "is_verb": "false", 
+      "l": "employment", 
+      "timepoint": 0, 
+      "r": "public", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 3, 
+      "sentence": "or Lincoln's Inn", 
+      "is_verb": "false", 
+      "l": "inn", 
+      "timepoint": 0, 
+      "r": "Lincoln's", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 4, 
+      "sentence": "or Gray's Inn; nor had his voice ever resounded in the Court of Chancery", 
+      "is_verb": "false", 
+      "l": "inn", 
+      "timepoint": 0, 
+      "r": "Gray's", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 5, 
+      "sentence": "or the Queen's Bench", 
+      "is_verb": "false", 
+      "l": "bench", 
+      "timepoint": 0, 
+      "r": "Queen's", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 6, 
+      "sentence": "or the Ecclesiastical Courts", 
+      "is_verb": "false", 
+      "l": "courts", 
+      "timepoint": 0, 
+      "r": "Ecclesiastical", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 7, 
+      "sentence": "He certainly was not a manufacturer; nor was he a merchant or a gentleman farmer", 
+      "is_verb": "false", 
+      "l": "farmer", 
+      "timepoint": 0, 
+      "r": "gentleman", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 8, 
+      "sentence": "His name was strange to the scientific and learned societies", 
+      "is_verb": "false", 
+      "l": "societies", 
+      "timepoint": 0, 
+      "r": "learned", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 9, 
+      "sentence": "and he never was known to take part in the sage deliberations of the Royal Institution or the London Institution", 
+      "is_verb": "false", 
+      "l": "deliberations", 
+      "timepoint": 0, 
+      "r": "sage", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 10, 
+      "sentence": "and he never was known to take part in the sage deliberations of the Royal Institution or the London Institution", 
+      "is_verb": "false", 
+      "l": "institution", 
+      "timepoint": 0, 
+      "r": "London", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 11, 
+      "sentence": "and he never was known to take part in the sage deliberations of the Royal Institution or the London Institution", 
+      "is_verb": "false", 
+      "l": "institution", 
+      "timepoint": 0, 
+      "r": "Royal", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 12, 
+      "sentence": "the Artisan's Association", 
+      "is_verb": "false", 
+      "l": "association", 
+      "timepoint": 0, 
+      "r": "Artisan's", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 13, 
+      "sentence": "to none of the numerous societies which swarm in the English capital", 
+      "is_verb": "false", 
+      "l": "societies", 
+      "timepoint": 0, 
+      "r": "numerous", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 14, 
+      "sentence": "founded mainly for the purpose of abolishing pernicious insects", 
+      "is_verb": "false", 
+      "l": "insects", 
+      "timepoint": 0, 
+      "r": "pernicious", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg was a member of the Reform", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "The way in which he got admission to this exclusive club was simple enough", 
+      "is_verb": "false", 
+      "l": "club", 
+      "timepoint": 0, 
+      "r": "exclusive", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "8": [
+    {
+      "index": 0, 
+      "sentence": "with whom he had an open credit", 
+      "is_verb": "false", 
+      "l": "credit", 
+      "timepoint": 0, 
+      "r": "open", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "9": [
+    {
+      "index": 0, 
+      "sentence": "Was Phileas Fogg rich", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Fogg was the last person to whom to apply for the information", 
+      "is_verb": "false", 
+      "l": "person", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "or benevolent purpose", 
+      "is_verb": "false", 
+      "l": "purpose", 
+      "timepoint": 0, 
+      "r": "benevolent", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and seemed all the more mysterious for his taciturn manner", 
+      "is_verb": "false", 
+      "l": "manner", 
+      "timepoint": 0, 
+      "r": "taciturn", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 4, 
+      "sentence": "His daily habits were quite open to observation; but whatever he did was so exactly the same thing that he had always done before", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 18
+    }
+  ], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "for no one seemed to know the world more familiarly; there was no spot so secluded that he did not appear to have an intimate acquaintance with it", 
+      "is_verb": "false", 
+      "l": "acquaintance", 
+      "timepoint": 0, 
+      "r": "intimate", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "with a few clear words", 
+      "is_verb": "false", 
+      "l": "words", 
+      "timepoint": 0, 
+      "r": "clear", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "the thousand conjectures advanced by members of the club as to lost and unheard-of travellers", 
+      "is_verb": "false", 
+      "l": "travellers", 
+      "timepoint": 0, 
+      "r": "unheard-of", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "pointing out the true probabilities", 
+      "is_verb": "false", 
+      "l": "probabilities", 
+      "timepoint": 0, 
+      "r": "true", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and seeming as if gifted with a sort of second sight", 
+      "is_verb": "false", 
+      "l": "sight", 
+      "timepoint": 0, 
+      "r": "second", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "It was at least certain that Phileas Fogg had not absented himself from London for many years", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "It was at least certain that Phileas Fogg had not absented himself from London for many years", 
+      "is_verb": "false", 
+      "l": "years", 
+      "timepoint": 0, 
+      "r": "many", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Those who were honoured by a better acquaintance with him than the rest", 
+      "is_verb": "false", 
+      "l": "acquaintance", 
+      "timepoint": 0, 
+      "r": "better", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "His sole pastimes were reading the papers and playing whist", 
+      "is_verb": "false", 
+      "l": "pastimes", 
+      "timepoint": 0, 
+      "r": "sole", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg was not known to have either wife or children", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "which may happen to the most honest people; either relatives or near friends", 
+      "is_verb": "false", 
+      "l": "people", 
+      "timepoint": 0, 
+      "r": "honest", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "He lived alone in his house in Saville Row", 
+      "is_verb": "false", 
+      "l": "row", 
+      "timepoint": 0, 
+      "r": "Saville", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "whither none penetrated", 
+      "is_verb": "false", 
+      "l": "none", 
+      "timepoint": 0, 
+      "r": "whither", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "in the same room", 
+      "is_verb": "false", 
+      "l": "room", 
+      "timepoint": 0, 
+      "r": "same", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "at the same table", 
+      "is_verb": "false", 
+      "l": "table", 
+      "timepoint": 0, 
+      "r": "same", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 6, 
+      "sentence": "never taking his meals with other members", 
+      "is_verb": "false", 
+      "l": "members", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 7, 
+      "sentence": "He never used the cosy chambers which the Reform provides for its favoured members", 
+      "is_verb": "false", 
+      "l": "chambers", 
+      "timepoint": 0, 
+      "r": "cosy", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 8, 
+      "sentence": "He never used the cosy chambers which the Reform provides for its favoured members", 
+      "is_verb": "false", 
+      "l": "members", 
+      "timepoint": 0, 
+      "r": "favoured", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 9, 
+      "sentence": "He passed ten hours out of the twenty-four in Saville Row", 
+      "is_verb": "false", 
+      "l": "row", 
+      "timepoint": 0, 
+      "r": "Saville", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 10, 
+      "sentence": "When he chose to take a walk it was with a regular step in the entrance hall with its mosaic flooring", 
+      "is_verb": "false", 
+      "l": "hall", 
+      "timepoint": 0, 
+      "r": "entrance", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 11, 
+      "sentence": "When he chose to take a walk it was with a regular step in the entrance hall with its mosaic flooring", 
+      "is_verb": "false", 
+      "l": "step", 
+      "timepoint": 0, 
+      "r": "regular", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 12, 
+      "sentence": "or in the circular gallery with its dome supported by twenty red porphyry Ionic columns", 
+      "is_verb": "false", 
+      "l": "gallery", 
+      "timepoint": 0, 
+      "r": "circular", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 13, 
+      "sentence": "or in the circular gallery with its dome supported by twenty red porphyry Ionic columns", 
+      "is_verb": "false", 
+      "l": "porphyry", 
+      "timepoint": 0, 
+      "r": "red", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 14, 
+      "sentence": "and illumined by blue painted windows", 
+      "is_verb": "false", 
+      "l": "windows", 
+      "timepoint": 0, 
+      "r": "painted", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 15, 
+      "sentence": "When he breakfasted or dined all the resources of the club--its kitchens and pantries", 
+      "is_verb": "false", 
+      "l": "kitchens", 
+      "timepoint": 0, 
+      "r": "club--its", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }, 
+    {
+      "index": 16, 
+      "sentence": "its buttery and dairy--aided to crowd his table with their most succulent stores; he was served by the gravest waiters", 
+      "is_verb": "false", 
+      "l": "stores", 
+      "timepoint": 0, 
+      "r": "succulent", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 17, 
+      "sentence": "its buttery and dairy--aided to crowd his table with their most succulent stores; he was served by the gravest waiters", 
+      "is_verb": "false", 
+      "l": "waiters", 
+      "timepoint": 0, 
+      "r": "gravest", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 18, 
+      "sentence": "in dress coats", 
+      "is_verb": "false", 
+      "l": "coats", 
+      "timepoint": 0, 
+      "r": "dress", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 19, 
+      "sentence": "and shoes with swan-skin soles", 
+      "is_verb": "false", 
+      "l": "soles", 
+      "timepoint": 0, 
+      "r": "swan-skin", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }, 
+    {
+      "index": 20, 
+      "sentence": "who proffered the viands in special porcelain", 
+      "is_verb": "false", 
+      "l": "porcelain", 
+      "timepoint": 0, 
+      "r": "special", 
+      "relation": "has_property", 
+      "storypoints": 23
+    }, 
+    {
+      "index": 21, 
+      "sentence": "and on the finest linen; club decanters", 
+      "is_verb": "false", 
+      "l": "decanters", 
+      "timepoint": 0, 
+      "r": "club", 
+      "relation": "has_property", 
+      "storypoints": 24
+    }, 
+    {
+      "index": 22, 
+      "sentence": "and on the finest linen; club decanters", 
+      "is_verb": "false", 
+      "l": "linen", 
+      "timepoint": 0, 
+      "r": "finest", 
+      "relation": "has_property", 
+      "storypoints": 24
+    }, 
+    {
+      "index": 23, 
+      "sentence": "and his cinnamon-spiced claret; while his beverages were refreshingly cooled with ice", 
+      "is_verb": "false", 
+      "l": "claret", 
+      "timepoint": 0, 
+      "r": "cinnamon-spiced", 
+      "relation": "has_property", 
+      "storypoints": 28
+    }, 
+    {
+      "index": 24, 
+      "sentence": "brought at great cost from the American lakes", 
+      "is_verb": "false", 
+      "l": "lakes", 
+      "timepoint": 0, 
+      "r": "American", 
+      "relation": "has_property", 
+      "storypoints": 29
+    }, 
+    {
+      "index": 25, 
+      "sentence": "brought at great cost from the American lakes", 
+      "is_verb": "false", 
+      "l": "cost", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 29
+    }
+  ], 
+  "13": [], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "The mansion in Saville Row", 
+      "is_verb": "false", 
+      "l": "row", 
+      "timepoint": 0, 
+      "r": "Saville", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "but Phileas Fogg required him to be almost superhumanly prompt and regular", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "On this very 2nd of October he had dismissed James Forster", 
+      "is_verb": "false", 
+      "l": "forster", 
+      "timepoint": 0, 
+      "r": "James", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "On this very 2nd of October he had dismissed James Forster", 
+      "is_verb": "false", 
+      "l": "james", 
+      "timepoint": 0, 
+      "r": "dismissed", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "because that luckless youth had brought him shaving-water at eighty-four degrees Fahrenheit instead of eighty-six; and he was awaiting his successor", 
+      "is_verb": "false", 
+      "l": "youth", 
+      "timepoint": 0, 
+      "r": "luckless", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 5, 
+      "sentence": "because that luckless youth had brought him shaving-water at eighty-four degrees Fahrenheit instead of eighty-six; and he was awaiting his successor", 
+      "is_verb": "false", 
+      "l": "fahrenheit", 
+      "timepoint": 0, 
+      "r": "degrees", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg was seated squarely in his armchair", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "his head erect; he was steadily watching a complicated clock which indicated the hours", 
+      "is_verb": "false", 
+      "l": "clock", 
+      "timepoint": 0, 
+      "r": "complicated", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "quit Saville Row", 
+      "is_verb": "false", 
+      "l": "row", 
+      "timepoint": 0, 
+      "r": "Saville", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }
+  ], 
+  "16": [
+    {
+      "index": 0, 
+      "sentence": "A rap at this moment sounded on the door of the cosy apartment where Phileas Fogg was seated", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "A rap at this moment sounded on the door of the cosy apartment where Phileas Fogg was seated", 
+      "is_verb": "false", 
+      "l": "apartment", 
+      "timepoint": 0, 
+      "r": "cosy", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and James Forster", 
+      "is_verb": "false", 
+      "l": "forster", 
+      "timepoint": 0, 
+      "r": "James", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "the dismissed servant", 
+      "is_verb": "false", 
+      "l": "servant", 
+      "timepoint": 0, 
+      "r": "dismissed", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "17": [
+    {
+      "index": 0, 
+      "sentence": "The new servant", 
+      "is_verb": "false", 
+      "l": "servant", 
+      "timepoint": 0, 
+      "r": "new", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "18": [
+    {
+      "index": 0, 
+      "sentence": "A young man of thirty advanced and bowed", 
+      "is_verb": "false", 
+      "l": "man", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "asked Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "asked Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "phileas", 
+      "timepoint": 0, 
+      "r": "asked", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "20": [
+    {
+      "index": 0, 
+      "sentence": "Jean Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "Jean", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 1, 
+      "sentence": "a surname which has clung to me because I have a natural aptness for going out of one business into another", 
+      "is_verb": "false", 
+      "l": "aptness", 
+      "timepoint": 0, 
+      "r": "natural", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 2, 
+      "sentence": "I've had several trades", 
+      "is_verb": "false", 
+      "l": "trades", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 3, 
+      "sentence": "I've been an itinerant singer", 
+      "is_verb": "false", 
+      "l": "singer", 
+      "timepoint": 0, 
+      "r": "itinerant", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 4, 
+      "sentence": "so as to make better use of my talents; and then I was a sergeant fireman at Paris", 
+      "is_verb": "false", 
+      "l": "fireman", 
+      "timepoint": 0, 
+      "r": "sergeant", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 5, 
+      "sentence": "so as to make better use of my talents; and then I was a sergeant fireman at Paris", 
+      "is_verb": "false", 
+      "l": "use", 
+      "timepoint": 0, 
+      "r": "better", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and assisted at many a big fire", 
+      "is_verb": "false", 
+      "l": "fire", 
+      "timepoint": 0, 
+      "r": "big", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }, 
+    {
+      "index": 7, 
+      "sentence": "But I quitted France five years ago", 
+      "is_verb": "false", 
+      "l": "france", 
+      "timepoint": 0, 
+      "r": "quitted", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 8, 
+      "sentence": "wishing to taste the sweets of domestic life", 
+      "is_verb": "false", 
+      "l": "life", 
+      "timepoint": 0, 
+      "r": "domestic", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }, 
+    {
+      "index": 9, 
+      "sentence": "and hearing that Monsieur Phileas Fogg was the most exact and settled gentleman in the United Kingdom", 
+      "is_verb": "false", 
+      "l": "phileas", 
+      "timepoint": 0, 
+      "r": "Monsieur", 
+      "relation": "has_property", 
+      "storypoints": 25
+    }, 
+    {
+      "index": 10, 
+      "sentence": "and hearing that Monsieur Phileas Fogg was the most exact and settled gentleman in the United Kingdom", 
+      "is_verb": "false", 
+      "l": "gentleman", 
+      "timepoint": 0, 
+      "r": "settled", 
+      "relation": "has_property", 
+      "storypoints": 25
+    }, 
+    {
+      "index": 11, 
+      "sentence": "and hearing that Monsieur Phileas Fogg was the most exact and settled gentleman in the United Kingdom", 
+      "is_verb": "false", 
+      "l": "kingdom", 
+      "timepoint": 0, 
+      "r": "United", 
+      "relation": "has_property", 
+      "storypoints": 25
+    }, 
+    {
+      "index": 12, 
+      "sentence": "I have come to monsieur in the hope of living with him a tranquil life", 
+      "is_verb": "false", 
+      "l": "life", 
+      "timepoint": 0, 
+      "r": "tranquil", 
+      "relation": "has_property", 
+      "storypoints": 26
+    }
+  ], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "Passepartout suits me", 
+      "is_verb": "false", 
+      "l": "suits", 
+      "timepoint": 0, 
+      "r": "Passepartout", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "responded Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "responded", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "You are well recommended to me; I hear a good report of you", 
+      "is_verb": "false", 
+      "l": "report", 
+      "timepoint": 0, 
+      "r": "good", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "22": [], 
+  "23": [], 
+  "24": [
+    {
+      "index": 0, 
+      "sentence": "Twenty-two minutes after eleven", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "returned Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 1, 
+      "r": "returned", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "drawing an enormous silver watch from the depths of his pocket", 
+      "is_verb": "false", 
+      "l": "silver", 
+      "timepoint": 1, 
+      "r": "enormous", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "25": [], 
+  "26": [], 
+  "27": [
+    {
+      "index": 0, 
+      "sentence": "twenty-nine minutes after eleven", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "2nd October", 
+      "is_verb": "false", 
+      "l": "october", 
+      "timepoint": 1, 
+      "r": "2nd", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "28": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg got up", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "put it on his head with an automatic motion", 
+      "is_verb": "false", 
+      "l": "motion", 
+      "timepoint": 0, 
+      "r": "automatic", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "29": [
+    {
+      "index": 0, 
+      "sentence": "Passepartout heard the street door shut once; it was his new master going out", 
+      "is_verb": "false", 
+      "l": "door", 
+      "timepoint": 0, 
+      "r": "street", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Passepartout heard the street door shut once; it was his new master going out", 
+      "is_verb": "false", 
+      "l": "master", 
+      "timepoint": 0, 
+      "r": "new", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "James Forster", 
+      "is_verb": "false", 
+      "l": "forster", 
+      "timepoint": 0, 
+      "r": "James", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Passepartout remained alone in the house in Saville Row", 
+      "is_verb": "false", 
+      "l": "row", 
+      "timepoint": 0, 
+      "r": "Saville", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ]
+}

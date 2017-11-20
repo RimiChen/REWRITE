@@ -1,0 +1,1155 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH THE BAG OF BANKNOTES DISGORGES SOME THOUSANDS OF POUNDS MORE ", 
+      "is_verb": "false", 
+      "l": "disgorges", 
+      "timepoint": 0, 
+      "r": "BANKNOTES", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "who assisted his fair companion to descend", 
+      "is_verb": "false", 
+      "l": "companion", 
+      "timepoint": 0, 
+      "r": "fair", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg intended to proceed at once to the Hong Kong steamer", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Phileas Fogg intended to proceed at once to the Hong Kong steamer", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "He was unwilling to leave her while they were still on dangerous ground", 
+      "is_verb": "false", 
+      "l": "ground", 
+      "timepoint": 0, 
+      "r": "dangerous", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "6": [], 
+  "7": [], 
+  "8": [], 
+  "9": [], 
+  "10": [], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "May this young lady go with us", 
+      "is_verb": "false", 
+      "l": "lady", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "12": [], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "a sort of four-wheeled carriage", 
+      "is_verb": "false", 
+      "l": "carriage", 
+      "timepoint": 0, 
+      "r": "four-wheeled", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "No one spoke during the twenty minutes which elapsed before they reached their destination", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 2, 
+      "sentence": "black town", 
+      "is_verb": "false", 
+      "l": "town", 
+      "timepoint": -1, 
+      "r": "black", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 3, 
+      "sentence": "with its narrow streets", 
+      "is_verb": "false", 
+      "l": "streets", 
+      "timepoint": -1, 
+      "r": "narrow", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 4, 
+      "sentence": "dirty huts", 
+      "is_verb": "false", 
+      "l": "huts", 
+      "timepoint": -1, 
+      "r": "dirty", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and squalid population; then through the", 
+      "is_verb": "false", 
+      "l": "population", 
+      "timepoint": -1, 
+      "r": "squalid", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 6, 
+      "sentence": "European town", 
+      "is_verb": "false", 
+      "l": "town", 
+      "timepoint": -1, 
+      "r": "European", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 7, 
+      "sentence": "which presented a relief in its bright brick mansions", 
+      "is_verb": "false", 
+      "l": "mansions", 
+      "timepoint": -1, 
+      "r": "brick", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 8, 
+      "sentence": "which presented a relief in its bright brick mansions", 
+      "is_verb": "false", 
+      "l": "brick", 
+      "timepoint": -1, 
+      "r": "bright", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 9, 
+      "sentence": "elegantly dressed horsemen and handsome equipages were passing back and forth", 
+      "is_verb": "false", 
+      "l": "horsemen", 
+      "timepoint": -1, 
+      "r": "dressed", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 10, 
+      "sentence": "elegantly dressed horsemen and handsome equipages were passing back and forth", 
+      "is_verb": "false", 
+      "l": "equipages", 
+      "timepoint": -1, 
+      "r": "handsome", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }
+  ], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "The carriage stopped before a modest-looking house", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "did not have the appearance of a private mansion", 
+      "is_verb": "false", 
+      "l": "mansion", 
+      "timepoint": -1, 
+      "r": "private", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "conducted them into a room with barred windows", 
+      "is_verb": "false", 
+      "l": "windows", 
+      "timepoint": -1, 
+      "r": "barred", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 3, 
+      "sentence": "You will appear before Judge Obadiah at half-past eight", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -2, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 4, 
+      "sentence": "You will appear before Judge Obadiah at half-past eight", 
+      "is_verb": "false", 
+      "l": "obadiah", 
+      "timepoint": -2, 
+      "r": "Judge", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "15": [], 
+  "16": [
+    {
+      "index": 0, 
+      "sentence": "exclaimed Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "exclaimed", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "17": [], 
+  "18": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg contented himself with saying that it was impossible", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "but would escort her to Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "observed Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "observed", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "20": [], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "Parbleu that's certain", 
+      "is_verb": "false", 
+      "l": "that's", 
+      "timepoint": 0, 
+      "r": "Parbleu", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Before noon we shall be on board", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }
+  ], 
+  "22": [], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "Immediately after", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Judge Obadiah", 
+      "is_verb": "false", 
+      "l": "obadiah", 
+      "timepoint": 1, 
+      "r": "Judge", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "round man", 
+      "is_verb": "false", 
+      "l": "man", 
+      "timepoint": 1, 
+      "r": "round", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "24": [
+    {
+      "index": 0, 
+      "sentence": "The first case", 
+      "is_verb": "false", 
+      "l": "case", 
+      "timepoint": 0, 
+      "r": "first", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "25": [], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "My dear Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "dear", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "how can a judge give a wise sentence in a clerk's wig", 
+      "is_verb": "false", 
+      "l": "wig", 
+      "timepoint": 0, 
+      "r": "clerk's", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "how can a judge give a wise sentence in a clerk's wig", 
+      "is_verb": "false", 
+      "l": "sentence", 
+      "timepoint": 0, 
+      "r": "wise", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "27": [], 
+  "28": [
+    {
+      "index": 0, 
+      "sentence": "for the hands on the face of the big clock over the judge seemed to go around with terrible rapidity", 
+      "is_verb": "false", 
+      "l": "clock", 
+      "timepoint": 0, 
+      "r": "big", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "for the hands on the face of the big clock over the judge seemed to go around with terrible rapidity", 
+      "is_verb": "false", 
+      "l": "rapidity", 
+      "timepoint": 0, 
+      "r": "terrible", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "29": [
+    {
+      "index": 0, 
+      "sentence": "The first case", 
+      "is_verb": "false", 
+      "l": "case", 
+      "timepoint": 0, 
+      "r": "first", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "repeated Judge Obadiah", 
+      "is_verb": "false", 
+      "l": "obadiah", 
+      "timepoint": 0, 
+      "r": "Judge", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "repeated Judge Obadiah", 
+      "is_verb": "false", 
+      "l": "judge", 
+      "timepoint": 0, 
+      "r": "repeated", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "30": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "demanded Oysterpuff", 
+      "is_verb": "false", 
+      "l": "oysterpuff", 
+      "timepoint": 0, 
+      "r": "demanded", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "31": [
+    {
+      "index": 0, 
+      "sentence": "replied Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "32": [], 
+  "33": [
+    {
+      "index": 0, 
+      "sentence": "responded Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "responded", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "34": [], 
+  "35": [
+    {
+      "index": 0, 
+      "sentence": "asked Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "asked", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "36": [], 
+  "37": [
+    {
+      "index": 0, 
+      "sentence": "I am an English subject", 
+      "is_verb": "false", 
+      "l": "subject", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "38": [], 
+  "39": [], 
+  "40": [], 
+  "41": [
+    {
+      "index": 0, 
+      "sentence": "and three Indian priests entered", 
+      "is_verb": "false", 
+      "l": "priests", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "42": [
+    {
+      "index": 0, 
+      "sentence": "muttered Passepartout;", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "muttered", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "these are the rogues who were going to burn our young lady", 
+      "is_verb": "false", 
+      "l": "lady", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "43": [
+    {
+      "index": 0, 
+      "sentence": "and the clerk proceeded to read in a loud voice a complaint of sacrilege against Phileas Fogg and his servant", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and the clerk proceeded to read in a loud voice a complaint of sacrilege against Phileas Fogg and his servant", 
+      "is_verb": "false", 
+      "l": "voice", 
+      "timepoint": 0, 
+      "r": "loud", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "who were accused of having violated a place held consecrated by the Brahmin religion", 
+      "is_verb": "false", 
+      "l": "religion", 
+      "timepoint": 0, 
+      "r": "Brahmin", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "44": [], 
+  "45": [
+    {
+      "index": 0, 
+      "sentence": "replied Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "46": [], 
+  "47": [], 
+  "48": [], 
+  "49": [
+    {
+      "index": 0, 
+      "sentence": "cried Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "50": [], 
+  "51": [
+    {
+      "index": 0, 
+      "sentence": "said Judge Obadiah", 
+      "is_verb": "false", 
+      "l": "obadiah", 
+      "timepoint": 0, 
+      "r": "Judge", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "52": [
+    {
+      "index": 0, 
+      "sentence": "cried Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "53": [
+    {
+      "index": 0, 
+      "sentence": "but of the pagoda of Malabar Hill", 
+      "is_verb": "false", 
+      "l": "hill", 
+      "timepoint": 0, 
+      "r": "Malabar", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "54": [], 
+  "55": [], 
+  "56": [
+    {
+      "index": 0, 
+      "sentence": "cried Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "in his surprise permitting this imprudent exclamation to escape him", 
+      "is_verb": "false", 
+      "l": "exclamation", 
+      "timepoint": 0, 
+      "r": "imprudent", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "57": [], 
+  "58": [
+    {
+      "index": 0, 
+      "sentence": "had foreseen the advantage which Passepartout's escapade gave him", 
+      "is_verb": "false", 
+      "l": "escapade", 
+      "timepoint": 0, 
+      "r": "Passepartout's", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "had consulted the priests of Malabar Hill", 
+      "is_verb": "false", 
+      "l": "hill", 
+      "timepoint": 0, 
+      "r": "Malabar", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Knowing that the English authorities dealt very severely with this kind of misdemeanour", 
+      "is_verb": "false", 
+      "l": "authorities", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and sent them forward to Calcutta by the next train", 
+      "is_verb": "false", 
+      "l": "train", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Owing to the delay caused by the rescue of the young widow", 
+      "is_verb": "false", 
+      "l": "widow", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Fix and the priests reached the Indian capital before Mr", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Fix's disappointment when he learned that Phileas Fogg had not made his appearance in Calcutta may be imagined", 
+      "is_verb": "false", 
+      "l": "disappointment", 
+      "timepoint": -1, 
+      "r": "Fix's", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 7, 
+      "sentence": "Fix's disappointment when he learned that Phileas Fogg had not made his appearance in Calcutta may be imagined", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": -1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 8, 
+      "sentence": "He made up his mind that the robber had stopped somewhere on the route and taken refuge in the southern provinces", 
+      "is_verb": "false", 
+      "l": "provinces", 
+      "timepoint": -1, 
+      "r": "southern", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 9, 
+      "sentence": "For twenty-four hours Fix watched the station with feverish anxiety; at last he was rewarded by seeing Mr", 
+      "is_verb": "false", 
+      "l": "anxiety", 
+      "timepoint": -1, 
+      "r": "feverish", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 10, 
+      "sentence": "accompanied by a young woman", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": -1, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 11, 
+      "sentence": "He hastened for a policeman; and this was how the party came to be arrested and brought before Judge Obadiah", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -2, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 12, 
+      "sentence": "He hastened for a policeman; and this was how the party came to be arrested and brought before Judge Obadiah", 
+      "is_verb": "false", 
+      "l": "obadiah", 
+      "timepoint": -2, 
+      "r": "Judge", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }
+  ], 
+  "59": [], 
+  "60": [
+    {
+      "index": 0, 
+      "sentence": "Judge Obadiah had unfortunately caught Passepartout's rash exclamation", 
+      "is_verb": "false", 
+      "l": "obadiah", 
+      "timepoint": 0, 
+      "r": "Judge", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Judge Obadiah had unfortunately caught Passepartout's rash exclamation", 
+      "is_verb": "false", 
+      "l": "rash", 
+      "timepoint": 0, 
+      "r": "Passepartout's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "which the poor fellow would have given the world to recall", 
+      "is_verb": "false", 
+      "l": "fellow", 
+      "timepoint": 0, 
+      "r": "poor", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "61": [], 
+  "62": [
+    {
+      "index": 0, 
+      "sentence": "replied Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "63": [
+    {
+      "index": 0, 
+      "sentence": "as the English law protects equally and sternly the religions of the Indian people", 
+      "is_verb": "false", 
+      "l": "law", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 1, 
+      "sentence": "as the English law protects equally and sternly the religions of the Indian people", 
+      "is_verb": "false", 
+      "l": "people", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and as the man Passepartout has admitted that he violated the sacred pagoda of Malabar Hill", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "man", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and as the man Passepartout has admitted that he violated the sacred pagoda of Malabar Hill", 
+      "is_verb": "false", 
+      "l": "hill", 
+      "timepoint": 0, 
+      "r": "Malabar", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and as the man Passepartout has admitted that he violated the sacred pagoda of Malabar Hill", 
+      "is_verb": "false", 
+      "l": "pagoda", 
+      "timepoint": 0, 
+      "r": "sacred", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 5, 
+      "sentence": "I condemn the said Passepartout to imprisonment for fifteen days and a fine of three hundred pounds", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "said", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "64": [
+    {
+      "index": 0, 
+      "sentence": "cried Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "65": [], 
+  "66": [
+    {
+      "index": 0, 
+      "sentence": "I condemn Phileas Fogg to a week's imprisonment and a fine of one hundred and fifty pounds", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 1, 
+      "sentence": "I condemn Phileas Fogg to a week's imprisonment and a fine of one hundred and fifty pounds", 
+      "is_verb": "false", 
+      "l": "imprisonment", 
+      "timepoint": 0, 
+      "r": "week's", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "67": [
+    {
+      "index": 0, 
+      "sentence": "Fix rubbed his hands softly with satisfaction; if Phileas Fogg could be detained in Calcutta a week", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "like a precious fool", 
+      "is_verb": "false", 
+      "l": "fool", 
+      "timepoint": 0, 
+      "r": "precious", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "had gone into that abominable pagoda", 
+      "is_verb": "false", 
+      "l": "pagoda", 
+      "timepoint": 0, 
+      "r": "abominable", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "68": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "as self-composed as if the judgment did not in the least concern him", 
+      "is_verb": "false", 
+      "l": "concern", 
+      "timepoint": 0, 
+      "r": "least", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Just as the clerk was calling the next case", 
+      "is_verb": "false", 
+      "l": "case", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "69": [], 
+  "70": [
+    {
+      "index": 0, 
+      "sentence": "Fix's blood ran cold", 
+      "is_verb": "false", 
+      "l": "blood", 
+      "timepoint": 0, 
+      "r": "Fix's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "71": [
+    {
+      "index": 0, 
+      "sentence": "and placing them on the clerk's desk", 
+      "is_verb": "false", 
+      "l": "desk", 
+      "timepoint": 0, 
+      "r": "clerk's", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "72": [], 
+  "73": [
+    {
+      "index": 0, 
+      "sentence": "said Phileas Fogg to his servant", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "74": [
+    {
+      "index": 0, 
+      "sentence": "cried Passepartout angrily", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "75": [
+    {
+      "index": 0, 
+      "sentence": "these are pretty dear shoes", 
+      "is_verb": "false", 
+      "l": "shoes", 
+      "timepoint": 0, 
+      "r": "dear", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "76": [
+    {
+      "index": 0, 
+      "sentence": "followed by the crestfallen Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "crestfallen", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "after all", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Fogg's traces", 
+      "is_verb": "false", 
+      "l": "traces", 
+      "timepoint": 1, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "77": [
+    {
+      "index": 0, 
+      "sentence": "The Rangoon was moored half a mile off in the harbour", 
+      "is_verb": "false", 
+      "l": "half", 
+      "timepoint": 0, 
+      "r": "moored", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "78": [
+    {
+      "index": 0, 
+      "sentence": "after all", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 2
+    }
+  ], 
+  "79": [
+    {
+      "index": 0, 
+      "sentence": "and the percentage of the sum recovered from the bank robber promised to the detectives", 
+      "is_verb": "false", 
+      "l": "robber", 
+      "timepoint": 0, 
+      "r": "bank", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ]
+}

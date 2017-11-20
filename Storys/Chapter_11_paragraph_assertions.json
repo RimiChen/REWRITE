@@ -1,0 +1,1737 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH PHILEAS FOGG SECURES A CURIOUS MEANS OF CONVEYANCE AT A FABULOUS PRICE ", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "PHILEAS", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "IN WHICH PHILEAS FOGG SECURES A CURIOUS MEANS OF CONVEYANCE AT A FABULOUS PRICE ", 
+      "is_verb": "false", 
+      "l": "price", 
+      "timepoint": 0, 
+      "r": "FABULOUS", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "Government officials", 
+      "is_verb": "false", 
+      "l": "officials", 
+      "timepoint": 0, 
+      "r": "Government", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and opium and indigo merchants", 
+      "is_verb": "false", 
+      "l": "merchants", 
+      "timepoint": 0, 
+      "r": "indigo", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "whose business called them to the eastern coast", 
+      "is_verb": "false", 
+      "l": "coast", 
+      "timepoint": 0, 
+      "r": "eastern", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Passepartout rode in the same carriage with his master", 
+      "is_verb": "false", 
+      "l": "carriage", 
+      "timepoint": 0, 
+      "r": "same", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and a third passenger occupied a seat opposite to them", 
+      "is_verb": "false", 
+      "l": "passenger", 
+      "timepoint": 0, 
+      "r": "third", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 5, 
+      "sentence": "This was Sir Francis Cromarty", 
+      "is_verb": "false", 
+      "l": "sir", 
+      "timepoint": 0, 
+      "r": "was", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Fogg's whist partners on the Mongolia", 
+      "is_verb": "false", 
+      "l": "whist", 
+      "timepoint": 0, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 7, 
+      "sentence": "Sir Francis was a tall", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 8, 
+      "sentence": "fair man of fifty", 
+      "is_verb": "false", 
+      "l": "man", 
+      "timepoint": 0, 
+      "r": "fair", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 9, 
+      "sentence": "who had greatly distinguished himself in the last Sepoy revolt", 
+      "is_verb": "false", 
+      "l": "revolt", 
+      "timepoint": 0, 
+      "r": "Sepoy", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 10, 
+      "sentence": "who had greatly distinguished himself in the last Sepoy revolt", 
+      "is_verb": "false", 
+      "l": "sepoy", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 11, 
+      "sentence": "only paying brief visits to England at rare intervals; and was almost as familiar as a native with the customs", 
+      "is_verb": "false", 
+      "l": "visits", 
+      "timepoint": 0, 
+      "r": "brief", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 12, 
+      "sentence": "only paying brief visits to England at rare intervals; and was almost as familiar as a native with the customs", 
+      "is_verb": "false", 
+      "l": "intervals", 
+      "timepoint": 0, 
+      "r": "rare", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 13, 
+      "sentence": "But Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 14, 
+      "sentence": "took no pains to inquire into these subjects; he was a solid body", 
+      "is_verb": "false", 
+      "l": "body", 
+      "timepoint": 0, 
+      "r": "solid", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 15, 
+      "sentence": "traversing an orbit around the terrestrial globe", 
+      "is_verb": "false", 
+      "l": "globe", 
+      "timepoint": 0, 
+      "r": "terrestrial", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }, 
+    {
+      "index": 16, 
+      "sentence": "according to the laws of rational mechanics", 
+      "is_verb": "false", 
+      "l": "mechanics", 
+      "timepoint": 0, 
+      "r": "rational", 
+      "relation": "has_property", 
+      "storypoints": 23
+    }, 
+    {
+      "index": 17, 
+      "sentence": "had it been in his nature to make a useless demonstration", 
+      "is_verb": "false", 
+      "l": "demonstration", 
+      "timepoint": 0, 
+      "r": "useless", 
+      "relation": "has_property", 
+      "storypoints": 26
+    }, 
+    {
+      "index": 18, 
+      "sentence": "Sir Francis Cromarty had observed the oddity of his travelling companion--although the only opportunity he had for studying him had been while he was dealing the cards", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 28
+    }, 
+    {
+      "index": 19, 
+      "sentence": "and between two rubbers--and questioned himself whether a human heart really beat beneath this cold exterior", 
+      "is_verb": "false", 
+      "l": "heart", 
+      "timepoint": 0, 
+      "r": "human", 
+      "relation": "has_property", 
+      "storypoints": 29
+    }, 
+    {
+      "index": 20, 
+      "sentence": "and whether Phileas Fogg had any sense of the beauties of nature", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 30
+    }, 
+    {
+      "index": 21, 
+      "sentence": "of all the eccentric persons he had ever met", 
+      "is_verb": "false", 
+      "l": "persons", 
+      "timepoint": 0, 
+      "r": "eccentric", 
+      "relation": "has_property", 
+      "storypoints": 32
+    }, 
+    {
+      "index": 22, 
+      "sentence": "none was comparable to this product of the exact sciences", 
+      "is_verb": "false", 
+      "l": "sciences", 
+      "timepoint": 0, 
+      "r": "exact", 
+      "relation": "has_property", 
+      "storypoints": 33
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg had not concealed from Sir Francis his design of going round the world", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg had not concealed from Sir Francis his design of going round the world", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "nor the circumstances under which he set out; and the general only saw in the wager a useless eccentricity and a lack of sound common sense", 
+      "is_verb": "false", 
+      "l": "eccentricity", 
+      "timepoint": 0, 
+      "r": "useless", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "nor the circumstances under which he set out; and the general only saw in the wager a useless eccentricity and a lack of sound common sense", 
+      "is_verb": "false", 
+      "l": "sense", 
+      "timepoint": 0, 
+      "r": "common", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 4, 
+      "sentence": "In the way this strange gentleman was going on", 
+      "is_verb": "false", 
+      "l": "gentleman", 
+      "timepoint": 0, 
+      "r": "strange", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "An hour after leaving Bombay the train had passed the viaducts and the Island of Salcette", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and had got into the open country", 
+      "is_verb": "false", 
+      "l": "country", 
+      "timepoint": 1, 
+      "r": "open", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "At Callyan they reached the junction of the branch line which descends towards south-eastern India by Kandallah and Pounah; and", 
+      "is_verb": "false", 
+      "l": "line", 
+      "timepoint": 1, 
+      "r": "branch", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "At Callyan they reached the junction of the branch line which descends towards south-eastern India by Kandallah and Pounah; and", 
+      "is_verb": "false", 
+      "l": "india", 
+      "timepoint": 1, 
+      "r": "south-eastern", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 4, 
+      "sentence": "with their basalt bases", 
+      "is_verb": "false", 
+      "l": "bases", 
+      "timepoint": 1, 
+      "r": "basalt", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and their summits crowned with thick and verdant forests", 
+      "is_verb": "false", 
+      "l": "forests", 
+      "timepoint": 1, 
+      "r": "verdant", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Phileas Fogg and Sir Francis Cromarty exchanged a few words from time to time", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 7, 
+      "sentence": "Phileas Fogg and Sir Francis Cromarty exchanged a few words from time to time", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 1, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 8, 
+      "sentence": "Phileas Fogg and Sir Francis Cromarty exchanged a few words from time to time", 
+      "is_verb": "false", 
+      "l": "words", 
+      "timepoint": 1, 
+      "r": "few", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 9, 
+      "sentence": "and now Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 1, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "8": [
+    {
+      "index": 0, 
+      "sentence": "on the other side", 
+      "is_verb": "false", 
+      "l": "side", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "9": [
+    {
+      "index": 0, 
+      "sentence": "I have constantly foreseen the likelihood of certain obstacles", 
+      "is_verb": "false", 
+      "l": "obstacles", 
+      "timepoint": 0, 
+      "r": "certain", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "pursued Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 1, 
+      "sentence": "pursued Sir Francis", 
+      "is_verb": "false", 
+      "l": "sir", 
+      "timepoint": 0, 
+      "r": "pursued", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "you run the risk of having some difficulty about this worthy fellow's adventure at the pagoda", 
+      "is_verb": "false", 
+      "l": "adventure", 
+      "timepoint": 0, 
+      "r": "fellow's", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 3, 
+      "sentence": "you run the risk of having some difficulty about this worthy fellow's adventure at the pagoda", 
+      "is_verb": "false", 
+      "l": "fellow's", 
+      "timepoint": 0, 
+      "r": "worthy", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "It takes particular care that the religious customs of the Indians should be respected", 
+      "is_verb": "false", 
+      "l": "care", 
+      "timepoint": 0, 
+      "r": "particular", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 5, 
+      "sentence": "It takes particular care that the religious customs of the Indians should be respected", 
+      "is_verb": "false", 
+      "l": "customs", 
+      "timepoint": 0, 
+      "r": "religious", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "replied Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "and passed Nassik", 
+      "is_verb": "false", 
+      "l": "nassik", 
+      "timepoint": 0, 
+      "r": "passed", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and the next day proceeded over the flat", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "well-cultivated country of the Khandeish", 
+      "is_verb": "false", 
+      "l": "country", 
+      "timepoint": 0, 
+      "r": "well-cultivated", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "This fertile territory is watered by numerous small rivers and limpid streams", 
+      "is_verb": "false", 
+      "l": "territory", 
+      "timepoint": 0, 
+      "r": "fertile", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "This fertile territory is watered by numerous small rivers and limpid streams", 
+      "is_verb": "false", 
+      "l": "rivers", 
+      "timepoint": 0, 
+      "r": "small", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 5, 
+      "sentence": "This fertile territory is watered by numerous small rivers and limpid streams", 
+      "is_verb": "false", 
+      "l": "streams", 
+      "timepoint": 0, 
+      "r": "limpid", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "could not realise that he was actually crossing India in a railway train", 
+      "is_verb": "false", 
+      "l": "train", 
+      "timepoint": 0, 
+      "r": "railway", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "guided by an English engineer and fed with English coal", 
+      "is_verb": "false", 
+      "l": "engineer", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and pepper plantations", 
+      "is_verb": "false", 
+      "l": "plantations", 
+      "timepoint": 0, 
+      "r": "pepper", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 3, 
+      "sentence": "in the midst of which were seen picturesque bungalows", 
+      "is_verb": "false", 
+      "l": "bungalows", 
+      "timepoint": 0, 
+      "r": "picturesque", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 4, 
+      "sentence": "viharis (sort of abandoned monasteries)", 
+      "is_verb": "false", 
+      "l": "monasteries", 
+      "timepoint": 0, 
+      "r": "abandoned", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and marvellous temples enriched by the exhaustless ornamentation of Indian architecture", 
+      "is_verb": "false", 
+      "l": "temples", 
+      "timepoint": 0, 
+      "r": "marvellous", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and marvellous temples enriched by the exhaustless ornamentation of Indian architecture", 
+      "is_verb": "false", 
+      "l": "ornamentation", 
+      "timepoint": 0, 
+      "r": "exhaustless", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and marvellous temples enriched by the exhaustless ornamentation of Indian architecture", 
+      "is_verb": "false", 
+      "l": "architecture", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 8, 
+      "sentence": "Then they came upon vast tracts extending to the horizon", 
+      "is_verb": "false", 
+      "l": "tracts", 
+      "timepoint": 0, 
+      "r": "vast", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 9, 
+      "sentence": "with pensive eyes", 
+      "is_verb": "false", 
+      "l": "eyes", 
+      "timepoint": 0, 
+      "r": "pensive", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 10, 
+      "sentence": "the fatal country so often stained with blood by the sectaries of the goddess Kali", 
+      "is_verb": "false", 
+      "l": "country", 
+      "timepoint": 0, 
+      "r": "fatal", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }, 
+    {
+      "index": 11, 
+      "sentence": "with its graceful pagodas", 
+      "is_verb": "false", 
+      "l": "pagodas", 
+      "timepoint": 0, 
+      "r": "graceful", 
+      "relation": "has_property", 
+      "storypoints": 24
+    }, 
+    {
+      "index": 12, 
+      "sentence": "and the famous Aurungabad", 
+      "is_verb": "false", 
+      "l": "aurungabad", 
+      "timepoint": 0, 
+      "r": "famous", 
+      "relation": "has_property", 
+      "storypoints": 25
+    }, 
+    {
+      "index": 13, 
+      "sentence": "capital of the ferocious Aureng-Zeb", 
+      "is_verb": "false", 
+      "l": "aureng-zeb", 
+      "timepoint": 0, 
+      "r": "ferocious", 
+      "relation": "has_property", 
+      "storypoints": 26
+    }, 
+    {
+      "index": 14, 
+      "sentence": "now the chief town of one of the detached provinces of the kingdom of the Nizam", 
+      "is_verb": "false", 
+      "l": "town", 
+      "timepoint": 0, 
+      "r": "chief", 
+      "relation": "has_property", 
+      "storypoints": 27
+    }, 
+    {
+      "index": 15, 
+      "sentence": "now the chief town of one of the detached provinces of the kingdom of the Nizam", 
+      "is_verb": "false", 
+      "l": "provinces", 
+      "timepoint": 0, 
+      "r": "detached", 
+      "relation": "has_property", 
+      "storypoints": 27
+    }, 
+    {
+      "index": 16, 
+      "sentence": "united by a secret bond", 
+      "is_verb": "false", 
+      "l": "bond", 
+      "timepoint": 0, 
+      "r": "secret", 
+      "relation": "has_property", 
+      "storypoints": 33
+    }, 
+    {
+      "index": 17, 
+      "sentence": "strangled victims of every age in honour of the goddess Death", 
+      "is_verb": "false", 
+      "l": "death", 
+      "timepoint": 0, 
+      "r": "goddess", 
+      "relation": "has_property", 
+      "storypoints": 34
+    }, 
+    {
+      "index": 18, 
+      "sentence": "strangled victims of every age in honour of the goddess Death", 
+      "is_verb": "false", 
+      "l": "victims", 
+      "timepoint": 0, 
+      "r": "strangled", 
+      "relation": "has_property", 
+      "storypoints": 34
+    }, 
+    {
+      "index": 19, 
+      "sentence": "The English Government has succeeded in greatly diminishing these murders", 
+      "is_verb": "false", 
+      "l": "government", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 36
+    }, 
+    {
+      "index": 20, 
+      "sentence": "and pursue the exercise of their horrible rites", 
+      "is_verb": "false", 
+      "l": "rites", 
+      "timepoint": 0, 
+      "r": "horrible", 
+      "relation": "has_property", 
+      "storypoints": 38
+    }
+  ], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "At half-past twelve the train stopped at Burhampoor where Passepartout was able to purchase some Indian slippers", 
+      "is_verb": "false", 
+      "l": "slippers", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "ornamented with false pearls", 
+      "is_verb": "false", 
+      "l": "pearls", 
+      "timepoint": 0, 
+      "r": "false", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "with evident vanity", 
+      "is_verb": "false", 
+      "l": "vanity", 
+      "timepoint": 0, 
+      "r": "evident", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The travellers made a hasty breakfast and started off for Assurghur", 
+      "is_verb": "false", 
+      "l": "breakfast", 
+      "timepoint": 0, 
+      "r": "hasty", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "after skirting for a little the banks of the small river Tapty", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 5, 
+      "sentence": "after skirting for a little the banks of the small river Tapty", 
+      "is_verb": "false", 
+      "l": "tapty", 
+      "timepoint": 1, 
+      "r": "river", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 6, 
+      "sentence": "after skirting for a little the banks of the small river Tapty", 
+      "is_verb": "false", 
+      "l": "river", 
+      "timepoint": 1, 
+      "r": "small", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "a sudden change had come over the spirit of his dreams", 
+      "is_verb": "false", 
+      "l": "change", 
+      "timepoint": 0, 
+      "r": "sudden", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "His old vagabond nature returned to him; the fantastic ideas of his youth once more took possession of him", 
+      "is_verb": "false", 
+      "l": "nature", 
+      "timepoint": 0, 
+      "r": "vagabond", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "His old vagabond nature returned to him; the fantastic ideas of his youth once more took possession of him", 
+      "is_verb": "false", 
+      "l": "vagabond", 
+      "timepoint": 0, 
+      "r": "old", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "His old vagabond nature returned to him; the fantastic ideas of his youth once more took possession of him", 
+      "is_verb": "false", 
+      "l": "ideas", 
+      "timepoint": 0, 
+      "r": "fantastic", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "He came to regard his master's project as intended in good earnest", 
+      "is_verb": "false", 
+      "l": "project", 
+      "timepoint": 0, 
+      "r": "master's", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 5, 
+      "sentence": "He came to regard his master's project as intended in good earnest", 
+      "is_verb": "false", 
+      "l": "earnest", 
+      "timepoint": 0, 
+      "r": "good", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and therefore in the tour of the world and the necessity of making it without fail within the designated period", 
+      "is_verb": "false", 
+      "l": "period", 
+      "timepoint": 0, 
+      "r": "designated", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 7, 
+      "sentence": "Already he began to worry about possible delays", 
+      "is_verb": "false", 
+      "l": "delays", 
+      "timepoint": 0, 
+      "r": "possible", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 8, 
+      "sentence": "and trembled at the thought that he might have been the means of losing it by his unpardonable folly of the night before", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 9, 
+      "sentence": "The worthy fellow was ignorant that", 
+      "is_verb": "false", 
+      "l": "fellow", 
+      "timepoint": -1, 
+      "r": "worthy", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }
+  ], 
+  "16": [
+    {
+      "index": 0, 
+      "sentence": "The train entered the defiles of the Sutpour Mountains", 
+      "is_verb": "false", 
+      "l": "mountains", 
+      "timepoint": 0, 
+      "r": "Sutpour", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The next day Sir Francis Cromarty asked Passepartout what time it was; to which", 
+      "is_verb": "false", 
+      "l": "sir", 
+      "timepoint": 0, 
+      "r": "day", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "The next day Sir Francis Cromarty asked Passepartout what time it was; to which", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The next day Sir Francis Cromarty asked Passepartout what time it was; to which", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "asked", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 4, 
+      "sentence": "This famous timepiece", 
+      "is_verb": "false", 
+      "l": "timepiece", 
+      "timepoint": 0, 
+      "r": "famous", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 5, 
+      "sentence": "always regulated on the Greenwich meridian", 
+      "is_verb": "false", 
+      "l": "meridian", 
+      "timepoint": 0, 
+      "r": "Greenwich", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 6, 
+      "sentence": "which was now some seventy-seven degrees westward", 
+      "is_verb": "false", 
+      "l": "degrees", 
+      "timepoint": 0, 
+      "r": "seventy-seven", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 7, 
+      "sentence": "Sir Francis corrected Passepartout's time", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 8, 
+      "sentence": "Sir Francis corrected Passepartout's time", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 0, 
+      "r": "Passepartout's", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 9, 
+      "sentence": "Sir Francis corrected Passepartout's time", 
+      "is_verb": "false", 
+      "l": "passepartout's", 
+      "timepoint": 0, 
+      "r": "corrected", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 10, 
+      "sentence": "whereupon the latter made the same remark that he had done to Fix; and upon the general insisting that the watch should be regulated in each new meridian", 
+      "is_verb": "false", 
+      "l": "remark", 
+      "timepoint": 0, 
+      "r": "same", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 11, 
+      "sentence": "whereupon the latter made the same remark that he had done to Fix; and upon the general insisting that the watch should be regulated in each new meridian", 
+      "is_verb": "false", 
+      "l": "meridian", 
+      "timepoint": 0, 
+      "r": "new", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 12, 
+      "sentence": "which he kept at London time", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 0, 
+      "r": "London", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 13, 
+      "sentence": "It was an innocent delusion which could harm no one", 
+      "is_verb": "false", 
+      "l": "delusion", 
+      "timepoint": 0, 
+      "r": "innocent", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }
+  ], 
+  "17": [
+    {
+      "index": 0, 
+      "sentence": "where there were several bungalows", 
+      "is_verb": "false", 
+      "l": "bungalows", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and workmen's cabins", 
+      "is_verb": "false", 
+      "l": "cabins", 
+      "timepoint": 0, 
+      "r": "workmen's", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "18": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg looked at Sir Francis Cromarty for an explanation; but the general could not tell what meant a halt in the midst of this forest of dates and acacias", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg looked at Sir Francis Cromarty for an explanation; but the general could not tell what meant a halt in the midst of this forest of dates and acacias", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "no more railway", 
+      "is_verb": "false", 
+      "l": "railway", 
+      "timepoint": 0, 
+      "r": "more", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "20": [
+    {
+      "index": 0, 
+      "sentence": "asked Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "asked Sir Francis", 
+      "is_verb": "false", 
+      "l": "sir", 
+      "timepoint": 0, 
+      "r": "asked", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "21": [], 
+  "22": [
+    {
+      "index": 0, 
+      "sentence": "while Phileas Fogg calmly followed him", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "asked Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "asked Sir Francis", 
+      "is_verb": "false", 
+      "l": "sir", 
+      "timepoint": 0, 
+      "r": "asked", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "24": [], 
+  "25": [], 
+  "26": [], 
+  "27": [], 
+  "28": [], 
+  "29": [], 
+  "30": [], 
+  "31": [
+    {
+      "index": 0, 
+      "sentence": "retorted Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "retorted Sir Francis", 
+      "is_verb": "false", 
+      "l": "sir", 
+      "timepoint": 0, 
+      "r": "retorted", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "32": [], 
+  "33": [
+    {
+      "index": 0, 
+      "sentence": "Sir Francis was furious", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "34": [
+    {
+      "index": 0, 
+      "sentence": "Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "35": [], 
+  "36": [
+    {
+      "index": 0, 
+      "sentence": "Sir Francis; it was foreseen", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "37": [], 
+  "38": [
+    {
+      "index": 0, 
+      "sentence": "A steamer leaves Calcutta for Hong Kong at noon", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "39": [], 
+  "40": [
+    {
+      "index": 0, 
+      "sentence": "The greater part of the travellers were aware of this interruption", 
+      "is_verb": "false", 
+      "l": "part", 
+      "timepoint": 0, 
+      "r": "greater", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "they began to engage such vehicles as the village could provide four-wheeled palkigharis", 
+      "is_verb": "false", 
+      "l": "vehicles", 
+      "timepoint": 0, 
+      "r": "such", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 2, 
+      "sentence": "they began to engage such vehicles as the village could provide four-wheeled palkigharis", 
+      "is_verb": "false", 
+      "l": "palkigharis", 
+      "timepoint": 0, 
+      "r": "four-wheeled", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "41": [
+    {
+      "index": 0, 
+      "sentence": "Fogg and Sir Francis Cromarty", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "after searching the village from end to end", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 2
+    }
+  ], 
+  "42": [
+    {
+      "index": 0, 
+      "sentence": "said Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "43": [
+    {
+      "index": 0, 
+      "sentence": "made a wry grimace", 
+      "is_verb": "false", 
+      "l": "grimace", 
+      "timepoint": 0, 
+      "r": "wry", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "but too frail Indian shoes", 
+      "is_verb": "false", 
+      "l": "shoes", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "but too frail Indian shoes", 
+      "is_verb": "false", 
+      "l": "indian", 
+      "timepoint": 0, 
+      "r": "frail", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "after a moment's hesitation", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "after a moment's hesitation", 
+      "is_verb": "false", 
+      "l": "hesitation", 
+      "timepoint": 1, 
+      "r": "moment's", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "44": [], 
+  "45": [], 
+  "46": [
+    {
+      "index": 0, 
+      "sentence": "replied Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "47": [
+    {
+      "index": 0, 
+      "sentence": "They soon reached a small hut", 
+      "is_verb": "false", 
+      "l": "hut", 
+      "timepoint": 0, 
+      "r": "small", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "enclosed within some high palings", 
+      "is_verb": "false", 
+      "l": "palings", 
+      "timepoint": 0, 
+      "r": "high", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "but for warlike purposes", 
+      "is_verb": "false", 
+      "l": "purposes", 
+      "timepoint": 0, 
+      "r": "warlike", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 3, 
+      "sentence": "this method being often employed by those who train the Indian elephants for battle", 
+      "is_verb": "false", 
+      "l": "elephants", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 4, 
+      "sentence": "the animal's instruction in this direction had not gone far", 
+      "is_verb": "false", 
+      "l": "instruction", 
+      "timepoint": 0, 
+      "r": "animal's", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and the elephant still preserved his natural gentleness", 
+      "is_verb": "false", 
+      "l": "gentleness", 
+      "timepoint": 0, 
+      "r": "natural", 
+      "relation": "has_property", 
+      "storypoints": 23
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Kiouni--this was the name of the beast--could doubtless travel rapidly for a long time", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 0, 
+      "r": "long", 
+      "relation": "has_property", 
+      "storypoints": 24
+    }, 
+    {
+      "index": 7, 
+      "sentence": "offering the excessive sum of ten pounds an hour for the loan of the beast to Allahabad", 
+      "is_verb": "false", 
+      "l": "sum", 
+      "timepoint": 0, 
+      "r": "excessive", 
+      "relation": "has_property", 
+      "storypoints": 40
+    }
+  ], 
+  "48": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "perhaps thinking he was going to make a great bargain", 
+      "is_verb": "false", 
+      "l": "bargain", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "49": [
+    {
+      "index": 0, 
+      "sentence": "Sir Francis Cromarty took Mr", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and begged him to reflect before he went any further; to which that gentleman replied that he was not in the habit of acting rashly", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "sharp eyes", 
+      "is_verb": "false", 
+      "l": "eyes", 
+      "timepoint": -1, 
+      "r": "sharp", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "50": [], 
+  "51": [
+    {
+      "index": 0, 
+      "sentence": "good heavens", 
+      "is_verb": "false", 
+      "l": "heavens", 
+      "timepoint": 0, 
+      "r": "good", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "cried Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "52": [
+    {
+      "index": 0, 
+      "sentence": "A young Parsee", 
+      "is_verb": "false", 
+      "l": "parsee", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "with an intelligent face", 
+      "is_verb": "false", 
+      "l": "face", 
+      "timepoint": 0, 
+      "r": "intelligent", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "who was an accomplished elephant driver", 
+      "is_verb": "false", 
+      "l": "driver", 
+      "timepoint": 0, 
+      "r": "elephant", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 3, 
+      "sentence": "who was an accomplished elephant driver", 
+      "is_verb": "false", 
+      "l": "elephant", 
+      "timepoint": 0, 
+      "r": "accomplished", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and attached to each of his flanks some curiously uncomfortable howdahs", 
+      "is_verb": "false", 
+      "l": "howdahs", 
+      "timepoint": 0, 
+      "r": "uncomfortable", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Phileas Fogg paid the Indian with some banknotes which he extracted from the famous carpet-bag", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Phileas Fogg paid the Indian with some banknotes which he extracted from the famous carpet-bag", 
+      "is_verb": "false", 
+      "l": "carpet-bag", 
+      "timepoint": 0, 
+      "r": "famous", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 7, 
+      "sentence": "a proceeding that seemed to deprive poor Passepartout of his vitals", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "poor", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 8, 
+      "sentence": "Then he offered to carry Sir Francis to Allahabad", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 9, 
+      "sentence": "as one traveller the more would not be likely to fatigue the gigantic beast", 
+      "is_verb": "false", 
+      "l": "beast", 
+      "timepoint": 0, 
+      "r": "gigantic", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 10, 
+      "sentence": "while Sir Francis and Mr", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 11, 
+      "sentence": "The Parsee perched himself on the elephant's neck", 
+      "is_verb": "false", 
+      "l": "neck", 
+      "timepoint": 0, 
+      "r": "elephant's", 
+      "relation": "has_property", 
+      "storypoints": 23
+    }, 
+    {
+      "index": 12, 
+      "sentence": "the animal marching off through the dense forest of palms by the shortest cut", 
+      "is_verb": "false", 
+      "l": "forest", 
+      "timepoint": 0, 
+      "r": "dense", 
+      "relation": "has_property", 
+      "storypoints": 25
+    }
+  ]
+}

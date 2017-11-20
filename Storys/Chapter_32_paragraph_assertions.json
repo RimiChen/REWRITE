@@ -1,0 +1,703 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH PHILEAS FOGG ENGAGES IN A DIRECT STRUGGLE WITH BAD FORTUNE ", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "PHILEAS", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "IN WHICH PHILEAS FOGG ENGAGES IN A DIRECT STRUGGLE WITH BAD FORTUNE ", 
+      "is_verb": "false", 
+      "l": "struggle", 
+      "timepoint": 0, 
+      "r": "DIRECT", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "IN WHICH PHILEAS FOGG ENGAGES IN A DIRECT STRUGGLE WITH BAD FORTUNE ", 
+      "is_verb": "false", 
+      "l": "fortune", 
+      "timepoint": 0, 
+      "r": "BAD", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "seemed to have carried off Phileas Fogg's last hope", 
+      "is_verb": "false", 
+      "l": "fogg's", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "seemed to have carried off Phileas Fogg's last hope", 
+      "is_verb": "false", 
+      "l": "hope", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "None of the other steamers were able to serve his projects", 
+      "is_verb": "false", 
+      "l": "steamers", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "of the French Transatlantic Company", 
+      "is_verb": "false", 
+      "l": "company", 
+      "timepoint": 0, 
+      "r": "Transatlantic", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "of the French Transatlantic Company", 
+      "is_verb": "false", 
+      "l": "transatlantic", 
+      "timepoint": 0, 
+      "r": "French", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "whose admirable steamers are equal to any in speed and comfort", 
+      "is_verb": "false", 
+      "l": "steamers", 
+      "timepoint": 0, 
+      "r": "admirable", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 6, 
+      "sentence": "did not leave until the 14th; the Hamburg boats did not go directly to Liverpool or London", 
+      "is_verb": "false", 
+      "l": "boats", 
+      "timepoint": 0, 
+      "r": "Hamburg", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 7, 
+      "sentence": "but to Havre; and the additional trip from Havre to Southampton would render Phileas Fogg's last efforts of no avail", 
+      "is_verb": "false", 
+      "l": "fogg's", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 8, 
+      "sentence": "but to Havre; and the additional trip from Havre to Southampton would render Phileas Fogg's last efforts of no avail", 
+      "is_verb": "false", 
+      "l": "trip", 
+      "timepoint": 0, 
+      "r": "additional", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 9, 
+      "sentence": "but to Havre; and the additional trip from Havre to Southampton would render Phileas Fogg's last efforts of no avail", 
+      "is_verb": "false", 
+      "l": "efforts", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 10, 
+      "sentence": "The Inman steamer did not depart till the next day", 
+      "is_verb": "false", 
+      "l": "steamer", 
+      "timepoint": 0, 
+      "r": "Inman", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 11, 
+      "sentence": "The Inman steamer did not depart till the next day", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "which gave him the daily movements of the trans-Atlantic steamers", 
+      "is_verb": "false", 
+      "l": "steamers", 
+      "timepoint": 0, 
+      "r": "trans-Atlantic", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "when he counted up the sums expended in pure loss and on his own account", 
+      "is_verb": "false", 
+      "l": "loss", 
+      "timepoint": 0, 
+      "r": "pure", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 1, 
+      "sentence": "when he counted up the sums expended in pure loss and on his own account", 
+      "is_verb": "false", 
+      "l": "account", 
+      "timepoint": 0, 
+      "r": "own", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "when he thought that the immense stake", 
+      "is_verb": "false", 
+      "l": "stake", 
+      "timepoint": 0, 
+      "r": "immense", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 3, 
+      "sentence": "added to the heavy charges of this useless journey", 
+      "is_verb": "false", 
+      "l": "charges", 
+      "timepoint": 0, 
+      "r": "heavy", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 4, 
+      "sentence": "added to the heavy charges of this useless journey", 
+      "is_verb": "false", 
+      "l": "journey", 
+      "timepoint": 0, 
+      "r": "useless", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "would completely ruin Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "ruin", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 6, 
+      "sentence": "he overwhelmed himself with bitter self-accusations", 
+      "is_verb": "false", 
+      "l": "self-accusations", 
+      "timepoint": 0, 
+      "r": "bitter", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 7, 
+      "sentence": "on leaving the Cunard pier", 
+      "is_verb": "false", 
+      "l": "pier", 
+      "timepoint": 0, 
+      "r": "Cunard", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "The party crossed the Hudson in the Jersey City ferryboat", 
+      "is_verb": "false", 
+      "l": "city", 
+      "timepoint": 0, 
+      "r": "Jersey", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Nicholas Hotel", 
+      "is_verb": "false", 
+      "l": "hotel", 
+      "timepoint": 0, 
+      "r": "Nicholas", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "briefly to Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "8": [
+    {
+      "index": 0, 
+      "sentence": "The next day was the 12th of December", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "From seven in the morning of the 12th to a quarter before nine in the evening of the 21st there were nine days", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "If Phileas Fogg had left in the China", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": -1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "one of the fastest steamers on the Atlantic", 
+      "is_verb": "false", 
+      "l": "steamers", 
+      "timepoint": -1, 
+      "r": "fastest", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "he would have reached Liverpool", 
+      "is_verb": "false", 
+      "l": "liverpool", 
+      "timepoint": -1, 
+      "r": "reached", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "9": [
+    {
+      "index": 0, 
+      "sentence": "after giving Passepartout instructions to await his return", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "after giving Passepartout instructions to await his return", 
+      "is_verb": "false", 
+      "l": "instructions", 
+      "timepoint": 1, 
+      "r": "Passepartout", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and inform Aouda to be ready at an instant's notice", 
+      "is_verb": "false", 
+      "l": "notice", 
+      "timepoint": 1, 
+      "r": "instant's", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Several had departure signals", 
+      "is_verb": "false", 
+      "l": "signals", 
+      "timepoint": 1, 
+      "r": "departure", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and were preparing to put to sea at morning tide; for in this immense and admirable port there is not one day in a hundred that vessels do not set out for every quarter of the globe", 
+      "is_verb": "false", 
+      "l": "port", 
+      "timepoint": 1, 
+      "r": "admirable", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Phileas Fogg could make no use", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }
+  ], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "a cable's length off at most", 
+      "is_verb": "false", 
+      "l": "length", 
+      "timepoint": 0, 
+      "r": "cable's", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg hailed a boat", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "with big eyes", 
+      "is_verb": "false", 
+      "l": "eyes", 
+      "timepoint": 0, 
+      "r": "big", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 2, 
+      "sentence": "a complexion of oxidised copper", 
+      "is_verb": "false", 
+      "l": "copper", 
+      "timepoint": 0, 
+      "r": "oxidised", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 3, 
+      "sentence": "red hair and thick neck", 
+      "is_verb": "false", 
+      "l": "hair", 
+      "timepoint": 0, 
+      "r": "red", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 4, 
+      "sentence": "red hair and thick neck", 
+      "is_verb": "false", 
+      "l": "neck", 
+      "timepoint": 0, 
+      "r": "thick", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "asked Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "asked", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "13": [], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "I am Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "And I am Andrew Speedy", 
+      "is_verb": "false", 
+      "l": "speedy", 
+      "timepoint": 0, 
+      "r": "Andrew", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "16": [], 
+  "17": [], 
+  "18": [], 
+  "19": [], 
+  "20": [], 
+  "21": [], 
+  "22": [], 
+  "23": [], 
+  "24": [], 
+  "25": [], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "Will you carry me and three other persons to Liverpool", 
+      "is_verb": "false", 
+      "l": "persons", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "27": [], 
+  "28": [], 
+  "29": [], 
+  "30": [], 
+  "31": [], 
+  "32": [], 
+  "33": [], 
+  "34": [], 
+  "35": [
+    {
+      "index": 0, 
+      "sentence": "resumed Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "resumed Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "phileas", 
+      "timepoint": 0, 
+      "r": "resumed", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "36": [], 
+  "37": [], 
+  "38": [], 
+  "39": [], 
+  "40": [], 
+  "41": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg did not betray the least disappointment; but the situation was a grave one", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg did not betray the least disappointment; but the situation was a grave one", 
+      "is_verb": "false", 
+      "l": "disappointment", 
+      "timepoint": 0, 
+      "r": "least", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "It was not at New York as at Hong Kong", 
+      "is_verb": "false", 
+      "l": "york", 
+      "timepoint": 0, 
+      "r": "New", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "It was not at New York as at Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Up to this time money had smoothed away every obstacle", 
+      "is_verb": "false", 
+      "l": "money", 
+      "timepoint": 0, 
+      "r": "time", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "42": [
+    {
+      "index": 0, 
+      "sentence": "It seemed that Phileas Fogg had an idea", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "43": [], 
+  "44": [], 
+  "45": [], 
+  "46": [], 
+  "47": [], 
+  "48": [], 
+  "49": [
+    {
+      "index": 0, 
+      "sentence": "Captain Speedy began to scratch his head", 
+      "is_verb": "false", 
+      "l": "speedy", 
+      "timepoint": 0, 
+      "r": "Captain", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "but valuable merchandise", 
+      "is_verb": "false", 
+      "l": "merchandise", 
+      "timepoint": 0, 
+      "r": "valuable", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "said Captain Speedy", 
+      "is_verb": "false", 
+      "l": "speedy", 
+      "timepoint": 0, 
+      "r": "Captain", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "50": [], 
+  "51": [
+    {
+      "index": 0, 
+      "sentence": "and even the inseparable Fix was the work of a brief time", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 0, 
+      "r": "brief", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "52": [
+    {
+      "index": 0, 
+      "sentence": "When Passepartout heard what this last voyage was going to cost", 
+      "is_verb": "false", 
+      "l": "voyage", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "which extended throughout his vocal gamut", 
+      "is_verb": "false", 
+      "l": "gamut", 
+      "timepoint": 0, 
+      "r": "vocal", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "53": [
+    {
+      "index": 0, 
+      "sentence": "When they reached England", 
+      "is_verb": "false", 
+      "l": "england", 
+      "timepoint": 0, 
+      "r": "reached", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ]
+}

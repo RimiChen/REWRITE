@@ -1,0 +1,602 @@
+[
+  {
+    "line_number": "0", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "1", 
+    "text": "IN WHICH PHILEAS FOGG ASTOUNDS PASSEPARTOUT, HIS SERVANT\n"
+  }, 
+  {
+    "line_number": "2", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "3", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "4", 
+    "text": "Having won twenty guineas at whist, and taken leave of his friends,\n"
+  }, 
+  {
+    "line_number": "5", 
+    "text": "Phileas Fogg, at twenty-five minutes past seven, left the Reform Club.\n"
+  }, 
+  {
+    "line_number": "6", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "7", 
+    "text": "Passepartout, who had conscientiously studied the programme of his\n"
+  }, 
+  {
+    "line_number": "8", 
+    "text": "duties, was more than surprised to see his master guilty of the\n"
+  }, 
+  {
+    "line_number": "9", 
+    "text": "inexactness of appearing at this unaccustomed hour; for, according to\n"
+  }, 
+  {
+    "line_number": "10", 
+    "text": "rule, he was not due in Saville Row until precisely midnight.\n"
+  }, 
+  {
+    "line_number": "11", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "12", 
+    "text": "Mr. Fogg repaired to his bedroom, and called out, \"Passepartout!\"\n"
+  }, 
+  {
+    "line_number": "13", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "14", 
+    "text": "Passepartout did not reply.  It could not be he who was called; it was\n"
+  }, 
+  {
+    "line_number": "15", 
+    "text": "not the right hour.\n"
+  }, 
+  {
+    "line_number": "16", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "17", 
+    "text": "\"Passepartout!\" repeated Mr. Fogg, without raising his voice.\n"
+  }, 
+  {
+    "line_number": "18", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "19", 
+    "text": "Passepartout made his appearance.\n"
+  }, 
+  {
+    "line_number": "20", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "21", 
+    "text": "\"I've called you twice,\" observed his master.\n"
+  }, 
+  {
+    "line_number": "22", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "23", 
+    "text": "\"But it is not midnight,\" responded the other, showing his watch.\n"
+  }, 
+  {
+    "line_number": "24", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "25", 
+    "text": "\"I know it; I don't blame you.  We start for Dover and Calais in ten\n"
+  }, 
+  {
+    "line_number": "26", 
+    "text": "minutes.\"\n"
+  }, 
+  {
+    "line_number": "27", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "28", 
+    "text": "A puzzled grin overspread Passepartout's round face; clearly he had not\n"
+  }, 
+  {
+    "line_number": "29", 
+    "text": "comprehended his master.\n"
+  }, 
+  {
+    "line_number": "30", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "31", 
+    "text": "\"Monsieur is going to leave home?\"\n"
+  }, 
+  {
+    "line_number": "32", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "33", 
+    "text": "\"Yes,\" returned Phileas Fogg.  \"We are going round the world.\"\n"
+  }, 
+  {
+    "line_number": "34", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "35", 
+    "text": "Passepartout opened wide his eyes, raised his eyebrows, held up his\n"
+  }, 
+  {
+    "line_number": "36", 
+    "text": "hands, and seemed about to collapse, so overcome was he with stupefied\n"
+  }, 
+  {
+    "line_number": "37", 
+    "text": "astonishment.\n"
+  }, 
+  {
+    "line_number": "38", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "39", 
+    "text": "\"Round the world!\" he murmured.\n"
+  }, 
+  {
+    "line_number": "40", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "41", 
+    "text": "\"In eighty days,\" responded Mr. Fogg.  \"So we haven't a moment to lose.\"\n"
+  }, 
+  {
+    "line_number": "42", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "43", 
+    "text": "\"But the trunks?\" gasped Passepartout, unconsciously swaying his head\n"
+  }, 
+  {
+    "line_number": "44", 
+    "text": "from right to left.\n"
+  }, 
+  {
+    "line_number": "45", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "46", 
+    "text": "\"We'll have no trunks; only a carpet-bag, with two shirts and three\n"
+  }, 
+  {
+    "line_number": "47", 
+    "text": "pairs of stockings for me, and the same for you.  We'll buy our clothes\n"
+  }, 
+  {
+    "line_number": "48", 
+    "text": "on the way.  Bring down my mackintosh and traveling-cloak, and some\n"
+  }, 
+  {
+    "line_number": "49", 
+    "text": "stout shoes, though we shall do little walking.  Make haste!\"\n"
+  }, 
+  {
+    "line_number": "50", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "51", 
+    "text": "Passepartout tried to reply, but could not.  He went out, mounted to\n"
+  }, 
+  {
+    "line_number": "52", 
+    "text": "his own room, fell into a chair, and muttered: \"That's good, that is!\n"
+  }, 
+  {
+    "line_number": "53", 
+    "text": "And I, who wanted to remain quiet!\"\n"
+  }, 
+  {
+    "line_number": "54", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "55", 
+    "text": "He mechanically set about making the preparations for departure.\n"
+  }, 
+  {
+    "line_number": "56", 
+    "text": "Around the world in eighty days!  Was his master a fool?  No.  Was this\n"
+  }, 
+  {
+    "line_number": "57", 
+    "text": "a joke, then?  They were going to Dover; good!  To Calais; good again!\n"
+  }, 
+  {
+    "line_number": "58", 
+    "text": "After all, Passepartout, who had been away from France five years,\n"
+  }, 
+  {
+    "line_number": "59", 
+    "text": "would not be sorry to set foot on his native soil again.  Perhaps they\n"
+  }, 
+  {
+    "line_number": "60", 
+    "text": "would go as far as Paris, and it would do his eyes good to see Paris\n"
+  }, 
+  {
+    "line_number": "61", 
+    "text": "once more.  But surely a gentleman so chary of his steps would stop\n"
+  }, 
+  {
+    "line_number": "62", 
+    "text": "there; no doubt--but, then, it was none the less true that he was\n"
+  }, 
+  {
+    "line_number": "63", 
+    "text": "going away, this so domestic person hitherto!\n"
+  }, 
+  {
+    "line_number": "64", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "65", 
+    "text": "By eight o'clock Passepartout had packed the modest carpet-bag,\n"
+  }, 
+  {
+    "line_number": "66", 
+    "text": "containing the wardrobes of his master and himself; then, still\n"
+  }, 
+  {
+    "line_number": "67", 
+    "text": "troubled in mind, he carefully shut the door of his room, and descended\n"
+  }, 
+  {
+    "line_number": "68", 
+    "text": "to Mr. Fogg.\n"
+  }, 
+  {
+    "line_number": "69", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "70", 
+    "text": "Mr. Fogg was quite ready.  Under his arm might have been observed a\n"
+  }, 
+  {
+    "line_number": "71", 
+    "text": "red-bound copy of Bradshaw's Continental Railway Steam Transit and\n"
+  }, 
+  {
+    "line_number": "72", 
+    "text": "General Guide, with its timetables showing the arrival and departure of\n"
+  }, 
+  {
+    "line_number": "73", 
+    "text": "steamers and railways.  He took the carpet-bag, opened it, and slipped\n"
+  }, 
+  {
+    "line_number": "74", 
+    "text": "into it a goodly roll of Bank of England notes, which would pass\n"
+  }, 
+  {
+    "line_number": "75", 
+    "text": "wherever he might go.\n"
+  }, 
+  {
+    "line_number": "76", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "77", 
+    "text": "\"You have forgotten nothing?\" asked he.\n"
+  }, 
+  {
+    "line_number": "78", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "79", 
+    "text": "\"Nothing, monsieur.\"\n"
+  }, 
+  {
+    "line_number": "80", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "81", 
+    "text": "\"My mackintosh and cloak?\"\n"
+  }, 
+  {
+    "line_number": "82", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "83", 
+    "text": "\"Here they are.\"\n"
+  }, 
+  {
+    "line_number": "84", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "85", 
+    "text": "\"Good!  Take this carpet-bag,\" handing it to Passepartout.  \"Take good\n"
+  }, 
+  {
+    "line_number": "86", 
+    "text": "care of it, for there are twenty thousand pounds in it.\"\n"
+  }, 
+  {
+    "line_number": "87", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "88", 
+    "text": "Passepartout nearly dropped the bag, as if the twenty thousand pounds\n"
+  }, 
+  {
+    "line_number": "89", 
+    "text": "were in gold, and weighed him down.\n"
+  }, 
+  {
+    "line_number": "90", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "91", 
+    "text": "Master and man then descended, the street-door was double-locked, and\n"
+  }, 
+  {
+    "line_number": "92", 
+    "text": "at the end of Saville Row they took a cab and drove rapidly to Charing\n"
+  }, 
+  {
+    "line_number": "93", 
+    "text": "Cross.  The cab stopped before the railway station at twenty minutes\n"
+  }, 
+  {
+    "line_number": "94", 
+    "text": "past eight.  Passepartout jumped off the box and followed his master,\n"
+  }, 
+  {
+    "line_number": "95", 
+    "text": "who, after paying the cabman, was about to enter the station, when a\n"
+  }, 
+  {
+    "line_number": "96", 
+    "text": "poor beggar-woman, with a child in her arms, her naked feet smeared\n"
+  }, 
+  {
+    "line_number": "97", 
+    "text": "with mud, her head covered with a wretched bonnet, from which hung a\n"
+  }, 
+  {
+    "line_number": "98", 
+    "text": "tattered feather, and her shoulders shrouded in a ragged shawl,\n"
+  }, 
+  {
+    "line_number": "99", 
+    "text": "approached, and mournfully asked for alms.\n"
+  }, 
+  {
+    "line_number": "100", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "101", 
+    "text": "Mr. Fogg took out the twenty guineas he had just won at whist, and\n"
+  }, 
+  {
+    "line_number": "102", 
+    "text": "handed them to the beggar, saying, \"Here, my good woman.  I'm glad that\n"
+  }, 
+  {
+    "line_number": "103", 
+    "text": "I met you;\" and passed on.\n"
+  }, 
+  {
+    "line_number": "104", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "105", 
+    "text": "Passepartout had a moist sensation about the eyes; his master's action\n"
+  }, 
+  {
+    "line_number": "106", 
+    "text": "touched his susceptible heart.\n"
+  }, 
+  {
+    "line_number": "107", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "108", 
+    "text": "Two first-class tickets for Paris having been speedily purchased, Mr.\n"
+  }, 
+  {
+    "line_number": "109", 
+    "text": "Fogg was crossing the station to the train, when he perceived his five\n"
+  }, 
+  {
+    "line_number": "110", 
+    "text": "friends of the Reform.\n"
+  }, 
+  {
+    "line_number": "111", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "112", 
+    "text": "\"Well, gentlemen,\" said he, \"I'm off, you see; and, if you will examine\n"
+  }, 
+  {
+    "line_number": "113", 
+    "text": "my passport when I get back, you will be able to judge whether I have\n"
+  }, 
+  {
+    "line_number": "114", 
+    "text": "accomplished the journey agreed upon.\"\n"
+  }, 
+  {
+    "line_number": "115", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "116", 
+    "text": "\"Oh, that would be quite unnecessary, Mr. Fogg,\" said Ralph politely.\n"
+  }, 
+  {
+    "line_number": "117", 
+    "text": "\"We will trust your word, as a gentleman of honour.\"\n"
+  }, 
+  {
+    "line_number": "118", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "119", 
+    "text": "\"You do not forget when you are due in London again?\"  asked Stuart.\n"
+  }, 
+  {
+    "line_number": "120", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "121", 
+    "text": "\"In eighty days; on Saturday, the 21st of December, 1872, at a quarter\n"
+  }, 
+  {
+    "line_number": "122", 
+    "text": "before nine p.m.  Good-bye, gentlemen.\"\n"
+  }, 
+  {
+    "line_number": "123", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "124", 
+    "text": "Phileas Fogg and his servant seated themselves in a first-class\n"
+  }, 
+  {
+    "line_number": "125", 
+    "text": "carriage at twenty minutes before nine; five minutes later the whistle\n"
+  }, 
+  {
+    "line_number": "126", 
+    "text": "screamed, and the train slowly glided out of the station.\n"
+  }, 
+  {
+    "line_number": "127", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "128", 
+    "text": "The night was dark, and a fine, steady rain was falling.  Phileas Fogg,\n"
+  }, 
+  {
+    "line_number": "129", 
+    "text": "snugly ensconced in his corner, did not open his lips.  Passepartout,\n"
+  }, 
+  {
+    "line_number": "130", 
+    "text": "not yet recovered from his stupefaction, clung mechanically to the\n"
+  }, 
+  {
+    "line_number": "131", 
+    "text": "carpet-bag, with its enormous treasure.\n"
+  }, 
+  {
+    "line_number": "132", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "133", 
+    "text": "Just as the train was whirling through Sydenham, Passepartout suddenly\n"
+  }, 
+  {
+    "line_number": "134", 
+    "text": "uttered a cry of despair.\n"
+  }, 
+  {
+    "line_number": "135", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "136", 
+    "text": "\"What's the matter?\" asked Mr. Fogg.\n"
+  }, 
+  {
+    "line_number": "137", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "138", 
+    "text": "\"Alas!  In my hurry--I--I forgot--\"\n"
+  }, 
+  {
+    "line_number": "139", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "140", 
+    "text": "\"What?\"\n"
+  }, 
+  {
+    "line_number": "141", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "142", 
+    "text": "\"To turn off the gas in my room!\"\n"
+  }, 
+  {
+    "line_number": "143", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "144", 
+    "text": "\"Very well, young man,\" returned Mr. Fogg, coolly; \"it will burn--at\n"
+  }, 
+  {
+    "line_number": "145", 
+    "text": "your expense.\"\n"
+  }, 
+  {
+    "line_number": "146", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "147", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "148", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "149", 
+    "text": "\n"
+  }
+]

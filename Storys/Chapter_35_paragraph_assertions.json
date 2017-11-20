@@ -1,0 +1,868 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH PHILEAS FOGG DOES NOT HAVE TO REPEAT HIS ORDERS TO PASSEPARTOUT TWICE ", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "PHILEAS", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "The dwellers in Saville Row would have been surprised the next day", 
+      "is_verb": "false", 
+      "l": "row", 
+      "timepoint": 0, 
+      "r": "Saville", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The dwellers in Saville Row would have been surprised the next day", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "if they had been told that Phileas Fogg had returned home", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "if they had been told that Phileas Fogg had returned home", 
+      "is_verb": "false", 
+      "l": "home", 
+      "timepoint": 0, 
+      "r": "returned", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "After leaving the station", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Fogg gave Passepartout instructions to purchase some provisions", 
+      "is_verb": "false", 
+      "l": "instructions", 
+      "timepoint": 1, 
+      "r": "Passepartout", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "He bore his misfortune with his habitual tranquillity", 
+      "is_verb": "false", 
+      "l": "tranquillity", 
+      "timepoint": 0, 
+      "r": "habitual", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "After having steadily traversed that long journey", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "After having steadily traversed that long journey", 
+      "is_verb": "false", 
+      "l": "journey", 
+      "timepoint": 1, 
+      "r": "long", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "braved many dangers", 
+      "is_verb": "false", 
+      "l": "dangers", 
+      "timepoint": 1, 
+      "r": "many", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "to fail near the goal by a sudden event which he could not have foreseen", 
+      "is_verb": "false", 
+      "l": "event", 
+      "timepoint": 1, 
+      "r": "sudden", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 5, 
+      "sentence": "But a few pounds were left of the large sum he had carried with him", 
+      "is_verb": "false", 
+      "l": "pounds", 
+      "timepoint": 1, 
+      "r": "few", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 6, 
+      "sentence": "But a few pounds were left of the large sum he had carried with him", 
+      "is_verb": "false", 
+      "l": "sum", 
+      "timepoint": 1, 
+      "r": "large", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and this amount he owed to his friends of the Reform Club", 
+      "is_verb": "false", 
+      "l": "club", 
+      "timepoint": 1, 
+      "r": "Reform", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 8, 
+      "sentence": "being a man who rather laid wagers for honour's sake than for the stake proposed", 
+      "is_verb": "false", 
+      "l": "sake", 
+      "timepoint": 1, 
+      "r": "honour's", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "Fogg's course", 
+      "is_verb": "false", 
+      "l": "course", 
+      "timepoint": 0, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "8": [
+    {
+      "index": 0, 
+      "sentence": "A room in the house in Saville Row was set apart for Aouda", 
+      "is_verb": "false", 
+      "l": "row", 
+      "timepoint": 0, 
+      "r": "Saville", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "who was overwhelmed with grief at her protector's misfortune", 
+      "is_verb": "false", 
+      "l": "misfortune", 
+      "timepoint": 0, 
+      "r": "protector's", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "she saw that he was meditating some serious project", 
+      "is_verb": "false", 
+      "l": "project", 
+      "timepoint": 0, 
+      "r": "serious", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "9": [
+    {
+      "index": 0, 
+      "sentence": "Knowing that Englishmen governed by a fixed idea sometimes resort to the desperate expedient of suicide", 
+      "is_verb": "false", 
+      "l": "idea", 
+      "timepoint": 0, 
+      "r": "fixed", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "the worthy fellow had gone up to his room", 
+      "is_verb": "false", 
+      "l": "fellow", 
+      "timepoint": 0, 
+      "r": "worthy", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and had extinguished the gas burner", 
+      "is_verb": "false", 
+      "l": "burner", 
+      "timepoint": 0, 
+      "r": "gas", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "He had found in the letter-box a bill from the gas company", 
+      "is_verb": "false", 
+      "l": "company", 
+      "timepoint": 0, 
+      "r": "gas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "like a faithful dog", 
+      "is_verb": "false", 
+      "l": "dog", 
+      "timepoint": 0, 
+      "r": "faithful", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 1, 
+      "sentence": "at his master's door", 
+      "is_verb": "false", 
+      "l": "door", 
+      "timepoint": 0, 
+      "r": "master's", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "and told him to get Aouda's breakfast", 
+      "is_verb": "false", 
+      "l": "breakfast", 
+      "timepoint": 0, 
+      "r": "Aouda's", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "He desired Aouda to excuse him from breakfast and dinner", 
+      "is_verb": "false", 
+      "l": "aouda", 
+      "timepoint": 0, 
+      "r": "desired", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "In the evening he would ask permission to have a few moment's conversation with the young lady", 
+      "is_verb": "false", 
+      "l": "conversation", 
+      "timepoint": 0, 
+      "r": "moment's", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 3, 
+      "sentence": "In the evening he would ask permission to have a few moment's conversation with the young lady", 
+      "is_verb": "false", 
+      "l": "moment's", 
+      "timepoint": 0, 
+      "r": "few", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "In the evening he would ask permission to have a few moment's conversation with the young lady", 
+      "is_verb": "false", 
+      "l": "lady", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "He looked at his imperturbable master", 
+      "is_verb": "false", 
+      "l": "master", 
+      "timepoint": 0, 
+      "r": "imperturbable", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and his conscience tortured by remorse; for he accused himself more bitterly than ever of being the cause of the irretrievable disaster", 
+      "is_verb": "false", 
+      "l": "disaster", 
+      "timepoint": 0, 
+      "r": "irretrievable", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "if he had warned Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "warned", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and had betrayed Fix's projects to him", 
+      "is_verb": "false", 
+      "l": "projects", 
+      "timepoint": 0, 
+      "r": "Fix's", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and had betrayed Fix's projects to him", 
+      "is_verb": "false", 
+      "l": "fix's", 
+      "timepoint": 0, 
+      "r": "betrayed", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 5, 
+      "sentence": "his master would certainly not have given the detective passage to Liverpool", 
+      "is_verb": "false", 
+      "l": "passage", 
+      "timepoint": 0, 
+      "r": "detective", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "14": [], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "It was my fault that--", 
+      "is_verb": "false", 
+      "l": "that--", 
+      "timepoint": 0, 
+      "r": "fault", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "16": [
+    {
+      "index": 0, 
+      "sentence": "returned Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "returned Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "phileas", 
+      "timepoint": 0, 
+      "r": "returned", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "with perfect calmness", 
+      "is_verb": "false", 
+      "l": "calmness", 
+      "timepoint": 0, 
+      "r": "perfect", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "17": [
+    {
+      "index": 0, 
+      "sentence": "to whom he delivered his master's message", 
+      "is_verb": "false", 
+      "l": "message", 
+      "timepoint": 0, 
+      "r": "master's", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "18": [], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "replied Aouda", 
+      "is_verb": "false", 
+      "l": "aouda", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "20": [], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "replied Aouda", 
+      "is_verb": "false", 
+      "l": "aouda", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "22": [
+    {
+      "index": 0, 
+      "sentence": "Throughout this day (Sunday) the house in Saville Row was as if uninhabited", 
+      "is_verb": "false", 
+      "l": "row", 
+      "timepoint": 0, 
+      "r": "Saville", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "for the first time since he had lived in that house", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 0, 
+      "r": "first", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "did not set out for his club when Westminster clock struck half-past eleven", 
+      "is_verb": "false", 
+      "l": "clock", 
+      "timepoint": 0, 
+      "r": "Westminster", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "As Phileas Fogg had not appeared in the saloon on the evening before (Saturday", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "As Phileas Fogg had not appeared in the saloon on the evening before (Saturday", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": -1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "at a quarter before nine)", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -2, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 4
+    }
+  ], 
+  "24": [
+    {
+      "index": 0, 
+      "sentence": "He listened at his master's door", 
+      "is_verb": "false", 
+      "l": "door", 
+      "timepoint": 0, 
+      "r": "master's", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 1, 
+      "sentence": "as if he had a perfect right so to do", 
+      "is_verb": "false", 
+      "l": "right", 
+      "timepoint": 0, 
+      "r": "perfect", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 2, 
+      "sentence": "had been mistaken in Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }
+  ], 
+  "25": [
+    {
+      "index": 0, 
+      "sentence": "he knocked at Aouda's door", 
+      "is_verb": "false", 
+      "l": "door", 
+      "timepoint": 0, 
+      "r": "Aouda's", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and looked ruefully at the young woman", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "and in a few moments he found himself alone with her", 
+      "is_verb": "false", 
+      "l": "moments", 
+      "timepoint": 0, 
+      "r": "few", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "27": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg took a chair", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "opposite Aouda", 
+      "is_verb": "false", 
+      "l": "aouda", 
+      "timepoint": 0, 
+      "r": "opposite", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "the same impassibility", 
+      "is_verb": "false", 
+      "l": "impassibility", 
+      "timepoint": 0, 
+      "r": "same", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "28": [
+    {
+      "index": 0, 
+      "sentence": "He sat several minutes without speaking; then", 
+      "is_verb": "false", 
+      "l": "minutes", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "29": [
+    {
+      "index": 0, 
+      "sentence": "replied Aouda", 
+      "is_verb": "false", 
+      "l": "aouda", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "30": [
+    {
+      "index": 0, 
+      "sentence": "returned Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "returned", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "31": [
+    {
+      "index": 0, 
+      "sentence": "replied Aouda;", 
+      "is_verb": "false", 
+      "l": "aouda", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "32": [], 
+  "33": [
+    {
+      "index": 0, 
+      "sentence": "resumed Aouda", 
+      "is_verb": "false", 
+      "l": "aouda", 
+      "timepoint": 0, 
+      "r": "resumed", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 1, 
+      "sentence": "not content with rescuing me from a terrible death", 
+      "is_verb": "false", 
+      "l": "death", 
+      "timepoint": 0, 
+      "r": "terrible", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 2, 
+      "sentence": "you thought yourself bound to secure my comfort in a foreign land", 
+      "is_verb": "false", 
+      "l": "land", 
+      "timepoint": 0, 
+      "r": "foreign", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "34": [], 
+  "35": [], 
+  "36": [], 
+  "37": [], 
+  "38": [], 
+  "39": [], 
+  "40": [], 
+  "41": [], 
+  "42": [], 
+  "43": [
+    {
+      "index": 0, 
+      "sentence": "shared by two sympathetic souls", 
+      "is_verb": "false", 
+      "l": "souls", 
+      "timepoint": 0, 
+      "r": "sympathetic", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "44": [], 
+  "45": [], 
+  "46": [
+    {
+      "index": 0, 
+      "sentence": "There was an unwonted light in his eyes", 
+      "is_verb": "false", 
+      "l": "light", 
+      "timepoint": 0, 
+      "r": "unwonted", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and sweetness of this soft glance of a noble woman", 
+      "is_verb": "false", 
+      "l": "glance", 
+      "timepoint": 0, 
+      "r": "soft", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and sweetness of this soft glance of a noble woman", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "noble", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "47": [
+    {
+      "index": 0, 
+      "sentence": "cried Aouda", 
+      "is_verb": "false", 
+      "l": "aouda", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "48": [
+    {
+      "index": 0, 
+      "sentence": "Fogg still held Aouda's hand in his own; Passepartout understood", 
+      "is_verb": "false", 
+      "l": "hand", 
+      "timepoint": 0, 
+      "r": "Aouda's", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "round face became as radiant as the tropical sun at its zenith", 
+      "is_verb": "false", 
+      "l": "face", 
+      "timepoint": 0, 
+      "r": "round", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "round face became as radiant as the tropical sun at its zenith", 
+      "is_verb": "false", 
+      "l": "sun", 
+      "timepoint": 0, 
+      "r": "tropical", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "49": [
+    {
+      "index": 0, 
+      "sentence": "Fogg asked him if it was not too late to notify the Reverend Samuel Wilson", 
+      "is_verb": "false", 
+      "l": "samuel", 
+      "timepoint": 0, 
+      "r": "Reverend", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "of Marylebone parish", 
+      "is_verb": "false", 
+      "l": "parish", 
+      "timepoint": 0, 
+      "r": "Marylebone", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "50": [
+    {
+      "index": 0, 
+      "sentence": "Passepartout smiled his most genial smile", 
+      "is_verb": "false", 
+      "l": "smile", 
+      "timepoint": 0, 
+      "r": "genial", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "51": [], 
+  "52": [], 
+  "53": [], 
+  "54": [], 
+  "55": []
+}

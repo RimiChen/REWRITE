@@ -1,0 +1,840 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "BETRAYS A VERY NATURAL IMPATIENCE ", 
+      "is_verb": "false", 
+      "l": "impatience", 
+      "timepoint": 0, 
+      "r": "NATURAL", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "The circumstances under which this telegraphic dispatch about Phileas Fogg was sent were as follows: ", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The circumstances under which this telegraphic dispatch about Phileas Fogg was sent were as follows: ", 
+      "is_verb": "false", 
+      "l": "dispatch", 
+      "timepoint": 0, 
+      "r": "telegraphic", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "The steamer Mongolia", 
+      "is_verb": "false", 
+      "l": "mongolia", 
+      "timepoint": 0, 
+      "r": "steamer", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "belonging to the Peninsular and Oriental Company", 
+      "is_verb": "false", 
+      "l": "company", 
+      "timepoint": 0, 
+      "r": "Oriental", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "of two thousand eight hundred tons burden", 
+      "is_verb": "false", 
+      "l": "burden", 
+      "timepoint": 0, 
+      "r": "tons", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and was one of the fastest steamers belonging to the company", 
+      "is_verb": "false", 
+      "l": "steamers", 
+      "timepoint": 0, 
+      "r": "fastest", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "a fast-growing town", 
+      "is_verb": "false", 
+      "l": "town", 
+      "timepoint": 0, 
+      "r": "fast-growing", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "One was the British consul at Suez", 
+      "is_verb": "false", 
+      "l": "consul", 
+      "timepoint": 0, 
+      "r": "British", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "despite the prophecies of the English Government", 
+      "is_verb": "false", 
+      "l": "government", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and the unfavourable predictions of Stephenson", 
+      "is_verb": "false", 
+      "l": "predictions", 
+      "timepoint": 0, 
+      "r": "unfavourable", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 4, 
+      "sentence": "from his office window", 
+      "is_verb": "false", 
+      "l": "window", 
+      "timepoint": 0, 
+      "r": "office", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 5, 
+      "sentence": "English ships daily passing to and fro on the great canal", 
+      "is_verb": "false", 
+      "l": "ships", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 6, 
+      "sentence": "by which the old roundabout route from England to India by the Cape of Good Hope was abridged by at least a half", 
+      "is_verb": "false", 
+      "l": "route", 
+      "timepoint": 0, 
+      "r": "roundabout", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 7, 
+      "sentence": "by which the old roundabout route from England to India by the Cape of Good Hope was abridged by at least a half", 
+      "is_verb": "false", 
+      "l": "hope", 
+      "timepoint": 0, 
+      "r": "Good", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 8, 
+      "sentence": "slight-built personage", 
+      "is_verb": "false", 
+      "l": "personage", 
+      "timepoint": 0, 
+      "r": "slight-built", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 9, 
+      "sentence": "intelligent face", 
+      "is_verb": "false", 
+      "l": "face", 
+      "timepoint": 0, 
+      "r": "intelligent", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 10, 
+      "sentence": "and bright eyes peering out from under eyebrows which he was incessantly twitching", 
+      "is_verb": "false", 
+      "l": "eyes", 
+      "timepoint": 0, 
+      "r": "bright", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 11, 
+      "sentence": "He was just now manifesting unmistakable signs of impatience", 
+      "is_verb": "false", 
+      "l": "signs", 
+      "timepoint": 0, 
+      "r": "unmistakable", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 12, 
+      "sentence": "one of the detectives who had been dispatched from England in search of the bank robber; it was his task to narrowly watch every passenger who arrived at Suez", 
+      "is_verb": "false", 
+      "l": "robber", 
+      "timepoint": 0, 
+      "r": "bank", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }, 
+    {
+      "index": 13, 
+      "sentence": "and to follow up all who seemed to be suspicious characters", 
+      "is_verb": "false", 
+      "l": "characters", 
+      "timepoint": 0, 
+      "r": "suspicious", 
+      "relation": "has_property", 
+      "storypoints": 23
+    }, 
+    {
+      "index": 14, 
+      "sentence": "which he had received two days before from the police headquarters at London", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 25
+    }, 
+    {
+      "index": 15, 
+      "sentence": "which he had received two days before from the police headquarters at London", 
+      "is_verb": "false", 
+      "l": "headquarters", 
+      "timepoint": -1, 
+      "r": "police", 
+      "relation": "has_property", 
+      "storypoints": 25
+    }, 
+    {
+      "index": 16, 
+      "sentence": "The detective was evidently inspired by the hope of obtaining the splendid reward which would be the prize of success", 
+      "is_verb": "false", 
+      "l": "reward", 
+      "timepoint": -1, 
+      "r": "splendid", 
+      "relation": "has_property", 
+      "storypoints": 26
+    }, 
+    {
+      "index": 17, 
+      "sentence": "and awaited with a feverish impatience", 
+      "is_verb": "false", 
+      "l": "impatience", 
+      "timepoint": -1, 
+      "r": "feverish", 
+      "relation": "has_property", 
+      "storypoints": 27
+    }, 
+    {
+      "index": 18, 
+      "sentence": "the arrival of the steamer Mongolia", 
+      "is_verb": "false", 
+      "l": "mongolia", 
+      "timepoint": -1, 
+      "r": "steamer", 
+      "relation": "has_property", 
+      "storypoints": 29
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "asked he for the twentieth time", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 0, 
+      "r": "twentieth", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "8": [
+    {
+      "index": 0, 
+      "sentence": "She was bespoken yesterday at Port Said", 
+      "is_verb": "false", 
+      "l": "yesterday", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 1, 
+      "sentence": "She was bespoken yesterday at Port Said", 
+      "is_verb": "false", 
+      "l": "yesterday", 
+      "timepoint": -1, 
+      "r": "bespoken", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 2, 
+      "sentence": "I repeat that the Mongolia has been in advance of the time required by the company's regulations", 
+      "is_verb": "false", 
+      "l": "regulations", 
+      "timepoint": -1, 
+      "r": "company's", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "9": [], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "Directly from Brindisi; she takes on the Indian mails there", 
+      "is_verb": "false", 
+      "l": "mails", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "and a scent is like a sixth sense which combines hearing", 
+      "is_verb": "false", 
+      "l": "sense", 
+      "timepoint": 0, 
+      "r": "sixth", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 1, 
+      "sentence": "I'll answer for it; he'll not slip through my fingers", 
+      "is_verb": "false", 
+      "l": "answer", 
+      "timepoint": 0, 
+      "r": "I'll", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "for it was a heavy robbery", 
+      "is_verb": "false", 
+      "l": "robbery", 
+      "timepoint": 0, 
+      "r": "heavy", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "A magnificent robbery", 
+      "is_verb": "false", 
+      "l": "robbery", 
+      "timepoint": 0, 
+      "r": "magnificent", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "We don't often have such windfalls", 
+      "is_verb": "false", 
+      "l": "windfalls", 
+      "timepoint": 0, 
+      "r": "such", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "and hope you'll succeed; but I fear you will find it far from easy", 
+      "is_verb": "false", 
+      "l": "you'll", 
+      "timepoint": 0, 
+      "r": "hope", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 1, 
+      "sentence": "the description which you have there has a singular resemblance to an honest man", 
+      "is_verb": "false", 
+      "l": "resemblance", 
+      "timepoint": 0, 
+      "r": "singular", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 2, 
+      "sentence": "the description which you have there has a singular resemblance to an honest man", 
+      "is_verb": "false", 
+      "l": "man", 
+      "timepoint": 0, 
+      "r": "honest", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "great robbers always resemble honest folks", 
+      "is_verb": "false", 
+      "l": "robbers", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 1, 
+      "sentence": "great robbers always resemble honest folks", 
+      "is_verb": "false", 
+      "l": "folks", 
+      "timepoint": 0, 
+      "r": "honest", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and that is to remain honest; otherwise they would be arrested off-hand", 
+      "is_verb": "false", 
+      "l": "off-hand", 
+      "timepoint": 0, 
+      "r": "arrested", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 3, 
+      "sentence": "to unmask honest countenances; it's no light task", 
+      "is_verb": "false", 
+      "l": "task", 
+      "timepoint": 0, 
+      "r": "light", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "to unmask honest countenances; it's no light task", 
+      "is_verb": "false", 
+      "l": "countenances", 
+      "timepoint": 0, 
+      "r": "honest", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 5, 
+      "sentence": "but a real art", 
+      "is_verb": "false", 
+      "l": "art", 
+      "timepoint": 0, 
+      "r": "real", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }
+  ], 
+  "16": [], 
+  "17": [
+    {
+      "index": 0, 
+      "sentence": "Little by little the scene on the quay became more animated; sailors of various nations", 
+      "is_verb": "false", 
+      "l": "nations", 
+      "timepoint": 0, 
+      "r": "various", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The minarets of the town loomed above the houses in the pale rays of the sun", 
+      "is_verb": "false", 
+      "l": "rays", 
+      "timepoint": 0, 
+      "r": "pale", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 2, 
+      "sentence": "A jetty pier", 
+      "is_verb": "false", 
+      "l": "pier", 
+      "timepoint": 0, 
+      "r": "jetty", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 3, 
+      "sentence": "some retaining the fantastic fashion of ancient galleys", 
+      "is_verb": "false", 
+      "l": "fashion", 
+      "timepoint": 0, 
+      "r": "fantastic", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 4, 
+      "sentence": "some retaining the fantastic fashion of ancient galleys", 
+      "is_verb": "false", 
+      "l": "galleys", 
+      "timepoint": 0, 
+      "r": "ancient", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 5, 
+      "sentence": "were discernible on the Red Sea", 
+      "is_verb": "false", 
+      "l": "sea", 
+      "timepoint": 0, 
+      "r": "Red", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }
+  ], 
+  "18": [
+    {
+      "index": 0, 
+      "sentence": "As he passed among the busy crowd", 
+      "is_verb": "false", 
+      "l": "crowd", 
+      "timepoint": 0, 
+      "r": "busy", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "rapid glance", 
+      "is_verb": "false", 
+      "l": "glance", 
+      "timepoint": 0, 
+      "r": "rapid", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "19": [], 
+  "20": [
+    {
+      "index": 0, 
+      "sentence": "The steamer doesn't come", 
+      "is_verb": "false", 
+      "l": "doesn't", 
+      "timepoint": 0, 
+      "r": "steamer", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "as the port clock struck", 
+      "is_verb": "false", 
+      "l": "clock", 
+      "timepoint": 0, 
+      "r": "port", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "21": [], 
+  "22": [], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "at the other end of the Red Sea", 
+      "is_verb": "false", 
+      "l": "end", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "at the other end of the Red Sea", 
+      "is_verb": "false", 
+      "l": "sea", 
+      "timepoint": 0, 
+      "r": "Red", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "24": [], 
+  "25": [], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "so as to reach the Dutch or French colonies in Asia by some other route", 
+      "is_verb": "false", 
+      "l": "colonies", 
+      "timepoint": 0, 
+      "r": "French", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 1, 
+      "sentence": "so as to reach the Dutch or French colonies in Asia by some other route", 
+      "is_verb": "false", 
+      "l": "route", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "which is English soil", 
+      "is_verb": "false", 
+      "l": "soil", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "27": [], 
+  "28": [
+    {
+      "index": 0, 
+      "sentence": "This observation furnished the detective food for thought", 
+      "is_verb": "false", 
+      "l": "food", 
+      "timepoint": 0, 
+      "r": "detective", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "If he had indeed left London intending to reach the New World", 
+      "is_verb": "false", 
+      "l": "world", 
+      "timepoint": 0, 
+      "r": "New", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "But Fix's reflections were soon interrupted by a succession of sharp whistles", 
+      "is_verb": "false", 
+      "l": "reflections", 
+      "timepoint": 0, 
+      "r": "Fix's", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 3, 
+      "sentence": "But Fix's reflections were soon interrupted by a succession of sharp whistles", 
+      "is_verb": "false", 
+      "l": "whistles", 
+      "timepoint": 0, 
+      "r": "sharp", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and a dozen boats pushed off from the shore to go and meet the steamer", 
+      "is_verb": "false", 
+      "l": "boats", 
+      "timepoint": 0, 
+      "r": "dozen", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Soon her gigantic hull appeared passing along between the banks", 
+      "is_verb": "false", 
+      "l": "hull", 
+      "timepoint": 0, 
+      "r": "gigantic", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 6, 
+      "sentence": "She brought an unusual number of passengers", 
+      "is_verb": "false", 
+      "l": "number", 
+      "timepoint": 0, 
+      "r": "unusual", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 7, 
+      "sentence": "some of whom remained on deck to scan the picturesque panorama of the town", 
+      "is_verb": "false", 
+      "l": "panorama", 
+      "timepoint": 0, 
+      "r": "picturesque", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 8, 
+      "sentence": "while the greater part disembarked in the boats", 
+      "is_verb": "false", 
+      "l": "part", 
+      "timepoint": 0, 
+      "r": "greater", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }
+  ], 
+  "29": [
+    {
+      "index": 0, 
+      "sentence": "after vigorously pushing his way through the importunate crowd of porters", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "after vigorously pushing his way through the importunate crowd of porters", 
+      "is_verb": "false", 
+      "l": "crowd", 
+      "timepoint": 1, 
+      "r": "importunate", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "came up to him and politely asked if he could point out the English consulate", 
+      "is_verb": "false", 
+      "l": "consulate", 
+      "timepoint": 1, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "at the same time showing a passport which he wished to have visaed", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 1, 
+      "r": "same", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and with a rapid glance read the description of its bearer", 
+      "is_verb": "false", 
+      "l": "glance", 
+      "timepoint": 1, 
+      "r": "rapid", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 5, 
+      "sentence": "An involuntary motion of surprise nearly escaped him", 
+      "is_verb": "false", 
+      "l": "motion", 
+      "timepoint": 1, 
+      "r": "involuntary", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 6, 
+      "sentence": "for the description in the passport was identical with that of the bank robber which he had received from Scotland Yard", 
+      "is_verb": "false", 
+      "l": "robber", 
+      "timepoint": 1, 
+      "r": "bank", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 7, 
+      "sentence": "for the description in the passport was identical with that of the bank robber which he had received from Scotland Yard", 
+      "is_verb": "false", 
+      "l": "yard", 
+      "timepoint": 1, 
+      "r": "Scotland", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "30": [], 
+  "31": [], 
+  "32": [
+    {
+      "index": 0, 
+      "sentence": "And your master is--", 
+      "is_verb": "false", 
+      "l": "is--", 
+      "timepoint": 0, 
+      "r": "master", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "33": [], 
+  "34": [], 
+  "35": [], 
+  "36": [], 
+  "37": [], 
+  "38": [], 
+  "39": [], 
+  "40": []
+}

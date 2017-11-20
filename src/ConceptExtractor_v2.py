@@ -29,7 +29,7 @@ def extract_story_concepts(s):
         sentence_dictionary = temp_assertions[2]
 
     create_sentence_dictionary_time = datetime.datetime.now()
-    print("==create sentence dictionary: "+ str(create_sentence_dictionary_time - start_time))
+    #print("==create sentence dictionary: "+ str(create_sentence_dictionary_time - start_time))
     assertions = []
 
     start_basic = datetime.datetime.now()
@@ -47,7 +47,7 @@ def extract_story_concepts(s):
         sentence_dictionary = temp_assertions[2]
 
     basic_properties_time_shift = datetime.datetime.now()
-    print("==get basic part: "+ str(basic_properties_time_shift - start_basic))
+    #print("==get basic part: "+ str(basic_properties_time_shift - start_basic))
 
     #print("*****************************************")
     #print(sentence_dictionary)
@@ -70,8 +70,8 @@ def extract_story_concepts(s):
     #print("*****************************************")
     #print(actors)
 
-    #print("==DEBUG== actors:")
-    #print(actors)
+    print("==DEBUG== actors:")
+    print(actors)
     
     #### retrieve actors' actions
     #### retriece actors' propoties
@@ -99,7 +99,7 @@ def extract_story_concepts(s):
     
     
     get_actor_information = datetime.datetime.now()
-    print("==get actor part: "+ str(get_actor_information - start_actors))
+    #print("==get actor part: "+ str(get_actor_information - start_actors))
 
     #suppose all subjects are actors
     return assertions
@@ -316,13 +316,13 @@ def extract_location(assertions, s, sp, current_time_point):
     matches += en.sentence.find(s, " in (DT) NN")
     matches += en.sentence.find(s, " to (DT) NN")
         #matches += en.sentence.find(s, actor + " looked (RB) JJ")
-    for match in matches:
+    #for match in matches:
         #[place] = ""
-        for i,m in enumerate(match):
+    #    for i,m in enumerate(match):
         #    if m[0][0:2]=="NN":
         #        place = m[0]
-            print(i)
-            print(m)
+    #        print(i)
+    #        print(m)
         #assertion_index = len(assertions)
         #assertion = {"l":[actorName], "relation":"has_property","r":[adj],"storypoints":[{"at":sp}], "index":[assertion_index], "sentence": [s], "timepoint": [current_time_point]}
         #if assertion not in assertions:

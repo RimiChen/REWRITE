@@ -1,0 +1,1533 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "A COURSE OF MORMON HISTORY ", 
+      "is_verb": "false", 
+      "l": "history", 
+      "timepoint": 0, 
+      "r": "MORMON", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "the train ran south-easterly for about fifty miles; then rose an equal distance in a north-easterly direction", 
+      "is_verb": "false", 
+      "l": "distance", 
+      "timepoint": 0, 
+      "r": "equal", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "towards the Great Salt Lake", 
+      "is_verb": "false", 
+      "l": "salt", 
+      "timepoint": 0, 
+      "r": "Great", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "The sun's disc", 
+      "is_verb": "false", 
+      "l": "disc", 
+      "timepoint": 0, 
+      "r": "sun's", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 1, 
+      "sentence": "when he was diverted from this interesting study by a strange-looking personage who made his appearance on the platform", 
+      "is_verb": "false", 
+      "l": "study", 
+      "timepoint": 0, 
+      "r": "interesting", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "with black moustache", 
+      "is_verb": "false", 
+      "l": "moustache", 
+      "timepoint": 0, 
+      "r": "black", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "black stockings", 
+      "is_verb": "false", 
+      "l": "stockings", 
+      "timepoint": 0, 
+      "r": "black", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "a black silk hat", 
+      "is_verb": "false", 
+      "l": "hat", 
+      "timepoint": 0, 
+      "r": "silk", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "a black silk hat", 
+      "is_verb": "false", 
+      "l": "silk", 
+      "timepoint": 0, 
+      "r": "black", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "a black waistcoat", 
+      "is_verb": "false", 
+      "l": "waistcoat", 
+      "timepoint": 0, 
+      "r": "black", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 5, 
+      "sentence": "black trousers", 
+      "is_verb": "false", 
+      "l": "trousers", 
+      "timepoint": 0, 
+      "r": "black", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 6, 
+      "sentence": "a white cravat", 
+      "is_verb": "false", 
+      "l": "cravat", 
+      "timepoint": 0, 
+      "r": "white", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and dogskin gloves", 
+      "is_verb": "false", 
+      "l": "gloves", 
+      "timepoint": 0, 
+      "r": "dogskin", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "which stated that Elder William Hitch", 
+      "is_verb": "false", 
+      "l": "william", 
+      "timepoint": 0, 
+      "r": "Elder", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Latter Day Saints", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "Latter", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "8": [], 
+  "9": [
+    {
+      "index": 0, 
+      "sentence": "Passepartout took one of the front seats", 
+      "is_verb": "false", 
+      "l": "seats", 
+      "timepoint": 0, 
+      "r": "front", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "At the appointed hour Elder William Hitch rose", 
+      "is_verb": "false", 
+      "l": "elder", 
+      "timepoint": 0, 
+      "r": "hour", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "At the appointed hour Elder William Hitch rose", 
+      "is_verb": "false", 
+      "l": "hour", 
+      "timepoint": 0, 
+      "r": "appointed", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "in an irritated voice", 
+      "is_verb": "false", 
+      "l": "voice", 
+      "timepoint": 0, 
+      "r": "irritated", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "I tell you that Joe Smith is a martyr", 
+      "is_verb": "false", 
+      "l": "smith", 
+      "timepoint": 0, 
+      "r": "Joe", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "that his brother Hiram is a martyr", 
+      "is_verb": "false", 
+      "l": "hiram", 
+      "timepoint": 0, 
+      "r": "brother", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and that the persecutions of the United States Government against the prophets will also make a martyr of Brigham Young", 
+      "is_verb": "false", 
+      "l": "government", 
+      "timepoint": 0, 
+      "r": "States", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and that the persecutions of the United States Government against the prophets will also make a martyr of Brigham Young", 
+      "is_verb": "false", 
+      "l": "young", 
+      "timepoint": 0, 
+      "r": "Brigham", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and that the persecutions of the United States Government against the prophets will also make a martyr of Brigham Young", 
+      "is_verb": "false", 
+      "l": "states", 
+      "timepoint": 0, 
+      "r": "United", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "whose excited tone contrasted curiously with his naturally calm visage", 
+      "is_verb": "false", 
+      "l": "tone", 
+      "timepoint": 0, 
+      "r": "excited", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "whose excited tone contrasted curiously with his naturally calm visage", 
+      "is_verb": "false", 
+      "l": "visage", 
+      "timepoint": 0, 
+      "r": "calm", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "in reducing these independent fanatics to its rule", 
+      "is_verb": "false", 
+      "l": "fanatics", 
+      "timepoint": 0, 
+      "r": "independent", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "after imprisoning Brigham Young on a charge of rebellion and polygamy", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 4, 
+      "sentence": "after imprisoning Brigham Young on a charge of rebellion and polygamy", 
+      "is_verb": "false", 
+      "l": "young", 
+      "timepoint": 1, 
+      "r": "Brigham", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Elder Hitch", 
+      "is_verb": "false", 
+      "l": "hitch", 
+      "timepoint": 1, 
+      "r": "Elder", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 6, 
+      "sentence": "was trying to make proselytes on the very railway trains", 
+      "is_verb": "false", 
+      "l": "trains", 
+      "timepoint": 1, 
+      "r": "railway", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "emphasising his words with his loud voice and frequent gestures", 
+      "is_verb": "false", 
+      "l": "voice", 
+      "timepoint": 0, 
+      "r": "loud", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "emphasising his words with his loud voice and frequent gestures", 
+      "is_verb": "false", 
+      "l": "gestures", 
+      "timepoint": 0, 
+      "r": "frequent", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "he related the history of the Mormons from Biblical times: how that", 
+      "is_verb": "false", 
+      "l": "times", 
+      "timepoint": 0, 
+      "r": "Biblical", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "a Mormon prophet of the tribe of Joseph published the annals of the new religion", 
+      "is_verb": "false", 
+      "l": "prophet", 
+      "timepoint": 0, 
+      "r": "Mormon", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "a Mormon prophet of the tribe of Joseph published the annals of the new religion", 
+      "is_verb": "false", 
+      "l": "religion", 
+      "timepoint": 0, 
+      "r": "new", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and bequeathed them to his son Mormon; how", 
+      "is_verb": "false", 
+      "l": "mormon", 
+      "timepoint": 0, 
+      "r": "son", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 6, 
+      "sentence": "many centuries later", 
+      "is_verb": "false", 
+      "l": "centuries", 
+      "timepoint": 0, 
+      "r": "many", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 7, 
+      "sentence": "a translation of this precious book", 
+      "is_verb": "false", 
+      "l": "book", 
+      "timepoint": 0, 
+      "r": "precious", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 8, 
+      "sentence": "was made by Joseph Smith", 
+      "is_verb": "false", 
+      "l": "smith", 
+      "timepoint": 0, 
+      "r": "Joseph", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 9, 
+      "sentence": "a Vermont farmer", 
+      "is_verb": "false", 
+      "l": "farmer", 
+      "timepoint": 0, 
+      "r": "Vermont", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 10, 
+      "sentence": "who revealed himself as a mystical prophet in 1825; and how", 
+      "is_verb": "false", 
+      "l": "prophet", 
+      "timepoint": 0, 
+      "r": "mystical", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 11, 
+      "sentence": "the celestial messenger appeared to him in an illuminated forest", 
+      "is_verb": "false", 
+      "l": "messenger", 
+      "timepoint": 0, 
+      "r": "celestial", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 12, 
+      "sentence": "the celestial messenger appeared to him in an illuminated forest", 
+      "is_verb": "false", 
+      "l": "forest", 
+      "timepoint": 0, 
+      "r": "illuminated", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }
+  ], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "not being much interested in the missionary's narrative", 
+      "is_verb": "false", 
+      "l": "narrative", 
+      "timepoint": 0, 
+      "r": "missionary's", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "here left the car; but Elder Hitch", 
+      "is_verb": "false", 
+      "l": "hitch", 
+      "timepoint": 0, 
+      "r": "Elder", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and a few disciples", 
+      "is_verb": "false", 
+      "l": "disciples", 
+      "timepoint": 0, 
+      "r": "few", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Latter Day Saints", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "Latter", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "counts many artisans", 
+      "is_verb": "false", 
+      "l": "artisans", 
+      "timepoint": 0, 
+      "r": "many", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 5, 
+      "sentence": "as well as men engaged in the liberal professions", 
+      "is_verb": "false", 
+      "l": "professions", 
+      "timepoint": 0, 
+      "r": "liberal", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and a town built at Kirkland; how Smith became an enterprising banker", 
+      "is_verb": "false", 
+      "l": "banker", 
+      "timepoint": 0, 
+      "r": "enterprising", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and received from a simple mummy showman a papyrus scroll written by Abraham and several famous Egyptians", 
+      "is_verb": "false", 
+      "l": "showman", 
+      "timepoint": 0, 
+      "r": "mummy", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }, 
+    {
+      "index": 8, 
+      "sentence": "and received from a simple mummy showman a papyrus scroll written by Abraham and several famous Egyptians", 
+      "is_verb": "false", 
+      "l": "scroll", 
+      "timepoint": 0, 
+      "r": "papyrus", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }, 
+    {
+      "index": 9, 
+      "sentence": "and received from a simple mummy showman a papyrus scroll written by Abraham and several famous Egyptians", 
+      "is_verb": "false", 
+      "l": "mummy", 
+      "timepoint": 0, 
+      "r": "simple", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }, 
+    {
+      "index": 10, 
+      "sentence": "and received from a simple mummy showman a papyrus scroll written by Abraham and several famous Egyptians", 
+      "is_verb": "false", 
+      "l": "egyptians", 
+      "timepoint": 0, 
+      "r": "famous", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }
+  ], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "The Elder's story became somewhat wearisome", 
+      "is_verb": "false", 
+      "l": "story", 
+      "timepoint": 0, 
+      "r": "Elder's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "who proceeded with the story of Joseph Smith's bankruptcy in 1837", 
+      "is_verb": "false", 
+      "l": "smith's", 
+      "timepoint": 0, 
+      "r": "Joseph", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and how his ruined creditors gave him a coat of tar and feathers; his reappearance some years afterwards", 
+      "is_verb": "false", 
+      "l": "creditors", 
+      "timepoint": 0, 
+      "r": "ruined", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "more honourable and honoured than ever", 
+      "is_verb": "false", 
+      "l": "honourable", 
+      "timepoint": 0, 
+      "r": "more", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and his pursuit thence by outraged Gentiles", 
+      "is_verb": "false", 
+      "l": "gentiles", 
+      "timepoint": 0, 
+      "r": "outraged", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and retirement into the Far West", 
+      "is_verb": "false", 
+      "l": "west", 
+      "timepoint": 0, 
+      "r": "Far", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "among them honest Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "honest", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "after long persecutions", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "after long persecutions", 
+      "is_verb": "false", 
+      "l": "persecutions", 
+      "timepoint": 1, 
+      "r": "long", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "chief justice", 
+      "is_verb": "false", 
+      "l": "justice", 
+      "timepoint": 1, 
+      "r": "chief", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "as a candidate for the Presidency of the United States; and that finally", 
+      "is_verb": "false", 
+      "l": "states", 
+      "timepoint": 1, 
+      "r": "United", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }
+  ], 
+  "16": [
+    {
+      "index": 0, 
+      "sentence": "two years after the assassination of Joseph Smith", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "two years after the assassination of Joseph Smith", 
+      "is_verb": "false", 
+      "l": "smith", 
+      "timepoint": 1, 
+      "r": "Joseph", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "the inspired prophet", 
+      "is_verb": "false", 
+      "l": "prophet", 
+      "timepoint": 1, 
+      "r": "inspired", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Brigham Young", 
+      "is_verb": "false", 
+      "l": "young", 
+      "timepoint": 1, 
+      "r": "Brigham", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "left Nauvoo for the banks of the Great Salt Lake", 
+      "is_verb": "false", 
+      "l": "salt", 
+      "timepoint": 1, 
+      "r": "Great", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "in the midst of that fertile region", 
+      "is_verb": "false", 
+      "l": "region", 
+      "timepoint": 1, 
+      "r": "fertile", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 6, 
+      "sentence": "directly on the route of the emigrants who crossed Utah on their way to California", 
+      "is_verb": "false", 
+      "l": "utah", 
+      "timepoint": 1, 
+      "r": "crossed", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 7, 
+      "sentence": "the new colony", 
+      "is_verb": "false", 
+      "l": "colony", 
+      "timepoint": 1, 
+      "r": "new", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }
+  ], 
+  "17": [
+    {
+      "index": 0, 
+      "sentence": "added Elder William Hitch", 
+      "is_verb": "false", 
+      "l": "william", 
+      "timepoint": 0, 
+      "r": "Elder", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "added Elder William Hitch", 
+      "is_verb": "false", 
+      "l": "elder", 
+      "timepoint": 0, 
+      "r": "added", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Why has Brigham Young", 
+      "is_verb": "false", 
+      "l": "young", 
+      "timepoint": 0, 
+      "r": "Brigham", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 3, 
+      "sentence": "we shall yet find some independent territory on which to plant our tents", 
+      "is_verb": "false", 
+      "l": "territory", 
+      "timepoint": 0, 
+      "r": "independent", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 4, 
+      "sentence": "fixing his angry eyes upon his single auditor", 
+      "is_verb": "false", 
+      "l": "eyes", 
+      "timepoint": 0, 
+      "r": "angry", 
+      "relation": "has_property", 
+      "storypoints": 23
+    }, 
+    {
+      "index": 5, 
+      "sentence": "fixing his angry eyes upon his single auditor", 
+      "is_verb": "false", 
+      "l": "auditor", 
+      "timepoint": 0, 
+      "r": "single", 
+      "relation": "has_property", 
+      "storypoints": 23
+    }
+  ], 
+  "18": [
+    {
+      "index": 0, 
+      "sentence": "replied Passepartout courageously", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "During the lecture the train had been making good progress", 
+      "is_verb": "false", 
+      "l": "progress", 
+      "timepoint": 0, 
+      "r": "good", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and towards half-past twelve it reached the northwest border of the Great Salt Lake", 
+      "is_verb": "false", 
+      "l": "salt", 
+      "timepoint": 0, 
+      "r": "Great", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Thence the passengers could observe the vast extent of this interior sea", 
+      "is_verb": "false", 
+      "l": "extent", 
+      "timepoint": 0, 
+      "r": "vast", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Thence the passengers could observe the vast extent of this interior sea", 
+      "is_verb": "false", 
+      "l": "sea", 
+      "timepoint": 0, 
+      "r": "interior", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 4, 
+      "sentence": "which is also called the Dead Sea", 
+      "is_verb": "false", 
+      "l": "sea", 
+      "timepoint": 0, 
+      "r": "Dead", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and into which flows an American Jordan", 
+      "is_verb": "false", 
+      "l": "jordan", 
+      "timepoint": 0, 
+      "r": "American", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 6, 
+      "sentence": "It is a picturesque expanse", 
+      "is_verb": "false", 
+      "l": "expanse", 
+      "timepoint": 0, 
+      "r": "picturesque", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 7, 
+      "sentence": "framed in lofty crags in large strata", 
+      "is_verb": "false", 
+      "l": "crags", 
+      "timepoint": 0, 
+      "r": "lofty", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 8, 
+      "sentence": "framed in lofty crags in large strata", 
+      "is_verb": "false", 
+      "l": "strata", 
+      "timepoint": 0, 
+      "r": "large", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 9, 
+      "sentence": "encrusted with white salt--a superb sheet of water", 
+      "is_verb": "false", 
+      "l": "salt--a", 
+      "timepoint": 0, 
+      "r": "white", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 10, 
+      "sentence": "which was formerly of larger extent than now", 
+      "is_verb": "false", 
+      "l": "extent", 
+      "timepoint": 0, 
+      "r": "larger", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "20": [
+    {
+      "index": 0, 
+      "sentence": "The Salt Lake", 
+      "is_verb": "false", 
+      "l": "lake", 
+      "timepoint": 0, 
+      "r": "Salt", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Quite different from Lake Asphaltite", 
+      "is_verb": "false", 
+      "l": "asphaltite", 
+      "timepoint": 0, 
+      "r": "Lake", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "it contains considerable salt", 
+      "is_verb": "false", 
+      "l": "salt", 
+      "timepoint": 0, 
+      "r": "considerable", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and one quarter of the weight of its water is solid matter", 
+      "is_verb": "false", 
+      "l": "matter", 
+      "timepoint": 0, 
+      "r": "solid", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "its specific weight being 1", 
+      "is_verb": "false", 
+      "l": "weight", 
+      "timepoint": 0, 
+      "r": "specific", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 5, 
+      "sentence": "after being distilled", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and other streams soon perish", 
+      "is_verb": "false", 
+      "l": "streams", 
+      "timepoint": 1, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }
+  ], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "for the Mormons are mostly farmers; while ranches and pens for domesticated animals", 
+      "is_verb": "false", 
+      "l": "animals", 
+      "timepoint": 0, 
+      "r": "domesticated", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and other cereals", 
+      "is_verb": "false", 
+      "l": "cereals", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "luxuriant prairies", 
+      "is_verb": "false", 
+      "l": "prairies", 
+      "timepoint": 0, 
+      "r": "luxuriant", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "22": [
+    {
+      "index": 0, 
+      "sentence": "The train reached Ogden at two o'clock", 
+      "is_verb": "false", 
+      "l": "ogden", 
+      "timepoint": 0, 
+      "r": "reached", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Fogg and his party had time to pay a visit to Salt Lake City", 
+      "is_verb": "false", 
+      "l": "lake", 
+      "timepoint": 0, 
+      "r": "Salt", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "connected with Ogden by a branch road; and they spent two hours in this strikingly American town", 
+      "is_verb": "false", 
+      "l": "road", 
+      "timepoint": 0, 
+      "r": "branch", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "connected with Ogden by a branch road; and they spent two hours in this strikingly American town", 
+      "is_verb": "false", 
+      "l": "town", 
+      "timepoint": 0, 
+      "r": "American", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "built on the pattern of other cities of the Union", 
+      "is_verb": "false", 
+      "l": "cities", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "with the sombre sadness of right-angles", 
+      "is_verb": "false", 
+      "l": "sadness", 
+      "timepoint": 0, 
+      "r": "sombre", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 6, 
+      "sentence": "as Victor Hugo expresses it", 
+      "is_verb": "false", 
+      "l": "hugo", 
+      "timepoint": 0, 
+      "r": "Victor", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 7, 
+      "sentence": "In this strange country", 
+      "is_verb": "false", 
+      "l": "country", 
+      "timepoint": 0, 
+      "r": "strange", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }
+  ], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "about the streets of the town built between the banks of the Jordan and the spurs of the Wahsatch Range", 
+      "is_verb": "false", 
+      "l": "range", 
+      "timepoint": 0, 
+      "r": "Wahsatch", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "but the prophet's mansion", 
+      "is_verb": "false", 
+      "l": "mansion", 
+      "timepoint": 0, 
+      "r": "prophet's", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "blue-brick houses with verandas and porches", 
+      "is_verb": "false", 
+      "l": "houses", 
+      "timepoint": 0, 
+      "r": "blue-brick", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 3, 
+      "sentence": "A clay and pebble wall", 
+      "is_verb": "false", 
+      "l": "wall", 
+      "timepoint": 0, 
+      "r": "pebble", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 4, 
+      "sentence": "surrounded the town; and in the principal street were the market and several hotels adorned with pavilions", 
+      "is_verb": "false", 
+      "l": "street", 
+      "timepoint": 0, 
+      "r": "principal", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 5, 
+      "sentence": "surrounded the town; and in the principal street were the market and several hotels adorned with pavilions", 
+      "is_verb": "false", 
+      "l": "hotels", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 6, 
+      "sentence": "which they only reached after having traversed several quarters surrounded by palisades", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 19
+    }, 
+    {
+      "index": 7, 
+      "sentence": "which they only reached after having traversed several quarters surrounded by palisades", 
+      "is_verb": "false", 
+      "l": "quarters", 
+      "timepoint": 1, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }, 
+    {
+      "index": 8, 
+      "sentence": "There were many women", 
+      "is_verb": "false", 
+      "l": "women", 
+      "timepoint": 1, 
+      "r": "many", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 9, 
+      "sentence": "peculiar institution", 
+      "is_verb": "false", 
+      "l": "institution", 
+      "timepoint": 1, 
+      "r": "peculiar", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }, 
+    {
+      "index": 10, 
+      "sentence": "as they please; but it is worth noting that it is mainly the female citizens of Utah who are anxious to marry", 
+      "is_verb": "false", 
+      "l": "citizens", 
+      "timepoint": 1, 
+      "r": "female", 
+      "relation": "has_property", 
+      "storypoints": 25
+    }, 
+    {
+      "index": 11, 
+      "sentence": "according to the Mormon religion", 
+      "is_verb": "false", 
+      "l": "religion", 
+      "timepoint": 1, 
+      "r": "Mormon", 
+      "relation": "has_property", 
+      "storypoints": 27
+    }, 
+    {
+      "index": 12, 
+      "sentence": "maiden ladies are not admitted to the possession of its highest joys", 
+      "is_verb": "false", 
+      "l": "ladies", 
+      "timepoint": 1, 
+      "r": "maiden", 
+      "relation": "has_property", 
+      "storypoints": 28
+    }, 
+    {
+      "index": 13, 
+      "sentence": "maiden ladies are not admitted to the possession of its highest joys", 
+      "is_verb": "false", 
+      "l": "joys", 
+      "timepoint": 1, 
+      "r": "highest", 
+      "relation": "has_property", 
+      "storypoints": 28
+    }, 
+    {
+      "index": 14, 
+      "sentence": "These poor creatures seemed to be neither well off nor happy", 
+      "is_verb": "false", 
+      "l": "creatures", 
+      "timepoint": 1, 
+      "r": "poor", 
+      "relation": "has_property", 
+      "storypoints": 29
+    }, 
+    {
+      "index": 15, 
+      "sentence": "black silk dresses", 
+      "is_verb": "false", 
+      "l": "dresses", 
+      "timepoint": 1, 
+      "r": "silk", 
+      "relation": "has_property", 
+      "storypoints": 33
+    }, 
+    {
+      "index": 16, 
+      "sentence": "black silk dresses", 
+      "is_verb": "false", 
+      "l": "silk", 
+      "timepoint": 1, 
+      "r": "black", 
+      "relation": "has_property", 
+      "storypoints": 33
+    }, 
+    {
+      "index": 17, 
+      "sentence": "under a hood or modest shawl; others were habited in Indian fashion", 
+      "is_verb": "false", 
+      "l": "fashion", 
+      "timepoint": 1, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 34
+    }, 
+    {
+      "index": 18, 
+      "sentence": "under a hood or modest shawl; others were habited in Indian fashion", 
+      "is_verb": "false", 
+      "l": "shawl", 
+      "timepoint": 1, 
+      "r": "modest", 
+      "relation": "has_property", 
+      "storypoints": 34
+    }
+  ], 
+  "24": [
+    {
+      "index": 0, 
+      "sentence": "Passepartout could not behold without a certain fright these women", 
+      "is_verb": "false", 
+      "l": "fright", 
+      "timepoint": 0, 
+      "r": "certain", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "with conferring happiness on a single Mormon", 
+      "is_verb": "false", 
+      "l": "mormon", 
+      "timepoint": 0, 
+      "r": "single", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "His common sense pitied", 
+      "is_verb": "false", 
+      "l": "sense", 
+      "timepoint": 0, 
+      "r": "common", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "It seemed to him a terrible thing to have to guide so many wives at once across the vicissitudes of life", 
+      "is_verb": "false", 
+      "l": "wives", 
+      "timepoint": 0, 
+      "r": "many", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "in a body to the Mormon paradise with the prospect of seeing them in the company of the glorious Smith", 
+      "is_verb": "false", 
+      "l": "paradise", 
+      "timepoint": 0, 
+      "r": "Mormon", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 5, 
+      "sentence": "in a body to the Mormon paradise with the prospect of seeing them in the company of the glorious Smith", 
+      "is_verb": "false", 
+      "l": "smith", 
+      "timepoint": 0, 
+      "r": "glorious", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 6, 
+      "sentence": "who doubtless was the chief ornament of that delightful place", 
+      "is_verb": "false", 
+      "l": "ornament", 
+      "timepoint": 0, 
+      "r": "chief", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 7, 
+      "sentence": "who doubtless was the chief ornament of that delightful place", 
+      "is_verb": "false", 
+      "l": "place", 
+      "timepoint": 0, 
+      "r": "delightful", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 8, 
+      "sentence": "and he imagined--perhaps he was mistaken--that the fair ones of Salt Lake City cast rather alarming glances on his person", 
+      "is_verb": "false", 
+      "l": "lake", 
+      "timepoint": 0, 
+      "r": "Salt", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 9, 
+      "sentence": "and he imagined--perhaps he was mistaken--that the fair ones of Salt Lake City cast rather alarming glances on his person", 
+      "is_verb": "false", 
+      "l": "ones", 
+      "timepoint": 0, 
+      "r": "fair", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 10, 
+      "sentence": "and he imagined--perhaps he was mistaken--that the fair ones of Salt Lake City cast rather alarming glances on his person", 
+      "is_verb": "false", 
+      "l": "glances", 
+      "timepoint": 0, 
+      "r": "alarming", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 11, 
+      "sentence": "that the locomotive wheels began to move", 
+      "is_verb": "false", 
+      "l": "wheels", 
+      "timepoint": 0, 
+      "r": "locomotive", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }
+  ], 
+  "25": [
+    {
+      "index": 0, 
+      "sentence": "The gentleman who uttered the cries was evidently a belated Mormon", 
+      "is_verb": "false", 
+      "l": "mormon", 
+      "timepoint": 0, 
+      "r": "belated", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "jumped on the rear platform of the train", 
+      "is_verb": "false", 
+      "l": "platform", 
+      "timepoint": 0, 
+      "r": "rear", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "who had been anxiously watching this amateur gymnast", 
+      "is_verb": "false", 
+      "l": "gymnast", 
+      "timepoint": 0, 
+      "r": "amateur", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and learned that he had taken flight after an unpleasant domestic scene", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and learned that he had taken flight after an unpleasant domestic scene", 
+      "is_verb": "false", 
+      "l": "scene", 
+      "timepoint": 1, 
+      "r": "domestic", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "27": [
+    {
+      "index": 0, 
+      "sentence": "Passepartout ventured to ask him politely how many wives he had; for", 
+      "is_verb": "false", 
+      "l": "wives", 
+      "timepoint": 0, 
+      "r": "many", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "28": [
+    {
+      "index": 0, 
+      "sentence": "raising his arms heavenward--", 
+      "is_verb": "false", 
+      "l": "heavenward--", 
+      "timepoint": 0, 
+      "r": "arms", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ]
+}

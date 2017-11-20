@@ -1,0 +1,1340 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH CERTAIN INCIDENTS ARE NARRATED WHICH ARE ONLY TO BE MET WITH ON AMERICAN RAILROADS ", 
+      "is_verb": "false", 
+      "l": "railroads", 
+      "timepoint": 0, 
+      "r": "AMERICAN", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "IN WHICH CERTAIN INCIDENTS ARE NARRATED WHICH ARE ONLY TO BE MET WITH ON AMERICAN RAILROADS ", 
+      "is_verb": "false", 
+      "l": "incidents", 
+      "timepoint": 0, 
+      "r": "CERTAIN", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "passing Fort Saunders", 
+      "is_verb": "false", 
+      "l": "saunders", 
+      "timepoint": 0, 
+      "r": "Fort", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "crossing Cheyne Pass", 
+      "is_verb": "false", 
+      "l": "pass", 
+      "timepoint": 0, 
+      "r": "Cheyne", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and reaching Evans Pass", 
+      "is_verb": "false", 
+      "l": "pass", 
+      "timepoint": 0, 
+      "r": "Evans", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The road here attained the highest elevation of the journey", 
+      "is_verb": "false", 
+      "l": "elevation", 
+      "timepoint": 0, 
+      "r": "highest", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "The travellers had now only to descend to the Atlantic by limitless plains", 
+      "is_verb": "false", 
+      "l": "plains", 
+      "timepoint": 0, 
+      "r": "limitless", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "grand trunk", 
+      "is_verb": "false", 
+      "l": "trunk", 
+      "timepoint": 0, 
+      "r": "grand", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 6, 
+      "sentence": "The country round about is rich in gold and silver", 
+      "is_verb": "false", 
+      "l": "round", 
+      "timepoint": 0, 
+      "r": "country", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "Thirteen hundred and eighty-two miles had been passed over from San Francisco", 
+      "is_verb": "false", 
+      "l": "miles", 
+      "timepoint": 0, 
+      "r": "eighty-two", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Thirteen hundred and eighty-two miles had been passed over from San Francisco", 
+      "is_verb": "false", 
+      "l": "francisco", 
+      "timepoint": 0, 
+      "r": "San", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "in three days and three nights; four days and nights more would probably bring them to New York", 
+      "is_verb": "false", 
+      "l": "york", 
+      "timepoint": 0, 
+      "r": "New", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Phileas Fogg was not as yet behind-hand", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "During the night Camp Walbach was passed on the left; Lodge Pole Creek ran parallel with the road", 
+      "is_verb": "false", 
+      "l": "camp", 
+      "timepoint": 0, 
+      "r": "night", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "During the night Camp Walbach was passed on the left; Lodge Pole Creek ran parallel with the road", 
+      "is_verb": "false", 
+      "l": "pole", 
+      "timepoint": 0, 
+      "r": "Lodge", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "They entered Nebraska at eleven", 
+      "is_verb": "false", 
+      "l": "nebraska", 
+      "timepoint": 0, 
+      "r": "entered", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "on the southern branch of the Platte River", 
+      "is_verb": "false", 
+      "l": "river", 
+      "timepoint": 0, 
+      "r": "Platte", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "on the southern branch of the Platte River", 
+      "is_verb": "false", 
+      "l": "branch", 
+      "timepoint": 0, 
+      "r": "southern", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "It was here that the Union Pacific Railroad was inaugurated on the 23rd of October", 
+      "is_verb": "false", 
+      "l": "pacific", 
+      "timepoint": 0, 
+      "r": "Union", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "by the chief engineer", 
+      "is_verb": "false", 
+      "l": "engineer", 
+      "timepoint": 0, 
+      "r": "chief", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "General Dodge", 
+      "is_verb": "false", 
+      "l": "dodge", 
+      "timepoint": 0, 
+      "r": "General", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Two powerful locomotives", 
+      "is_verb": "false", 
+      "l": "locomotives", 
+      "timepoint": 0, 
+      "r": "powerful", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "carrying nine cars of invited guests", 
+      "is_verb": "false", 
+      "l": "guests", 
+      "timepoint": 0, 
+      "r": "invited", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "amongst whom was Thomas C", 
+      "is_verb": "false", 
+      "l": "c", 
+      "timepoint": 0, 
+      "r": "Thomas", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 6, 
+      "sentence": "the Sioux and Pawnees performed an imitation Indian battle", 
+      "is_verb": "false", 
+      "l": "indian", 
+      "timepoint": 0, 
+      "r": "imitation", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and the first number of the Railway Pioneer was printed by a press brought on the train", 
+      "is_verb": "false", 
+      "l": "pioneer", 
+      "timepoint": 0, 
+      "r": "Railway", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 8, 
+      "sentence": "and the first number of the Railway Pioneer was printed by a press brought on the train", 
+      "is_verb": "false", 
+      "l": "number", 
+      "timepoint": 0, 
+      "r": "first", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 9, 
+      "sentence": "Thus was celebrated the inauguration of this great railroad", 
+      "is_verb": "false", 
+      "l": "railroad", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 10, 
+      "sentence": "a mighty instrument of progress and civilisation", 
+      "is_verb": "false", 
+      "l": "instrument", 
+      "timepoint": 0, 
+      "r": "mighty", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 11, 
+      "sentence": "more powerful than Amphion's lyre", 
+      "is_verb": "false", 
+      "l": "lyre", 
+      "timepoint": 0, 
+      "r": "Amphion's", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 12, 
+      "sentence": "was about to bid them rise from American soil", 
+      "is_verb": "false", 
+      "l": "soil", 
+      "timepoint": 0, 
+      "r": "American", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }
+  ], 
+  "8": [
+    {
+      "index": 0, 
+      "sentence": "Fort McPherson was left behind at eight in the morning", 
+      "is_verb": "false", 
+      "l": "mcpherson", 
+      "timepoint": 0, 
+      "r": "Fort", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and three hundred and fifty-seven miles had yet to be traversed before reaching Omaha", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and three hundred and fifty-seven miles had yet to be traversed before reaching Omaha", 
+      "is_verb": "false", 
+      "l": "miles", 
+      "timepoint": -1, 
+      "r": "fifty-seven", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The road followed the capricious windings of the southern branch of the Platte River", 
+      "is_verb": "false", 
+      "l": "river", 
+      "timepoint": -1, 
+      "r": "Platte", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 4, 
+      "sentence": "The road followed the capricious windings of the southern branch of the Platte River", 
+      "is_verb": "false", 
+      "l": "windings", 
+      "timepoint": -1, 
+      "r": "capricious", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 5, 
+      "sentence": "The road followed the capricious windings of the southern branch of the Platte River", 
+      "is_verb": "false", 
+      "l": "branch", 
+      "timepoint": -1, 
+      "r": "southern", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 6, 
+      "sentence": "At nine the train stopped at the important town of North Platte", 
+      "is_verb": "false", 
+      "l": "platte", 
+      "timepoint": -1, 
+      "r": "North", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 7, 
+      "sentence": "At nine the train stopped at the important town of North Platte", 
+      "is_verb": "false", 
+      "l": "town", 
+      "timepoint": -1, 
+      "r": "important", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 8, 
+      "sentence": "which rejoin each other around it and form a single artery", 
+      "is_verb": "false", 
+      "l": "artery", 
+      "timepoint": -1, 
+      "r": "single", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 9, 
+      "sentence": "a large tributary", 
+      "is_verb": "false", 
+      "l": "tributary", 
+      "timepoint": -1, 
+      "r": "large", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "9": [
+    {
+      "index": 0, 
+      "sentence": "The one hundred and first meridian was passed", 
+      "is_verb": "false", 
+      "l": "meridian", 
+      "timepoint": 0, 
+      "r": "first", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "Fix had begun by winning several guineas", 
+      "is_verb": "false", 
+      "l": "guineas", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "which he seemed likely to lose; but he showed himself a not less eager whist-player than Mr", 
+      "is_verb": "false", 
+      "l": "whist-player", 
+      "timepoint": 0, 
+      "r": "eager", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "having resolved on a bold stroke", 
+      "is_verb": "false", 
+      "l": "stroke", 
+      "timepoint": 0, 
+      "r": "bold", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "and beheld Colonel Proctor", 
+      "is_verb": "false", 
+      "l": "proctor", 
+      "timepoint": 0, 
+      "r": "Colonel", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "Stamp Proctor and Phileas Fogg recognised each other at once", 
+      "is_verb": "false", 
+      "l": "proctor", 
+      "timepoint": 0, 
+      "r": "Stamp", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Stamp Proctor and Phileas Fogg recognised each other at once", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "14": [], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "replied Phileas Fogg coolly", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "replied Phileas Fogg coolly", 
+      "is_verb": "false", 
+      "l": "phileas", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "16": [
+    {
+      "index": 0, 
+      "sentence": "replied Colonel Proctor", 
+      "is_verb": "false", 
+      "l": "proctor", 
+      "timepoint": 0, 
+      "r": "Colonel", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "replied Colonel Proctor", 
+      "is_verb": "false", 
+      "l": "colonel", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "in an insolent tone", 
+      "is_verb": "false", 
+      "l": "tone", 
+      "timepoint": 0, 
+      "r": "insolent", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "17": [], 
+  "18": [
+    {
+      "index": 0, 
+      "sentence": "said Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "son of John Bull", 
+      "is_verb": "false", 
+      "l": "bull", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "20": [
+    {
+      "index": 0, 
+      "sentence": "She seized Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "seized", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Fogg's arm and gently pulled him back", 
+      "is_verb": "false", 
+      "l": "arm", 
+      "timepoint": 0, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "going to Colonel Proctor said", 
+      "is_verb": "false", 
+      "l": "proctor", 
+      "timepoint": 0, 
+      "r": "Colonel", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "21": [], 
+  "22": [], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "Fogg; as vainly did the detective endeavour to make the quarrel his", 
+      "is_verb": "false", 
+      "l": "endeavour", 
+      "timepoint": 0, 
+      "r": "detective", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg left the car", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "I am in a great hurry to get back to Europe", 
+      "is_verb": "false", 
+      "l": "hurry", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }
+  ], 
+  "24": [
+    {
+      "index": 0, 
+      "sentence": "replied Colonel Proctor", 
+      "is_verb": "false", 
+      "l": "proctor", 
+      "timepoint": 0, 
+      "r": "Colonel", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "replied Colonel Proctor", 
+      "is_verb": "false", 
+      "l": "colonel", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "25": [
+    {
+      "index": 0, 
+      "sentence": "after our meeting at San Francisco", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 1, 
+      "sentence": "after our meeting at San Francisco", 
+      "is_verb": "false", 
+      "l": "francisco", 
+      "timepoint": 1, 
+      "r": "San", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "26": [], 
+  "27": [], 
+  "28": [], 
+  "29": [
+    {
+      "index": 0, 
+      "sentence": "returned Phileas Fogg;", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "returned Phileas Fogg;", 
+      "is_verb": "false", 
+      "l": "phileas", 
+      "timepoint": 0, 
+      "r": "returned", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "30": [
+    {
+      "index": 0, 
+      "sentence": "cried Stamp Proctor", 
+      "is_verb": "false", 
+      "l": "proctor", 
+      "timepoint": 0, 
+      "r": "Stamp", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "cried Stamp Proctor", 
+      "is_verb": "false", 
+      "l": "stamp", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "31": [
+    {
+      "index": 0, 
+      "sentence": "You are going to New York", 
+      "is_verb": "false", 
+      "l": "york", 
+      "timepoint": 0, 
+      "r": "New", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "32": [], 
+  "33": [], 
+  "34": [], 
+  "35": [], 
+  "36": [
+    {
+      "index": 0, 
+      "sentence": "Do you know Plum Creek", 
+      "is_verb": "false", 
+      "l": "creek", 
+      "timepoint": 0, 
+      "r": "Plum", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "37": [
+    {
+      "index": 0, 
+      "sentence": "replied Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "38": [
+    {
+      "index": 0, 
+      "sentence": "It's the next station", 
+      "is_verb": "false", 
+      "l": "station", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "In ten minutes several revolver-shots could be exchanged", 
+      "is_verb": "false", 
+      "l": "revolver-shots", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "39": [
+    {
+      "index": 0, 
+      "sentence": "I will stop at Plum Creek", 
+      "is_verb": "false", 
+      "l": "creek", 
+      "timepoint": 0, 
+      "r": "Plum", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "40": [], 
+  "41": [
+    {
+      "index": 0, 
+      "sentence": "replied Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Fogg resumed the interrupted game with perfect calmness", 
+      "is_verb": "false", 
+      "l": "game", 
+      "timepoint": 0, 
+      "r": "interrupted", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Fogg resumed the interrupted game with perfect calmness", 
+      "is_verb": "false", 
+      "l": "calmness", 
+      "timepoint": 0, 
+      "r": "perfect", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "42": [
+    {
+      "index": 0, 
+      "sentence": "At eleven o'clock the locomotive's whistle announced that they were approaching Plum Creek station", 
+      "is_verb": "false", 
+      "l": "whistle", 
+      "timepoint": 0, 
+      "r": "locomotive's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "At eleven o'clock the locomotive's whistle announced that they were approaching Plum Creek station", 
+      "is_verb": "false", 
+      "l": "creek", 
+      "timepoint": 0, 
+      "r": "Plum", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "43": [
+    {
+      "index": 0, 
+      "sentence": "The door of the next car opened", 
+      "is_verb": "false", 
+      "l": "car", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and Colonel Proctor appeared on the platform", 
+      "is_verb": "false", 
+      "l": "proctor", 
+      "timepoint": 0, 
+      "r": "Colonel", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "attended by a Yankee of his own stamp as his second", 
+      "is_verb": "false", 
+      "l": "stamp", 
+      "timepoint": 0, 
+      "r": "own", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "44": [], 
+  "45": [], 
+  "46": [], 
+  "47": [], 
+  "48": [], 
+  "49": [
+    {
+      "index": 0, 
+      "sentence": "Under any other circumstances I should have been happy to oblige you", 
+      "is_verb": "false", 
+      "l": "circumstances", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 1, 
+      "sentence": "after all", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 8
+    }
+  ], 
+  "50": [], 
+  "51": [
+    {
+      "index": 0, 
+      "sentence": "replied Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "replied Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "phileas", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "52": [
+    {
+      "index": 0, 
+      "sentence": "and the conductor is a gentleman of the first order", 
+      "is_verb": "false", 
+      "l": "order", 
+      "timepoint": 0, 
+      "r": "first", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "53": [], 
+  "54": [
+    {
+      "index": 0, 
+      "sentence": "The last car was only occupied by a dozen passengers", 
+      "is_verb": "false", 
+      "l": "passengers", 
+      "timepoint": 0, 
+      "r": "dozen", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The last car was only occupied by a dozen passengers", 
+      "is_verb": "false", 
+      "l": "car", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "whom the conductor politely asked if they would not be so kind as to leave it vacant for a few moments", 
+      "is_verb": "false", 
+      "l": "moments", 
+      "timepoint": 0, 
+      "r": "few", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "55": [
+    {
+      "index": 0, 
+      "sentence": "Fogg and Colonel Proctor", 
+      "is_verb": "false", 
+      "l": "proctor", 
+      "timepoint": 0, 
+      "r": "Colonel", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 1, 
+      "sentence": "each provided with two six-barrelled revolvers", 
+      "is_verb": "false", 
+      "l": "revolvers", 
+      "timepoint": 0, 
+      "r": "six-barrelled", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 2, 
+      "sentence": "They were to begin firing at the first whistle of the locomotive", 
+      "is_verb": "false", 
+      "l": "whistle", 
+      "timepoint": 0, 
+      "r": "first", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 3, 
+      "sentence": "After an interval of two minutes", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 14
+    }
+  ], 
+  "56": [
+    {
+      "index": 0, 
+      "sentence": "when suddenly savage cries resounded in the air", 
+      "is_verb": "false", 
+      "l": "cries", 
+      "timepoint": 0, 
+      "r": "savage", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The reports continued in front and the whole length of the train", 
+      "is_verb": "false", 
+      "l": "length", 
+      "timepoint": 0, 
+      "r": "whole", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "57": [
+    {
+      "index": 0, 
+      "sentence": "Colonel Proctor and Mr", 
+      "is_verb": "false", 
+      "l": "proctor", 
+      "timepoint": 0, 
+      "r": "Colonel", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "58": [
+    {
+      "index": 0, 
+      "sentence": "This was not the first attempt of these daring Indians", 
+      "is_verb": "false", 
+      "l": "attempt", 
+      "timepoint": 0, 
+      "r": "first", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "This was not the first attempt of these daring Indians", 
+      "is_verb": "false", 
+      "l": "indians", 
+      "timepoint": 0, 
+      "r": "daring", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "with the ease of a clown mounting a horse at full gallop", 
+      "is_verb": "false", 
+      "l": "gallop", 
+      "timepoint": 0, 
+      "r": "full", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "59": [], 
+  "60": [
+    {
+      "index": 0, 
+      "sentence": "and the locomotive was plunging forward with terrific velocity", 
+      "is_verb": "false", 
+      "l": "velocity", 
+      "timepoint": 0, 
+      "r": "terrific", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "61": [
+    {
+      "index": 0, 
+      "sentence": "The Sioux had at the same time invaded the cars", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 0, 
+      "r": "same", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "skipping like enraged monkeys over the roofs", 
+      "is_verb": "false", 
+      "l": "monkeys", 
+      "timepoint": 0, 
+      "r": "enraged", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "62": [
+    {
+      "index": 0, 
+      "sentence": "She defended herself like a true heroine with a revolver", 
+      "is_verb": "false", 
+      "l": "heroine", 
+      "timepoint": 0, 
+      "r": "true", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Several passengers", 
+      "is_verb": "false", 
+      "l": "passengers", 
+      "timepoint": 0, 
+      "r": "Several", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "63": [
+    {
+      "index": 0, 
+      "sentence": "Fort Kearney station", 
+      "is_verb": "false", 
+      "l": "kearney", 
+      "timepoint": 0, 
+      "r": "Fort", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "the Sioux would be masters of the train between Fort Kearney and the station beyond", 
+      "is_verb": "false", 
+      "l": "kearney", 
+      "timepoint": 0, 
+      "r": "Fort", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "64": [
+    {
+      "index": 0, 
+      "sentence": "At the same moment he cried", 
+      "is_verb": "false", 
+      "l": "moment", 
+      "timepoint": 0, 
+      "r": "same", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "65": [
+    {
+      "index": 0, 
+      "sentence": "said Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "66": [
+    {
+      "index": 0, 
+      "sentence": "cried Passepartout;", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "67": [
+    {
+      "index": 0, 
+      "sentence": "Fogg had not time to stop the brave fellow", 
+      "is_verb": "false", 
+      "l": "fellow", 
+      "timepoint": 0, 
+      "r": "brave", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "he made use of his old acrobatic experience", 
+      "is_verb": "false", 
+      "l": "experience", 
+      "timepoint": 0, 
+      "r": "acrobatic", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and with amazing agility worked his way under the cars", 
+      "is_verb": "false", 
+      "l": "agility", 
+      "timepoint": 0, 
+      "r": "amazing", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 3, 
+      "sentence": "creeping from one car to another with marvellous skill", 
+      "is_verb": "false", 
+      "l": "skill", 
+      "timepoint": 0, 
+      "r": "marvellous", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "68": [
+    {
+      "index": 0, 
+      "sentence": "with the other he loosened the safety chains; but", 
+      "is_verb": "false", 
+      "l": "chains", 
+      "timepoint": 0, 
+      "r": "safety", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "had not a violent concussion jolted this bar out", 
+      "is_verb": "false", 
+      "l": "concussion", 
+      "timepoint": 0, 
+      "r": "violent", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "69": [
+    {
+      "index": 0, 
+      "sentence": "the train still moved for several minutes; but the brakes were worked and at last they stopped", 
+      "is_verb": "false", 
+      "l": "minutes", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "less than a hundred feet from Kearney station", 
+      "is_verb": "false", 
+      "l": "station", 
+      "timepoint": 0, 
+      "r": "Kearney", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "70": [
+    {
+      "index": 0, 
+      "sentence": "and decamped in a body before the train entirely stopped", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }
+  ], 
+  "71": [
+    {
+      "index": 0, 
+      "sentence": "But when the passengers counted each other on the station platform several were found missing; among others the courageous Frenchman", 
+      "is_verb": "false", 
+      "l": "platform", 
+      "timepoint": 0, 
+      "r": "station", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "But when the passengers counted each other on the station platform several were found missing; among others the courageous Frenchman", 
+      "is_verb": "false", 
+      "l": "frenchman", 
+      "timepoint": 0, 
+      "r": "courageous", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ]
+}

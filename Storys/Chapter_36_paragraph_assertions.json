@@ -1,0 +1,969 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH PHILEAS FOGG'S NAME IS ONCE MORE AT A PREMIUM ON 'CHANGE ", 
+      "is_verb": "false", 
+      "l": "fogg's", 
+      "timepoint": 0, 
+      "r": "PHILEAS", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "It is time to relate what a change took place in English public opinion when it transpired that the real bankrobber", 
+      "is_verb": "false", 
+      "l": "opinion", 
+      "timepoint": 0, 
+      "r": "public", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "It is time to relate what a change took place in English public opinion when it transpired that the real bankrobber", 
+      "is_verb": "false", 
+      "l": "bankrobber", 
+      "timepoint": 0, 
+      "r": "real", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "a certain James Strand", 
+      "is_verb": "false", 
+      "l": "strand", 
+      "timepoint": 0, 
+      "r": "James", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "a certain James Strand", 
+      "is_verb": "false", 
+      "l": "james", 
+      "timepoint": 0, 
+      "r": "certain", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 4, 
+      "sentence": "on the 17th day of December", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "17th", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Three days before", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Phileas Fogg had been a criminal", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": -1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 7, 
+      "sentence": "who was being desperately followed up by the police; now he was an honourable gentleman", 
+      "is_verb": "false", 
+      "l": "gentleman", 
+      "timepoint": -1, 
+      "r": "honourable", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 8, 
+      "sentence": "mathematically pursuing his eccentric journey round the world", 
+      "is_verb": "false", 
+      "l": "round", 
+      "timepoint": -1, 
+      "r": "journey", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 9, 
+      "sentence": "mathematically pursuing his eccentric journey round the world", 
+      "is_verb": "false", 
+      "l": "journey", 
+      "timepoint": -1, 
+      "r": "eccentric", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg bonds", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and many new wagers were made", 
+      "is_verb": "false", 
+      "l": "wagers", 
+      "timepoint": 0, 
+      "r": "new", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Phileas Fogg's name was once more at a premium on 'Change", 
+      "is_verb": "false", 
+      "l": "fogg's", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "His five friends of the Reform Club passed these three days in a state of feverish suspense", 
+      "is_verb": "false", 
+      "l": "club", 
+      "timepoint": 0, 
+      "r": "Reform", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "His five friends of the Reform Club passed these three days in a state of feverish suspense", 
+      "is_verb": "false", 
+      "l": "suspense", 
+      "timepoint": 0, 
+      "r": "feverish", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "reappear before their eyes", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "the day of James Strand's arrest", 
+      "is_verb": "false", 
+      "l": "strand's", 
+      "timepoint": -1, 
+      "r": "James", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "was the seventy-sixth since Phileas Fogg's departure", 
+      "is_verb": "false", 
+      "l": "fogg's", 
+      "timepoint": -1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 5, 
+      "sentence": "at a quarter before nine in the evening", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -2, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 6, 
+      "sentence": "on the threshold of the Reform Club saloon", 
+      "is_verb": "false", 
+      "l": "club", 
+      "timepoint": -2, 
+      "r": "Reform", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "London society existed", 
+      "is_verb": "false", 
+      "l": "society", 
+      "timepoint": 0, 
+      "r": "London", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Telegrams were sent to America and Asia for news of Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Messengers were dispatched to the house in Saville Row morning and evening", 
+      "is_verb": "false", 
+      "l": "row", 
+      "timepoint": 0, 
+      "r": "Saville", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "who had so unfortunately followed up a false scent", 
+      "is_verb": "false", 
+      "l": "scent", 
+      "timepoint": 0, 
+      "r": "false", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 5, 
+      "sentence": "was drawing near his last turning-point", 
+      "is_verb": "false", 
+      "l": "turning-point", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and at five; and paralytic old Lord Albemarle bet even in his favour", 
+      "is_verb": "false", 
+      "l": "albemarle", 
+      "timepoint": 0, 
+      "r": "Lord", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and at five; and paralytic old Lord Albemarle bet even in his favour", 
+      "is_verb": "false", 
+      "l": "lord", 
+      "timepoint": 0, 
+      "r": "old", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }
+  ], 
+  "8": [
+    {
+      "index": 0, 
+      "sentence": "A great crowd was collected in Pall Mall and the neighbouring streets on Saturday evening; it seemed like a multitude of brokers permanently established around the Reform Club", 
+      "is_verb": "false", 
+      "l": "mall", 
+      "timepoint": 0, 
+      "r": "Pall", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "A great crowd was collected in Pall Mall and the neighbouring streets on Saturday evening; it seemed like a multitude of brokers permanently established around the Reform Club", 
+      "is_verb": "false", 
+      "l": "club", 
+      "timepoint": 0, 
+      "r": "Reform", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "A great crowd was collected in Pall Mall and the neighbouring streets on Saturday evening; it seemed like a multitude of brokers permanently established around the Reform Club", 
+      "is_verb": "false", 
+      "l": "crowd", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and financial transactions were going on", 
+      "is_verb": "false", 
+      "l": "transactions", 
+      "timepoint": 0, 
+      "r": "financial", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "The police had great difficulty in keeping back the crowd", 
+      "is_verb": "false", 
+      "l": "difficulty", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and as the hour when Phileas Fogg was due approached", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 6, 
+      "sentence": "the excitement rose to its highest pitch", 
+      "is_verb": "false", 
+      "l": "pitch", 
+      "timepoint": 0, 
+      "r": "highest", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "9": [
+    {
+      "index": 0, 
+      "sentence": "The five antagonists of Phileas Fogg had met in the great saloon of the club", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The five antagonists of Phileas Fogg had met in the great saloon of the club", 
+      "is_verb": "false", 
+      "l": "saloon", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "John Sullivan and Samuel Fallentin", 
+      "is_verb": "false", 
+      "l": "sullivan", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "John Sullivan and Samuel Fallentin", 
+      "is_verb": "false", 
+      "l": "fallentin", 
+      "timepoint": 0, 
+      "r": "Samuel", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Andrew Stuart", 
+      "is_verb": "false", 
+      "l": "stuart", 
+      "timepoint": 0, 
+      "r": "Andrew", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Gauthier Ralph", 
+      "is_verb": "false", 
+      "l": "ralph", 
+      "timepoint": 0, 
+      "r": "Gauthier", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and Thomas Flanagan", 
+      "is_verb": "false", 
+      "l": "flanagan", 
+      "timepoint": 0, 
+      "r": "Thomas", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "Andrew Stuart got up", 
+      "is_verb": "false", 
+      "l": "stuart", 
+      "timepoint": 0, 
+      "r": "Andrew", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "What time did the last train arrive from Liverpool", 
+      "is_verb": "false", 
+      "l": "train", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "asked Thomas Flanagan", 
+      "is_verb": "false", 
+      "l": "flanagan", 
+      "timepoint": 0, 
+      "r": "Thomas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "asked Thomas Flanagan", 
+      "is_verb": "false", 
+      "l": "thomas", 
+      "timepoint": 0, 
+      "r": "asked", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "replied Gauthier Ralph;", 
+      "is_verb": "false", 
+      "l": "ralph", 
+      "timepoint": 0, 
+      "r": "Gauthier", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "replied Gauthier Ralph;", 
+      "is_verb": "false", 
+      "l": "gauthier", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and the next does not arrive till ten minutes after twelve", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 4
+    }
+  ], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "resumed Andrew Stuart", 
+      "is_verb": "false", 
+      "l": "stuart", 
+      "timepoint": 0, 
+      "r": "Andrew", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "resumed Andrew Stuart", 
+      "is_verb": "false", 
+      "l": "andrew", 
+      "timepoint": 0, 
+      "r": "resumed", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "if Phileas Fogg had come in the 7:23 train", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 3, 
+      "sentence": "if Phileas Fogg had come in the 7:23 train", 
+      "is_verb": "false", 
+      "l": "train", 
+      "timepoint": 0, 
+      "r": "7:23", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "replied Samuel Fallentin", 
+      "is_verb": "false", 
+      "l": "fallentin", 
+      "timepoint": 0, 
+      "r": "Samuel", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "replied Samuel Fallentin", 
+      "is_verb": "false", 
+      "l": "samuel", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "or too late; and I should not be surprised if he appeared before us at the last minute", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 3, 
+      "sentence": "or too late; and I should not be surprised if he appeared before us at the last minute", 
+      "is_verb": "false", 
+      "l": "minute", 
+      "timepoint": -1, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "said Andrew Stuart nervously", 
+      "is_verb": "false", 
+      "l": "stuart", 
+      "timepoint": 0, 
+      "r": "Andrew", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "16": [
+    {
+      "index": 0, 
+      "sentence": "resumed Thomas Flanagan", 
+      "is_verb": "false", 
+      "l": "flanagan", 
+      "timepoint": 0, 
+      "r": "Thomas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "resumed Thomas Flanagan", 
+      "is_verb": "false", 
+      "l": "thomas", 
+      "timepoint": 0, 
+      "r": "resumed", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Fogg's project was absurdly foolish", 
+      "is_verb": "false", 
+      "l": "project", 
+      "timepoint": 0, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "17": [
+    {
+      "index": 0, 
+      "sentence": "added John Sullivan", 
+      "is_verb": "false", 
+      "l": "sullivan", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "added John Sullivan", 
+      "is_verb": "false", 
+      "l": "john", 
+      "timepoint": 0, 
+      "r": "added", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "though there are telegraphic lines all along his route", 
+      "is_verb": "false", 
+      "l": "lines", 
+      "timepoint": 0, 
+      "r": "telegraphic", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "18": [
+    {
+      "index": 0, 
+      "sentence": "said Andrew Stuart", 
+      "is_verb": "false", 
+      "l": "stuart", 
+      "timepoint": 0, 
+      "r": "Andrew", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "that the China the only steamer he could have taken from New York to get here in time arrived yesterday", 
+      "is_verb": "false", 
+      "l": "yesterday", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 2, 
+      "sentence": "that the China the only steamer he could have taken from New York to get here in time arrived yesterday", 
+      "is_verb": "false", 
+      "l": "york", 
+      "timepoint": -1, 
+      "r": "New", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 3, 
+      "sentence": "that the China the only steamer he could have taken from New York to get here in time arrived yesterday", 
+      "is_verb": "false", 
+      "l": "yesterday", 
+      "timepoint": -1, 
+      "r": "arrived", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and the name of Phileas Fogg is not among them", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": -1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 5, 
+      "sentence": "he can scarcely have reached America", 
+      "is_verb": "false", 
+      "l": "america", 
+      "timepoint": -1, 
+      "r": "reached", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 6, 
+      "sentence": "I think he will be at least twenty days behind-hand", 
+      "is_verb": "false", 
+      "l": "behind-hand", 
+      "timepoint": -1, 
+      "r": "days", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and that Lord Albemarle will lose a cool five thousand", 
+      "is_verb": "false", 
+      "l": "albemarle", 
+      "timepoint": -1, 
+      "r": "Lord", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }
+  ], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "replied Gauthier Ralph;", 
+      "is_verb": "false", 
+      "l": "ralph", 
+      "timepoint": 0, 
+      "r": "Gauthier", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "replied Gauthier Ralph;", 
+      "is_verb": "false", 
+      "l": "gauthier", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and we have nothing to do but to present Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "present", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Fogg's cheque at Barings to-morrow", 
+      "is_verb": "false", 
+      "l": "cheque", 
+      "timepoint": 0, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "20": [
+    {
+      "index": 0, 
+      "sentence": "the hands of the club clock pointed to twenty minutes to nine", 
+      "is_verb": "false", 
+      "l": "clock", 
+      "timepoint": 0, 
+      "r": "club", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "said Andrew Stuart", 
+      "is_verb": "false", 
+      "l": "stuart", 
+      "timepoint": 0, 
+      "r": "Andrew", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "22": [], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "said Andrew Stuart", 
+      "is_verb": "false", 
+      "l": "stuart", 
+      "timepoint": 0, 
+      "r": "Andrew", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "24": [], 
+  "25": [], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "said Thomas Flanagan", 
+      "is_verb": "false", 
+      "l": "flanagan", 
+      "timepoint": 0, 
+      "r": "Thomas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "27": [
+    {
+      "index": 0, 
+      "sentence": "The great saloon was perfectly quiet; but the murmurs of the crowd outside were heard", 
+      "is_verb": "false", 
+      "l": "saloon", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "with now and then a shrill cry", 
+      "is_verb": "false", 
+      "l": "cry", 
+      "timepoint": 0, 
+      "r": "shrill", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "with mathematical regularity", 
+      "is_verb": "false", 
+      "l": "regularity", 
+      "timepoint": 0, 
+      "r": "mathematical", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "28": [
+    {
+      "index": 0, 
+      "sentence": "said John Sullivan", 
+      "is_verb": "false", 
+      "l": "sullivan", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "29": [
+    {
+      "index": 0, 
+      "sentence": "Andrew Stuart and his partners suspended their game", 
+      "is_verb": "false", 
+      "l": "stuart", 
+      "timepoint": 0, 
+      "r": "Andrew", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "30": [], 
+  "31": [
+    {
+      "index": 0, 
+      "sentence": "a loud cry was heard in the street", 
+      "is_verb": "false", 
+      "l": "cry", 
+      "timepoint": 0, 
+      "r": "loud", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "32": [], 
+  "33": [
+    {
+      "index": 0, 
+      "sentence": "At the fifty-seventh second the door of the saloon opened; and the pendulum had not beat the sixtieth second when Phileas Fogg appeared", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "followed by an excited crowd who had forced their way through the club doors", 
+      "is_verb": "false", 
+      "l": "doors", 
+      "timepoint": 0, 
+      "r": "club", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "followed by an excited crowd who had forced their way through the club doors", 
+      "is_verb": "false", 
+      "l": "crowd", 
+      "timepoint": 0, 
+      "r": "excited", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and in his calm voice", 
+      "is_verb": "false", 
+      "l": "voice", 
+      "timepoint": 0, 
+      "r": "calm", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ]
+}

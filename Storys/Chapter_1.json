@@ -1,0 +1,682 @@
+[
+  {
+    "line_number": "0", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "1", 
+    "text": "IN WHICH PHILEAS FOGG AND PASSEPARTOUT ACCEPT EACH OTHER,\n"
+  }, 
+  {
+    "line_number": "2", 
+    "text": "THE ONE AS MASTER, THE OTHER AS MAN\n"
+  }, 
+  {
+    "line_number": "3", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "4", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "5", 
+    "text": "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington\n"
+  }, 
+  {
+    "line_number": "6", 
+    "text": "Gardens, the house in which Sheridan died in 1814.  He was one of the\n"
+  }, 
+  {
+    "line_number": "7", 
+    "text": "most noticeable members of the Reform Club, though he seemed always to\n"
+  }, 
+  {
+    "line_number": "8", 
+    "text": "avoid attracting attention; an enigmatical personage, about whom little\n"
+  }, 
+  {
+    "line_number": "9", 
+    "text": "was known, except that he was a polished man of the world.  People said\n"
+  }, 
+  {
+    "line_number": "10", 
+    "text": "that he resembled Byron--at least that his head was Byronic; but he was\n"
+  }, 
+  {
+    "line_number": "11", 
+    "text": "a bearded, tranquil Byron, who might live on a thousand years without\n"
+  }, 
+  {
+    "line_number": "12", 
+    "text": "growing old.\n"
+  }, 
+  {
+    "line_number": "13", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "14", 
+    "text": "Certainly an Englishman, it was more doubtful whether Phileas Fogg was\n"
+  }, 
+  {
+    "line_number": "15", 
+    "text": "a Londoner.  He was never seen on 'Change, nor at the Bank, nor in the\n"
+  }, 
+  {
+    "line_number": "16", 
+    "text": "counting-rooms of the \"City\"; no ships ever came into London docks of\n"
+  }, 
+  {
+    "line_number": "17", 
+    "text": "which he was the owner; he had no public employment; he had never been\n"
+  }, 
+  {
+    "line_number": "18", 
+    "text": "entered at any of the Inns of Court, either at the Temple, or Lincoln's\n"
+  }, 
+  {
+    "line_number": "19", 
+    "text": "Inn, or Gray's Inn; nor had his voice ever resounded in the Court of\n"
+  }, 
+  {
+    "line_number": "20", 
+    "text": "Chancery, or in the Exchequer, or the Queen's Bench, or the\n"
+  }, 
+  {
+    "line_number": "21", 
+    "text": "Ecclesiastical Courts.  He certainly was not a manufacturer; nor was he\n"
+  }, 
+  {
+    "line_number": "22", 
+    "text": "a merchant or a gentleman farmer.  His name was strange to the\n"
+  }, 
+  {
+    "line_number": "23", 
+    "text": "scientific and learned societies, and he never was known to take part\n"
+  }, 
+  {
+    "line_number": "24", 
+    "text": "in the sage deliberations of the Royal Institution or the London\n"
+  }, 
+  {
+    "line_number": "25", 
+    "text": "Institution, the Artisan's Association, or the Institution of Arts and\n"
+  }, 
+  {
+    "line_number": "26", 
+    "text": "Sciences.  He belonged, in fact, to none of the numerous societies\n"
+  }, 
+  {
+    "line_number": "27", 
+    "text": "which swarm in the English capital, from the Harmonic to that of the\n"
+  }, 
+  {
+    "line_number": "28", 
+    "text": "Entomologists, founded mainly for the purpose of abolishing pernicious\n"
+  }, 
+  {
+    "line_number": "29", 
+    "text": "insects.\n"
+  }, 
+  {
+    "line_number": "30", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "31", 
+    "text": "Phileas Fogg was a member of the Reform, and that was all.\n"
+  }, 
+  {
+    "line_number": "32", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "33", 
+    "text": "The way in which he got admission to this exclusive club was simple\n"
+  }, 
+  {
+    "line_number": "34", 
+    "text": "enough.\n"
+  }, 
+  {
+    "line_number": "35", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "36", 
+    "text": "He was recommended by the Barings, with whom he had an open credit.\n"
+  }, 
+  {
+    "line_number": "37", 
+    "text": "His cheques were regularly paid at sight from his account current,\n"
+  }, 
+  {
+    "line_number": "38", 
+    "text": "which was always flush.\n"
+  }, 
+  {
+    "line_number": "39", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "40", 
+    "text": "Was Phileas Fogg rich?  Undoubtedly.  But those who knew him best could\n"
+  }, 
+  {
+    "line_number": "41", 
+    "text": "not imagine how he had made his fortune, and Mr. Fogg was the last\n"
+  }, 
+  {
+    "line_number": "42", 
+    "text": "person to whom to apply for the information.  He was not lavish, nor,\n"
+  }, 
+  {
+    "line_number": "43", 
+    "text": "on the contrary, avaricious; for, whenever he knew that money was\n"
+  }, 
+  {
+    "line_number": "44", 
+    "text": "needed for a noble, useful, or benevolent purpose, he supplied it\n"
+  }, 
+  {
+    "line_number": "45", 
+    "text": "quietly and sometimes anonymously.  He was, in short, the least\n"
+  }, 
+  {
+    "line_number": "46", 
+    "text": "communicative of men.  He talked very little, and seemed all the more\n"
+  }, 
+  {
+    "line_number": "47", 
+    "text": "mysterious for his taciturn manner.  His daily habits were quite open\n"
+  }, 
+  {
+    "line_number": "48", 
+    "text": "to observation; but whatever he did was so exactly the same thing that\n"
+  }, 
+  {
+    "line_number": "49", 
+    "text": "he had always done before, that the wits of the curious were fairly\n"
+  }, 
+  {
+    "line_number": "50", 
+    "text": "puzzled.\n"
+  }, 
+  {
+    "line_number": "51", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "52", 
+    "text": "Had he travelled?  It was likely, for no one seemed to know the world\n"
+  }, 
+  {
+    "line_number": "53", 
+    "text": "more familiarly; there was no spot so secluded that he did not appear\n"
+  }, 
+  {
+    "line_number": "54", 
+    "text": "to have an intimate acquaintance with it.  He often corrected, with a\n"
+  }, 
+  {
+    "line_number": "55", 
+    "text": "few clear words, the thousand conjectures advanced by members of the\n"
+  }, 
+  {
+    "line_number": "56", 
+    "text": "club as to lost and unheard-of travellers, pointing out the true\n"
+  }, 
+  {
+    "line_number": "57", 
+    "text": "probabilities, and seeming as if gifted with a sort of second sight, so\n"
+  }, 
+  {
+    "line_number": "58", 
+    "text": "often did events justify his predictions.  He must have travelled\n"
+  }, 
+  {
+    "line_number": "59", 
+    "text": "everywhere, at least in the spirit.\n"
+  }, 
+  {
+    "line_number": "60", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "61", 
+    "text": "It was at least certain that Phileas Fogg had not absented himself from\n"
+  }, 
+  {
+    "line_number": "62", 
+    "text": "London for many years.  Those who were honoured by a better\n"
+  }, 
+  {
+    "line_number": "63", 
+    "text": "acquaintance with him than the rest, declared that nobody could pretend\n"
+  }, 
+  {
+    "line_number": "64", 
+    "text": "to have ever seen him anywhere else.  His sole pastimes were reading\n"
+  }, 
+  {
+    "line_number": "65", 
+    "text": "the papers and playing whist.  He often won at this game, which, as a\n"
+  }, 
+  {
+    "line_number": "66", 
+    "text": "silent one, harmonised with his nature; but his winnings never went\n"
+  }, 
+  {
+    "line_number": "67", 
+    "text": "into his purse, being reserved as a fund for his charities.  Mr. Fogg\n"
+  }, 
+  {
+    "line_number": "68", 
+    "text": "played, not to win, but for the sake of playing.  The game was in his\n"
+  }, 
+  {
+    "line_number": "69", 
+    "text": "eyes a contest, a struggle with a difficulty, yet a motionless,\n"
+  }, 
+  {
+    "line_number": "70", 
+    "text": "unwearying struggle, congenial to his tastes.\n"
+  }, 
+  {
+    "line_number": "71", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "72", 
+    "text": "Phileas Fogg was not known to have either wife or children, which may\n"
+  }, 
+  {
+    "line_number": "73", 
+    "text": "happen to the most honest people; either relatives or near friends,\n"
+  }, 
+  {
+    "line_number": "74", 
+    "text": "which is certainly more unusual.  He lived alone in his house in\n"
+  }, 
+  {
+    "line_number": "75", 
+    "text": "Saville Row, whither none penetrated.  A single domestic sufficed to\n"
+  }, 
+  {
+    "line_number": "76", 
+    "text": "serve him.  He breakfasted and dined at the club, at hours\n"
+  }, 
+  {
+    "line_number": "77", 
+    "text": "mathematically fixed, in the same room, at the same table, never taking\n"
+  }, 
+  {
+    "line_number": "78", 
+    "text": "his meals with other members, much less bringing a guest with him; and\n"
+  }, 
+  {
+    "line_number": "79", 
+    "text": "went home at exactly midnight, only to retire at once to bed.  He never\n"
+  }, 
+  {
+    "line_number": "80", 
+    "text": "used the cosy chambers which the Reform provides for its favoured\n"
+  }, 
+  {
+    "line_number": "81", 
+    "text": "members.  He passed ten hours out of the twenty-four in Saville Row,\n"
+  }, 
+  {
+    "line_number": "82", 
+    "text": "either in sleeping or making his toilet.  When he chose to take a walk\n"
+  }, 
+  {
+    "line_number": "83", 
+    "text": "it was with a regular step in the entrance hall with its mosaic\n"
+  }, 
+  {
+    "line_number": "84", 
+    "text": "flooring, or in the circular gallery with its dome supported by twenty\n"
+  }, 
+  {
+    "line_number": "85", 
+    "text": "red porphyry Ionic columns, and illumined by blue painted windows.\n"
+  }, 
+  {
+    "line_number": "86", 
+    "text": "When he breakfasted or dined all the resources of the club--its\n"
+  }, 
+  {
+    "line_number": "87", 
+    "text": "kitchens and pantries, its buttery and dairy--aided to crowd his table\n"
+  }, 
+  {
+    "line_number": "88", 
+    "text": "with their most succulent stores; he was served by the gravest waiters,\n"
+  }, 
+  {
+    "line_number": "89", 
+    "text": "in dress coats, and shoes with swan-skin soles, who proffered the\n"
+  }, 
+  {
+    "line_number": "90", 
+    "text": "viands in special porcelain, and on the finest linen; club decanters,\n"
+  }, 
+  {
+    "line_number": "91", 
+    "text": "of a lost mould, contained his sherry, his port, and his\n"
+  }, 
+  {
+    "line_number": "92", 
+    "text": "cinnamon-spiced claret; while his beverages were refreshingly cooled\n"
+  }, 
+  {
+    "line_number": "93", 
+    "text": "with ice, brought at great cost from the American lakes.\n"
+  }, 
+  {
+    "line_number": "94", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "95", 
+    "text": "If to live in this style is to be eccentric, it must be confessed that\n"
+  }, 
+  {
+    "line_number": "96", 
+    "text": "there is something good in eccentricity.\n"
+  }, 
+  {
+    "line_number": "97", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "98", 
+    "text": "The mansion in Saville Row, though not sumptuous, was exceedingly\n"
+  }, 
+  {
+    "line_number": "99", 
+    "text": "comfortable.  The habits of its occupant were such as to demand but\n"
+  }, 
+  {
+    "line_number": "100", 
+    "text": "little from the sole domestic, but Phileas Fogg required him to be\n"
+  }, 
+  {
+    "line_number": "101", 
+    "text": "almost superhumanly prompt and regular.  On this very 2nd of October he\n"
+  }, 
+  {
+    "line_number": "102", 
+    "text": "had dismissed James Forster, because that luckless youth had brought\n"
+  }, 
+  {
+    "line_number": "103", 
+    "text": "him shaving-water at eighty-four degrees Fahrenheit instead of\n"
+  }, 
+  {
+    "line_number": "104", 
+    "text": "eighty-six; and he was awaiting his successor, who was due at the house\n"
+  }, 
+  {
+    "line_number": "105", 
+    "text": "between eleven and half-past.\n"
+  }, 
+  {
+    "line_number": "106", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "107", 
+    "text": "Phileas Fogg was seated squarely in his armchair, his feet close\n"
+  }, 
+  {
+    "line_number": "108", 
+    "text": "together like those of a grenadier on parade, his hands resting on his\n"
+  }, 
+  {
+    "line_number": "109", 
+    "text": "knees, his body straight, his head erect; he was steadily watching a\n"
+  }, 
+  {
+    "line_number": "110", 
+    "text": "complicated clock which indicated the hours, the minutes, the seconds,\n"
+  }, 
+  {
+    "line_number": "111", 
+    "text": "the days, the months, and the years.  At exactly half-past eleven Mr.\n"
+  }, 
+  {
+    "line_number": "112", 
+    "text": "Fogg would, according to his daily habit, quit Saville Row, and repair\n"
+  }, 
+  {
+    "line_number": "113", 
+    "text": "to the Reform.\n"
+  }, 
+  {
+    "line_number": "114", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "115", 
+    "text": "A rap at this moment sounded on the door of the cosy apartment where\n"
+  }, 
+  {
+    "line_number": "116", 
+    "text": "Phileas Fogg was seated, and James Forster, the dismissed servant,\n"
+  }, 
+  {
+    "line_number": "117", 
+    "text": "appeared.\n"
+  }, 
+  {
+    "line_number": "118", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "119", 
+    "text": "\"The new servant,\" said he.\n"
+  }, 
+  {
+    "line_number": "120", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "121", 
+    "text": "A young man of thirty advanced and bowed.\n"
+  }, 
+  {
+    "line_number": "122", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "123", 
+    "text": "\"You are a Frenchman, I believe,\" asked Phileas Fogg, \"and your name is\n"
+  }, 
+  {
+    "line_number": "124", 
+    "text": "John?\"\n"
+  }, 
+  {
+    "line_number": "125", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "126", 
+    "text": "\"Jean, if monsieur pleases,\" replied the newcomer, \"Jean Passepartout,\n"
+  }, 
+  {
+    "line_number": "127", 
+    "text": "a surname which has clung to me because I have a natural aptness for\n"
+  }, 
+  {
+    "line_number": "128", 
+    "text": "going out of one business into another.  I believe I'm honest,\n"
+  }, 
+  {
+    "line_number": "129", 
+    "text": "monsieur, but, to be outspoken, I've had several trades.  I've been an\n"
+  }, 
+  {
+    "line_number": "130", 
+    "text": "itinerant singer, a circus-rider, when I used to vault like Leotard,\n"
+  }, 
+  {
+    "line_number": "131", 
+    "text": "and dance on a rope like Blondin.  Then I got to be a professor of\n"
+  }, 
+  {
+    "line_number": "132", 
+    "text": "gymnastics, so as to make better use of my talents; and then I was a\n"
+  }, 
+  {
+    "line_number": "133", 
+    "text": "sergeant fireman at Paris, and assisted at many a big fire.  But I\n"
+  }, 
+  {
+    "line_number": "134", 
+    "text": "quitted France five years ago, and, wishing to taste the sweets of\n"
+  }, 
+  {
+    "line_number": "135", 
+    "text": "domestic life, took service as a valet here in England.  Finding myself\n"
+  }, 
+  {
+    "line_number": "136", 
+    "text": "out of place, and hearing that Monsieur Phileas Fogg was the most exact\n"
+  }, 
+  {
+    "line_number": "137", 
+    "text": "and settled gentleman in the United Kingdom, I have come to monsieur in\n"
+  }, 
+  {
+    "line_number": "138", 
+    "text": "the hope of living with him a tranquil life, and forgetting even the\n"
+  }, 
+  {
+    "line_number": "139", 
+    "text": "name of Passepartout.\"\n"
+  }, 
+  {
+    "line_number": "140", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "141", 
+    "text": "\"Passepartout suits me,\" responded Mr. Fogg.  \"You are well recommended\n"
+  }, 
+  {
+    "line_number": "142", 
+    "text": "to me; I hear a good report of you.  You know my conditions?\"\n"
+  }, 
+  {
+    "line_number": "143", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "144", 
+    "text": "\"Yes, monsieur.\"\n"
+  }, 
+  {
+    "line_number": "145", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "146", 
+    "text": "\"Good!  What time is it?\"\n"
+  }, 
+  {
+    "line_number": "147", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "148", 
+    "text": "\"Twenty-two minutes after eleven,\" returned Passepartout, drawing an\n"
+  }, 
+  {
+    "line_number": "149", 
+    "text": "enormous silver watch from the depths of his pocket.\n"
+  }, 
+  {
+    "line_number": "150", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "151", 
+    "text": "\"You are too slow,\" said Mr. Fogg.\n"
+  }, 
+  {
+    "line_number": "152", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "153", 
+    "text": "\"Pardon me, monsieur, it is impossible--\"\n"
+  }, 
+  {
+    "line_number": "154", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "155", 
+    "text": "\"You are four minutes too slow.  No matter; it's enough to mention the\n"
+  }, 
+  {
+    "line_number": "156", 
+    "text": "error.  Now from this moment, twenty-nine minutes after eleven, a.m.,\n"
+  }, 
+  {
+    "line_number": "157", 
+    "text": "this Wednesday, 2nd October, you are in my service.\"\n"
+  }, 
+  {
+    "line_number": "158", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "159", 
+    "text": "Phileas Fogg got up, took his hat in his left hand, put it on his head\n"
+  }, 
+  {
+    "line_number": "160", 
+    "text": "with an automatic motion, and went off without a word.\n"
+  }, 
+  {
+    "line_number": "161", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "162", 
+    "text": "Passepartout heard the street door shut once; it was his new master\n"
+  }, 
+  {
+    "line_number": "163", 
+    "text": "going out.  He heard it shut again; it was his predecessor, James\n"
+  }, 
+  {
+    "line_number": "164", 
+    "text": "Forster, departing in his turn.  Passepartout remained alone in the\n"
+  }, 
+  {
+    "line_number": "165", 
+    "text": "house in Saville Row.\n"
+  }, 
+  {
+    "line_number": "166", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "167", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "168", 
+    "text": "\n"
+  }, 
+  {
+    "line_number": "169", 
+    "text": "\n"
+  }
+]

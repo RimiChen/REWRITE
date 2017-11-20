@@ -1,0 +1,646 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH PHILEAS FOGG AT LAST REACHES LONDON ", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "PHILEAS", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg was in prison", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "He had been shut up in the Custom House", 
+      "is_verb": "false", 
+      "l": "house", 
+      "timepoint": 0, 
+      "r": "Custom", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and he was to be transferred to London the next day", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "Passepartout explained to her how it was that the honest and courageous Fogg was arrested as a robber", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "courageous", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The young woman's heart revolted against so heinous a charge", 
+      "is_verb": "false", 
+      "l": "heart", 
+      "timepoint": 0, 
+      "r": "woman's", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "The young woman's heart revolted against so heinous a charge", 
+      "is_verb": "false", 
+      "l": "woman's", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "he had arrested Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "arrested", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "that he was the cause of this new misfortune", 
+      "is_verb": "false", 
+      "l": "misfortune", 
+      "timepoint": 0, 
+      "r": "new", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Had he not concealed Fix's errand from his master", 
+      "is_verb": "false", 
+      "l": "errand", 
+      "timepoint": 0, 
+      "r": "Fix's", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Had he not concealed Fix's errand from his master", 
+      "is_verb": "false", 
+      "l": "fix's", 
+      "timepoint": 0, 
+      "r": "concealed", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "When Fix revealed his true character and purpose", 
+      "is_verb": "false", 
+      "l": "character", 
+      "timepoint": 0, 
+      "r": "true", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 4, 
+      "sentence": "only to arrest him the moment he set foot on English soil", 
+      "is_verb": "false", 
+      "l": "soil", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "8": [
+    {
+      "index": 0, 
+      "sentence": "under the portico of the Custom House", 
+      "is_verb": "false", 
+      "l": "house", 
+      "timepoint": 0, 
+      "r": "Custom", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "9": [
+    {
+      "index": 0, 
+      "sentence": "Having arrived at Liverpool at twenty minutes before twelve on the 21st of December", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "he had till a quarter before nine that evening to reach the Reform Club", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -2, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "he had till a quarter before nine that evening to reach the Reform Club", 
+      "is_verb": "false", 
+      "l": "club", 
+      "timepoint": -2, 
+      "r": "Reform", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "had entered the Custom House", 
+      "is_verb": "false", 
+      "l": "house", 
+      "timepoint": 0, 
+      "r": "Custom", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and without apparent anger", 
+      "is_verb": "false", 
+      "l": "anger", 
+      "timepoint": 0, 
+      "r": "apparent", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 2, 
+      "sentence": "upon a wooden bench", 
+      "is_verb": "false", 
+      "l": "bench", 
+      "timepoint": 0, 
+      "r": "wooden", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 3, 
+      "sentence": "resigned; but this last blow failed to force him into an outward betrayal of any emotion", 
+      "is_verb": "false", 
+      "l": "blow", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 4, 
+      "sentence": "with an irresistible force", 
+      "is_verb": "false", 
+      "l": "force", 
+      "timepoint": 0, 
+      "r": "irresistible", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 5, 
+      "sentence": "at the last moment", 
+      "is_verb": "false", 
+      "l": "moment", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "and might be thus stated: if Phileas Fogg was honest he was ruined; if he was a knave", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "Did he examine to see if there were any practicable outlet from his prison", 
+      "is_verb": "false", 
+      "l": "outlet", 
+      "timepoint": 0, 
+      "r": "practicable", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and the window heavily barred with iron rods", 
+      "is_verb": "false", 
+      "l": "rods", 
+      "timepoint": 0, 
+      "r": "iron", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "21st December", 
+      "is_verb": "false", 
+      "l": "december", 
+      "timepoint": 0, 
+      "r": "21st", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 3, 
+      "sentence": "80th day", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "80th", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }
+  ], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "The Custom House clock struck one", 
+      "is_verb": "false", 
+      "l": "house", 
+      "timepoint": 0, 
+      "r": "Custom", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "Admitting that he was at this moment taking an express train", 
+      "is_verb": "false", 
+      "l": "train", 
+      "timepoint": 0, 
+      "r": "express", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "he could reach London and the Reform Club by a quarter before nine", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "he could reach London and the Reform Club by a quarter before nine", 
+      "is_verb": "false", 
+      "l": "club", 
+      "timepoint": -1, 
+      "r": "Reform", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "At thirty-three minutes past two he heard a singular noise outside", 
+      "is_verb": "false", 
+      "l": "noise", 
+      "timepoint": 0, 
+      "r": "singular", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Passepartout's voice was audible", 
+      "is_verb": "false", 
+      "l": "voice", 
+      "timepoint": 0, 
+      "r": "Passepartout's", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and immediately after that of Fix", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Phileas Fogg's eyes brightened for an instant", 
+      "is_verb": "false", 
+      "l": "fogg's", 
+      "timepoint": 1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "16": [], 
+  "17": [
+    {
+      "index": 0, 
+      "sentence": "sir--forgive me--most--unfortunate resemblance--robber arrested three days ago--you are free", 
+      "is_verb": "false", 
+      "l": "me--most--unfortunate", 
+      "timepoint": 0, 
+      "r": "sir--forgive", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 1, 
+      "sentence": "sir--forgive me--most--unfortunate resemblance--robber arrested three days ago--you are free", 
+      "is_verb": "false", 
+      "l": "ago--you", 
+      "timepoint": 0, 
+      "r": "days", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "18": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg was free", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and with the only rapid motion he had ever made in his life", 
+      "is_verb": "false", 
+      "l": "motion", 
+      "timepoint": 0, 
+      "r": "rapid", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "cried Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "that's what you might call a good application of English fists", 
+      "is_verb": "false", 
+      "l": "fists", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "that's what you might call a good application of English fists", 
+      "is_verb": "false", 
+      "l": "application", 
+      "timepoint": 0, 
+      "r": "good", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "20": [
+    {
+      "index": 0, 
+      "sentence": "and Passepartout left the Custom House without delay", 
+      "is_verb": "false", 
+      "l": "house", 
+      "timepoint": 0, 
+      "r": "Custom", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and in a few moments descended at the station", 
+      "is_verb": "false", 
+      "l": "moments", 
+      "timepoint": 0, 
+      "r": "few", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg asked if there was an express train about to leave for London", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg asked if there was an express train about to leave for London", 
+      "is_verb": "false", 
+      "l": "train", 
+      "timepoint": 0, 
+      "r": "express", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "The express train had left thirty-five minutes before", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The express train had left thirty-five minutes before", 
+      "is_verb": "false", 
+      "l": "train", 
+      "timepoint": -1, 
+      "r": "express", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Phileas Fogg then ordered a special train", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": -1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Phileas Fogg then ordered a special train", 
+      "is_verb": "false", 
+      "l": "train", 
+      "timepoint": -1, 
+      "r": "special", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "22": [
+    {
+      "index": 0, 
+      "sentence": "There were several rapid locomotives on hand; but the railway arrangements did not permit the special train to leave until three o'clock", 
+      "is_verb": "false", 
+      "l": "arrangements", 
+      "timepoint": 0, 
+      "r": "railway", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "There were several rapid locomotives on hand; but the railway arrangements did not permit the special train to leave until three o'clock", 
+      "is_verb": "false", 
+      "l": "locomotives", 
+      "timepoint": 0, 
+      "r": "rapid", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "There were several rapid locomotives on hand; but the railway arrangements did not permit the special train to leave until three o'clock", 
+      "is_verb": "false", 
+      "l": "train", 
+      "timepoint": 0, 
+      "r": "special", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "At that hour Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "phileas", 
+      "timepoint": 0, 
+      "r": "hour", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "having stimulated the engineer by the offer of a generous reward", 
+      "is_verb": "false", 
+      "l": "reward", 
+      "timepoint": 0, 
+      "r": "generous", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "at last set out towards London with Aouda and his faithful servant", 
+      "is_verb": "false", 
+      "l": "servant", 
+      "timepoint": 0, 
+      "r": "faithful", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "24": [
+    {
+      "index": 0, 
+      "sentence": "It was necessary to make the journey in five hours and a half; and this would have been easy on a clear road throughout", 
+      "is_verb": "false", 
+      "l": "road", 
+      "timepoint": 0, 
+      "r": "clear", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "But there were forced delays", 
+      "is_verb": "false", 
+      "l": "delays", 
+      "timepoint": 0, 
+      "r": "forced", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "all the clocks in London were striking ten minutes before nine", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 4
+    }
+  ], 
+  "25": []
+}

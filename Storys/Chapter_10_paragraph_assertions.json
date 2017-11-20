@@ -1,0 +1,1216 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH PASSEPARTOUT IS ONLY TOO GLAD TO GET OFF WITH THE LOSS OF HIS SHOES ", 
+      "is_verb": "false", 
+      "l": "shoes", 
+      "timepoint": 0, 
+      "r": "HIS", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "Everybody knows that the great reversed triangle of land", 
+      "is_verb": "false", 
+      "l": "triangle", 
+      "timepoint": 0, 
+      "r": "reversed", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "which is called India", 
+      "is_verb": "false", 
+      "l": "india", 
+      "timepoint": 0, 
+      "r": "called", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "embraces fourteen hundred thousand square miles", 
+      "is_verb": "false", 
+      "l": "miles", 
+      "timepoint": 0, 
+      "r": "square", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The British Crown exercises a real and despotic dominion over the larger portion of this vast country", 
+      "is_verb": "false", 
+      "l": "exercises", 
+      "timepoint": 0, 
+      "r": "Crown", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "The British Crown exercises a real and despotic dominion over the larger portion of this vast country", 
+      "is_verb": "false", 
+      "l": "dominion", 
+      "timepoint": 0, 
+      "r": "despotic", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "The British Crown exercises a real and despotic dominion over the larger portion of this vast country", 
+      "is_verb": "false", 
+      "l": "crown", 
+      "timepoint": 0, 
+      "r": "British", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 6, 
+      "sentence": "The British Crown exercises a real and despotic dominion over the larger portion of this vast country", 
+      "is_verb": "false", 
+      "l": "portion", 
+      "timepoint": 0, 
+      "r": "larger", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 7, 
+      "sentence": "The British Crown exercises a real and despotic dominion over the larger portion of this vast country", 
+      "is_verb": "false", 
+      "l": "country", 
+      "timepoint": 0, 
+      "r": "vast", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "But British India", 
+      "is_verb": "false", 
+      "l": "india", 
+      "timepoint": 0, 
+      "r": "British", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "only embraces seven hundred thousand square miles", 
+      "is_verb": "false", 
+      "l": "miles", 
+      "timepoint": 0, 
+      "r": "square", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "A considerable portion of India is still free from British authority; and there are certain ferocious rajahs in the interior who are absolutely independent", 
+      "is_verb": "false", 
+      "l": "portion", 
+      "timepoint": 0, 
+      "r": "considerable", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "A considerable portion of India is still free from British authority; and there are certain ferocious rajahs in the interior who are absolutely independent", 
+      "is_verb": "false", 
+      "l": "authority", 
+      "timepoint": 0, 
+      "r": "British", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "A considerable portion of India is still free from British authority; and there are certain ferocious rajahs in the interior who are absolutely independent", 
+      "is_verb": "false", 
+      "l": "rajahs", 
+      "timepoint": 0, 
+      "r": "ferocious", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 5, 
+      "sentence": "The celebrated East India Company was all-powerful from 1756", 
+      "is_verb": "false", 
+      "l": "india", 
+      "timepoint": 0, 
+      "r": "East", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 6, 
+      "sentence": "The celebrated East India Company was all-powerful from 1756", 
+      "is_verb": "false", 
+      "l": "east", 
+      "timepoint": 0, 
+      "r": "celebrated", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 7, 
+      "sentence": "down to the time of the great Sepoy insurrection", 
+      "is_verb": "false", 
+      "l": "insurrection", 
+      "timepoint": 0, 
+      "r": "Sepoy", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 8, 
+      "sentence": "down to the time of the great Sepoy insurrection", 
+      "is_verb": "false", 
+      "l": "sepoy", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 9, 
+      "sentence": "It gradually annexed province after province", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 10, 
+      "sentence": "It gradually annexed province after province", 
+      "is_verb": "false", 
+      "l": "province", 
+      "timepoint": 1, 
+      "r": "annexed", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 11, 
+      "sentence": "purchasing them of the native chiefs", 
+      "is_verb": "false", 
+      "l": "chiefs", 
+      "timepoint": 1, 
+      "r": "native", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 12, 
+      "sentence": "But the East India Company has now passed away", 
+      "is_verb": "false", 
+      "l": "india", 
+      "timepoint": 1, 
+      "r": "East", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 13, 
+      "sentence": "leaving the British possessions in India directly under the control of the Crown", 
+      "is_verb": "false", 
+      "l": "possessions", 
+      "timepoint": 1, 
+      "r": "British", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "Formerly one was obliged to travel in India by the old cumbrous methods of going on foot or on horseback", 
+      "is_verb": "false", 
+      "l": "methods", 
+      "timepoint": 0, 
+      "r": "cumbrous", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Formerly one was obliged to travel in India by the old cumbrous methods of going on foot or on horseback", 
+      "is_verb": "false", 
+      "l": "cumbrous", 
+      "timepoint": 0, 
+      "r": "old", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "in palanquins or unwieldy coaches; now fast steamboats ply on the Indus and the Ganges", 
+      "is_verb": "false", 
+      "l": "coaches", 
+      "timepoint": 0, 
+      "r": "unwieldy", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and a great railway", 
+      "is_verb": "false", 
+      "l": "railway", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 4, 
+      "sentence": "with branch lines joining the main line at many points on its route", 
+      "is_verb": "false", 
+      "l": "lines", 
+      "timepoint": 0, 
+      "r": "branch", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 5, 
+      "sentence": "with branch lines joining the main line at many points on its route", 
+      "is_verb": "false", 
+      "l": "line", 
+      "timepoint": 0, 
+      "r": "main", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 6, 
+      "sentence": "with branch lines joining the main line at many points on its route", 
+      "is_verb": "false", 
+      "l": "points", 
+      "timepoint": 0, 
+      "r": "many", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 7, 
+      "sentence": "This railway does not run in a direct line across India", 
+      "is_verb": "false", 
+      "l": "line", 
+      "timepoint": 0, 
+      "r": "direct", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 8, 
+      "sentence": "is only from one thousand to eleven hundred miles; but the deflections of the road increase this distance by more than a third", 
+      "is_verb": "false", 
+      "l": "increase", 
+      "timepoint": 0, 
+      "r": "road", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "The general route of the Great Indian Peninsula Railway is as follows: Leaving Bombay", 
+      "is_verb": "false", 
+      "l": "indian", 
+      "timepoint": 0, 
+      "r": "Great", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The general route of the Great Indian Peninsula Railway is as follows: Leaving Bombay", 
+      "is_verb": "false", 
+      "l": "route", 
+      "timepoint": 0, 
+      "r": "general", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "crossing to the continent opposite Tannah", 
+      "is_verb": "false", 
+      "l": "tannah", 
+      "timepoint": 0, 
+      "r": "opposite", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "goes over the chain of the Western Ghauts", 
+      "is_verb": "false", 
+      "l": "ghauts", 
+      "timepoint": 0, 
+      "r": "Western", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 4, 
+      "sentence": "skirts the nearly independent territory of Bundelcund", 
+      "is_verb": "false", 
+      "l": "territory", 
+      "timepoint": 0, 
+      "r": "independent", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "descending south-eastward by Burdivan and the French town of Chandernagor", 
+      "is_verb": "false", 
+      "l": "town", 
+      "timepoint": 0, 
+      "r": "French", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "8": [], 
+  "9": [
+    {
+      "index": 0, 
+      "sentence": "after bidding good-bye to his whist partners", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "after bidding good-bye to his whist partners", 
+      "is_verb": "false", 
+      "l": "partners", 
+      "timepoint": 1, 
+      "r": "whist", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "gave his servant several errands to do", 
+      "is_verb": "false", 
+      "l": "errands", 
+      "timepoint": 1, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "with his regular step", 
+      "is_verb": "false", 
+      "l": "step", 
+      "timepoint": 1, 
+      "r": "regular", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "like an astronomical clock", 
+      "is_verb": "false", 
+      "l": "clock", 
+      "timepoint": 1, 
+      "r": "astronomical", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 5, 
+      "sentence": "directed his steps to the passport office", 
+      "is_verb": "false", 
+      "l": "office", 
+      "timepoint": 1, 
+      "r": "passport", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 6, 
+      "sentence": "As for the wonders of Bombay--its famous city hall", 
+      "is_verb": "false", 
+      "l": "hall", 
+      "timepoint": 1, 
+      "r": "city", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 7, 
+      "sentence": "As for the wonders of Bombay--its famous city hall", 
+      "is_verb": "false", 
+      "l": "city", 
+      "timepoint": 1, 
+      "r": "famous", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 8, 
+      "sentence": "its splendid library", 
+      "is_verb": "false", 
+      "l": "library", 
+      "timepoint": 1, 
+      "r": "splendid", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 9, 
+      "sentence": "its Armenian churches", 
+      "is_verb": "false", 
+      "l": "churches", 
+      "timepoint": 1, 
+      "r": "Armenian", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 10, 
+      "sentence": "and the noble pagoda on Malabar Hill", 
+      "is_verb": "false", 
+      "l": "hill", 
+      "timepoint": 1, 
+      "r": "Malabar", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 11, 
+      "sentence": "and the noble pagoda on Malabar Hill", 
+      "is_verb": "false", 
+      "l": "pagoda", 
+      "timepoint": 1, 
+      "r": "noble", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 12, 
+      "sentence": "with its two polygonal towers--he cared not a straw to see them", 
+      "is_verb": "false", 
+      "l": "towers--he", 
+      "timepoint": 1, 
+      "r": "polygonal", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }, 
+    {
+      "index": 13, 
+      "sentence": "or the mysterious hypogea", 
+      "is_verb": "false", 
+      "l": "hypogea", 
+      "timepoint": 1, 
+      "r": "mysterious", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 14, 
+      "sentence": "concealed south-east from the docks", 
+      "is_verb": "false", 
+      "l": "south-east", 
+      "timepoint": 1, 
+      "r": "concealed", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }, 
+    {
+      "index": 15, 
+      "sentence": "or those fine remains of Buddhist architecture", 
+      "is_verb": "false", 
+      "l": "architecture", 
+      "timepoint": 1, 
+      "r": "Buddhist", 
+      "relation": "has_property", 
+      "storypoints": 23
+    }, 
+    {
+      "index": 16, 
+      "sentence": "the Kanherian grottoes of the island of Salcette", 
+      "is_verb": "false", 
+      "l": "grottoes", 
+      "timepoint": 1, 
+      "r": "Kanherian", 
+      "relation": "has_property", 
+      "storypoints": 24
+    }
+  ], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "Having transacted his business at the passport office", 
+      "is_verb": "false", 
+      "l": "office", 
+      "timepoint": 0, 
+      "r": "passport", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg repaired quietly to the railway station", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Phileas Fogg repaired quietly to the railway station", 
+      "is_verb": "false", 
+      "l": "station", 
+      "timepoint": 0, 
+      "r": "railway", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "where he ordered dinner", 
+      "is_verb": "false", 
+      "l": "dinner", 
+      "timepoint": 0, 
+      "r": "ordered", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 4, 
+      "sentence": "the landlord especially recommended a certain giblet of", 
+      "is_verb": "false", 
+      "l": "giblet", 
+      "timepoint": 0, 
+      "r": "certain", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 5, 
+      "sentence": "native rabbit", 
+      "is_verb": "false", 
+      "l": "rabbit", 
+      "timepoint": 0, 
+      "r": "native", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "despite its spiced sauce", 
+      "is_verb": "false", 
+      "l": "sauce", 
+      "timepoint": 0, 
+      "r": "spiced", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "fixing his clear eyes upon him", 
+      "is_verb": "false", 
+      "l": "eyes", 
+      "timepoint": 0, 
+      "r": "clear", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "12": [], 
+  "13": [], 
+  "14": [], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "as sacred animals", 
+      "is_verb": "false", 
+      "l": "animals", 
+      "timepoint": 0, 
+      "r": "sacred", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 1, 
+      "sentence": "That was a good time", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 0, 
+      "r": "good", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "16": [], 
+  "17": [], 
+  "18": [
+    {
+      "index": 0, 
+      "sentence": "After which Mr", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Fix had gone on shore shortly after Mr", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 2, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and his first destination was the headquarters of the Bombay police", 
+      "is_verb": "false", 
+      "l": "police", 
+      "timepoint": 2, 
+      "r": "Bombay", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and his first destination was the headquarters of the Bombay police", 
+      "is_verb": "false", 
+      "l": "destination", 
+      "timepoint": 2, 
+      "r": "first", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "He made himself known as a London detective", 
+      "is_verb": "false", 
+      "l": "detective", 
+      "timepoint": 2, 
+      "r": "London", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and the position of affairs relative to the supposed robber", 
+      "is_verb": "false", 
+      "l": "robber", 
+      "timepoint": 2, 
+      "r": "supposed", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and tried to obtain an order of arrest from the director of the Bombay police", 
+      "is_verb": "false", 
+      "l": "police", 
+      "timepoint": 2, 
+      "r": "Bombay", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 7, 
+      "sentence": "as the matter concerned the London office", 
+      "is_verb": "false", 
+      "l": "office", 
+      "timepoint": 2, 
+      "r": "London", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 8, 
+      "sentence": "and was fain to resign himself to await the arrival of the important document; but he was determined not to lose sight of the mysterious rogue as long as he stayed in Bombay", 
+      "is_verb": "false", 
+      "l": "document", 
+      "timepoint": 2, 
+      "r": "important", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 9, 
+      "sentence": "that Phileas Fogg would remain there", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 2, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }
+  ], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "had no sooner heard his master's orders on leaving the Mongolia than he saw at once that they were to leave Bombay as they had done Suez and Paris", 
+      "is_verb": "false", 
+      "l": "orders", 
+      "timepoint": 0, 
+      "r": "master's", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Fogg talked about was not really in good earnest", 
+      "is_verb": "false", 
+      "l": "earnest", 
+      "timepoint": 0, 
+      "r": "good", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "20": [
+    {
+      "index": 0, 
+      "sentence": "Having purchased the usual quota of shirts and shoes", 
+      "is_verb": "false", 
+      "l": "quota", 
+      "timepoint": 0, 
+      "r": "usual", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "where crowds of people of many nationalities--Europeans", 
+      "is_verb": "false", 
+      "l": "nationalities--europeans", 
+      "timepoint": 0, 
+      "r": "many", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Persians with pointed caps", 
+      "is_verb": "false", 
+      "l": "caps", 
+      "timepoint": 0, 
+      "r": "pointed", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Banyas with round turbans", 
+      "is_verb": "false", 
+      "l": "turbans", 
+      "timepoint": 0, 
+      "r": "round", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Sindes with square bonnets", 
+      "is_verb": "false", 
+      "l": "bonnets", 
+      "timepoint": 0, 
+      "r": "square", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Parsees with black mitres", 
+      "is_verb": "false", 
+      "l": "mitres", 
+      "timepoint": 0, 
+      "r": "black", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and long-robed Armenians--were collected", 
+      "is_verb": "false", 
+      "l": "armenians--were", 
+      "timepoint": 0, 
+      "r": "long-robed", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and austere of the East Indians", 
+      "is_verb": "false", 
+      "l": "indians", 
+      "timepoint": 0, 
+      "r": "East", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 8, 
+      "sentence": "among whom are counted the richest native merchants of Bombay--were celebrating a sort of religious carnival", 
+      "is_verb": "false", 
+      "l": "merchants", 
+      "timepoint": 0, 
+      "r": "native", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 9, 
+      "sentence": "in the midst of which Indian dancing-girls", 
+      "is_verb": "false", 
+      "l": "dancing-girls", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 10, 
+      "sentence": "clothed in rose-coloured gauze", 
+      "is_verb": "false", 
+      "l": "gauze", 
+      "timepoint": 0, 
+      "r": "rose-coloured", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 11, 
+      "sentence": "but with perfect modesty", 
+      "is_verb": "false", 
+      "l": "modesty", 
+      "timepoint": 0, 
+      "r": "perfect", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }, 
+    {
+      "index": 12, 
+      "sentence": "It is needless to say that Passepartout watched these curious ceremonies with staring eyes and gaping mouth", 
+      "is_verb": "false", 
+      "l": "ceremonies", 
+      "timepoint": 0, 
+      "r": "curious", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }
+  ], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "having seen the Parsee carnival wind away in the distance", 
+      "is_verb": "false", 
+      "l": "wind", 
+      "timepoint": 0, 
+      "r": "carnival", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "when he happened to espy the splendid pagoda on Malabar Hill", 
+      "is_verb": "false", 
+      "l": "hill", 
+      "timepoint": 0, 
+      "r": "Malabar", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "when he happened to espy the splendid pagoda on Malabar Hill", 
+      "is_verb": "false", 
+      "l": "pagoda", 
+      "timepoint": 0, 
+      "r": "splendid", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and was seized with an irresistible desire to see its interior", 
+      "is_verb": "false", 
+      "l": "desire", 
+      "timepoint": 0, 
+      "r": "irresistible", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "He was quite ignorant that it is forbidden to Christians to enter certain Indian temples", 
+      "is_verb": "false", 
+      "l": "temples", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "He was quite ignorant that it is forbidden to Christians to enter certain Indian temples", 
+      "is_verb": "false", 
+      "l": "indian", 
+      "timepoint": 0, 
+      "r": "certain", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 6, 
+      "sentence": "It may be said here that the wise policy of the British Government severely punishes a disregard of the practices of the native religions", 
+      "is_verb": "false", 
+      "l": "policy", 
+      "timepoint": 0, 
+      "r": "wise", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 7, 
+      "sentence": "It may be said here that the wise policy of the British Government severely punishes a disregard of the practices of the native religions", 
+      "is_verb": "false", 
+      "l": "government", 
+      "timepoint": 0, 
+      "r": "British", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 8, 
+      "sentence": "It may be said here that the wise policy of the British Government severely punishes a disregard of the practices of the native religions", 
+      "is_verb": "false", 
+      "l": "religions", 
+      "timepoint": 0, 
+      "r": "native", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "22": [
+    {
+      "index": 0, 
+      "sentence": "went in like a simple tourist", 
+      "is_verb": "false", 
+      "l": "tourist", 
+      "timepoint": 0, 
+      "r": "simple", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and was soon lost in admiration of the splendid Brahmin ornamentation which everywhere met his eyes", 
+      "is_verb": "false", 
+      "l": "ornamentation", 
+      "timepoint": 0, 
+      "r": "Brahmin", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and was soon lost in admiration of the splendid Brahmin ornamentation which everywhere met his eyes", 
+      "is_verb": "false", 
+      "l": "brahmin", 
+      "timepoint": 0, 
+      "r": "splendid", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "He looked up to behold three enraged priests", 
+      "is_verb": "false", 
+      "l": "priests", 
+      "timepoint": 0, 
+      "r": "enraged", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "savage exclamations", 
+      "is_verb": "false", 
+      "l": "exclamations", 
+      "timepoint": 0, 
+      "r": "savage", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 5, 
+      "sentence": "The agile Frenchman was soon upon his feet again", 
+      "is_verb": "false", 
+      "l": "frenchman", 
+      "timepoint": 0, 
+      "r": "agile", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 6, 
+      "sentence": "and lost no time in knocking down two of his long-gowned adversaries with his fists and a vigorous application of his toes; then", 
+      "is_verb": "false", 
+      "l": "adversaries", 
+      "timepoint": 0, 
+      "r": "long-gowned", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and lost no time in knocking down two of his long-gowned adversaries with his fists and a vigorous application of his toes; then", 
+      "is_verb": "false", 
+      "l": "application", 
+      "timepoint": 0, 
+      "r": "vigorous", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 8, 
+      "sentence": "he soon escaped the third priest by mingling with the crowd in the streets", 
+      "is_verb": "false", 
+      "l": "priest", 
+      "timepoint": 0, 
+      "r": "third", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }
+  ], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "At five minutes before eight", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 0
+    }
+  ], 
+  "24": [
+    {
+      "index": 0, 
+      "sentence": "who had followed Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "followed", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "He had resolved to follow the supposed robber to Calcutta", 
+      "is_verb": "false", 
+      "l": "robber", 
+      "timepoint": 0, 
+      "r": "supposed", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "who stood in an obscure corner; but Fix heard him relate his adventures in a few words to Mr", 
+      "is_verb": "false", 
+      "l": "corner", 
+      "timepoint": 0, 
+      "r": "obscure", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 3, 
+      "sentence": "who stood in an obscure corner; but Fix heard him relate his adventures in a few words to Mr", 
+      "is_verb": "false", 
+      "l": "words", 
+      "timepoint": 0, 
+      "r": "few", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "25": [
+    {
+      "index": 0, 
+      "sentence": "said Phileas Fogg coldly", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Poor Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "Poor", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "An offence has been committed on Indian soil", 
+      "is_verb": "false", 
+      "l": "soil", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "27": [
+    {
+      "index": 0, 
+      "sentence": "Just then the locomotive gave a sharp screech", 
+      "is_verb": "false", 
+      "l": "screech", 
+      "timepoint": 0, 
+      "r": "sharp", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ]
+}

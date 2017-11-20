@@ -1,0 +1,1119 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH PASSEPARTOUT RECEIVES A NEW PROOF THAT FORTUNE FAVORS THE BRAVE ", 
+      "is_verb": "false", 
+      "l": "proof", 
+      "timepoint": 0, 
+      "r": "NEW", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "Fogg was going to risk life", 
+      "is_verb": "false", 
+      "l": "life", 
+      "timepoint": 0, 
+      "r": "risk", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "or at least liberty", 
+      "is_verb": "false", 
+      "l": "liberty", 
+      "timepoint": 0, 
+      "r": "least", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and he found in Sir Francis Cromarty an enthusiastic ally", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "His master's idea charmed him; he perceived a heart", 
+      "is_verb": "false", 
+      "l": "idea", 
+      "timepoint": 0, 
+      "r": "master's", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "He began to love Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "phileas", 
+      "timepoint": 0, 
+      "r": "love", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "6": [], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "Sir Francis frankly put the question to him", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "8": [], 
+  "9": [], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "but horrible tortures", 
+      "is_verb": "false", 
+      "l": "tortures", 
+      "timepoint": 0, 
+      "r": "horrible", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "replied Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "I think we must wait till night before acting", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 6
+    }
+  ], 
+  "12": [], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "The worthy Indian then gave some account of the victim", 
+      "is_verb": "false", 
+      "l": "indian", 
+      "timepoint": 0, 
+      "r": "worthy", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "was a celebrated beauty of the Parsee race", 
+      "is_verb": "false", 
+      "l": "race", 
+      "timepoint": 0, 
+      "r": "Parsee", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "was a celebrated beauty of the Parsee race", 
+      "is_verb": "false", 
+      "l": "beauty", 
+      "timepoint": 0, 
+      "r": "celebrated", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and the daughter of a wealthy Bombay merchant", 
+      "is_verb": "false", 
+      "l": "merchant", 
+      "timepoint": 0, 
+      "r": "Bombay", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and the daughter of a wealthy Bombay merchant", 
+      "is_verb": "false", 
+      "l": "bombay", 
+      "timepoint": 0, 
+      "r": "wealthy", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 5, 
+      "sentence": "She had received a thoroughly English education in that city", 
+      "is_verb": "false", 
+      "l": "education", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 6, 
+      "sentence": "she was married against her will to the old rajah of Bundelcund; and", 
+      "is_verb": "false", 
+      "l": "rajah", 
+      "timepoint": 0, 
+      "r": "old", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and devoted by the rajah's relatives", 
+      "is_verb": "false", 
+      "l": "relatives", 
+      "timepoint": 0, 
+      "r": "rajah's", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }
+  ], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "The Parsee's narrative only confirmed Mr", 
+      "is_verb": "false", 
+      "l": "narrative", 
+      "timepoint": 0, 
+      "r": "Parsee's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The Parsee's narrative only confirmed Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "confirmed", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Fogg and his companions in their generous design", 
+      "is_verb": "false", 
+      "l": "design", 
+      "timepoint": 0, 
+      "r": "generous", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "the young woman was imprisoned", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Could they enter any of its doors while the whole party of Indians was plunged in a drunken sleep", 
+      "is_verb": "false", 
+      "l": "party", 
+      "timepoint": 0, 
+      "r": "whole", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "the victim was led to her funeral pyre", 
+      "is_verb": "false", 
+      "l": "pyre", 
+      "timepoint": 0, 
+      "r": "funeral", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Then no human intervention could save her", 
+      "is_verb": "false", 
+      "l": "intervention", 
+      "timepoint": 0, 
+      "r": "human", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "16": [
+    {
+      "index": 0, 
+      "sentence": "The cries of the fakirs were just ceasing; the Indians were in the act of plunging themselves into the drunkenness caused by liquid opium mingled with hemp", 
+      "is_verb": "false", 
+      "l": "opium", 
+      "timepoint": 0, 
+      "r": "liquid", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "17": [
+    {
+      "index": 0, 
+      "sentence": "and in ten minutes they found themselves on the banks of a small stream", 
+      "is_verb": "false", 
+      "l": "stream", 
+      "timepoint": 0, 
+      "r": "small", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "by the light of the rosin torches", 
+      "is_verb": "false", 
+      "l": "torches", 
+      "timepoint": 0, 
+      "r": "rosin", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "on the top of which lay the embalmed body of the rajah", 
+      "is_verb": "false", 
+      "l": "body", 
+      "timepoint": 0, 
+      "r": "embalmed", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "18": [], 
+  "19": [], 
+  "20": [], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "Much to the guide's disappointment", 
+      "is_verb": "false", 
+      "l": "disappointment", 
+      "timepoint": 0, 
+      "r": "guide's", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "were watching at the doors and marching to and fro with naked sabres; probably the priests", 
+      "is_verb": "false", 
+      "l": "sabres", 
+      "timepoint": 0, 
+      "r": "naked", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "22": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg and Sir Francis Cromarty also saw that nothing could be attempted in that direction", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg and Sir Francis Cromarty also saw that nothing could be attempted in that direction", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and engaged in a whispered colloquy", 
+      "is_verb": "false", 
+      "l": "colloquy", 
+      "timepoint": 0, 
+      "r": "whispered", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "23": [], 
+  "24": [], 
+  "25": [], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "and a dim light crept through the windows of the pagoda", 
+      "is_verb": "false", 
+      "l": "light", 
+      "timepoint": 0, 
+      "r": "dim", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "27": [
+    {
+      "index": 0, 
+      "sentence": "The other plan must be carried out; an opening in the walls of the pagoda must be made", 
+      "is_verb": "false", 
+      "l": "plan", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "28": [
+    {
+      "index": 0, 
+      "sentence": "After a last consultation", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "After a last consultation", 
+      "is_verb": "false", 
+      "l": "consultation", 
+      "timepoint": 1, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "They took a roundabout way", 
+      "is_verb": "false", 
+      "l": "way", 
+      "timepoint": 1, 
+      "r": "roundabout", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "29": [
+    {
+      "index": 0, 
+      "sentence": "and was covered with heavy clouds; the height of the trees deepened the darkness", 
+      "is_verb": "false", 
+      "l": "clouds", 
+      "timepoint": 0, 
+      "r": "heavy", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "30": [
+    {
+      "index": 0, 
+      "sentence": "Happily the temple walls were built of brick and wood", 
+      "is_verb": "false", 
+      "l": "walls", 
+      "timepoint": 0, 
+      "r": "temple", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "which could be penetrated with little difficulty; after one brick had been taken out", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "which could be penetrated with little difficulty; after one brick had been taken out", 
+      "is_verb": "false", 
+      "l": "difficulty", 
+      "timepoint": 1, 
+      "r": "little", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "31": [
+    {
+      "index": 0, 
+      "sentence": "followed almost instantly by other cries replying from the outside", 
+      "is_verb": "false", 
+      "l": "cries", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Common prudence urged them to retire", 
+      "is_verb": "false", 
+      "l": "prudence", 
+      "timepoint": 0, 
+      "r": "Common", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 2, 
+      "sentence": "followed by Phileas Fogg and Sir Francis", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 3, 
+      "sentence": "followed by Phileas Fogg and Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "32": [
+    {
+      "index": 0, 
+      "sentence": "Sir Francis shook his fists", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The tranquil Fogg waited", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "tranquil", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "33": [
+    {
+      "index": 0, 
+      "sentence": "whispered Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "whispered Sir Francis", 
+      "is_verb": "false", 
+      "l": "sir", 
+      "timepoint": 0, 
+      "r": "whispered", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "34": [], 
+  "35": [
+    {
+      "index": 0, 
+      "sentence": "I am only due at Allahabad tomorrow before noon", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 1, 
+      "sentence": "I am only due at Allahabad tomorrow before noon", 
+      "is_verb": "false", 
+      "l": "tomorrow", 
+      "timepoint": 1, 
+      "r": 2, 
+      "relation": "time_shift", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "I am only due at Allahabad tomorrow before noon", 
+      "is_verb": "false", 
+      "l": "tomorrow", 
+      "timepoint": 1, 
+      "r": "Allahabad", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "36": [
+    {
+      "index": 0, 
+      "sentence": "asked Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "asked Sir Francis", 
+      "is_verb": "false", 
+      "l": "sir", 
+      "timepoint": 0, 
+      "r": "asked", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "In a few hours it will be daylight", 
+      "is_verb": "false", 
+      "l": "hours", 
+      "timepoint": 0, 
+      "r": "few", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "37": [
+    {
+      "index": 0, 
+      "sentence": "The chance which now seems lost may present itself at the last moment", 
+      "is_verb": "false", 
+      "l": "moment", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "38": [
+    {
+      "index": 0, 
+      "sentence": "Sir Francis would have liked to read Phileas Fogg's eyes", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Sir Francis would have liked to read Phileas Fogg's eyes", 
+      "is_verb": "false", 
+      "l": "fogg's", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "What was this cool Englishman thinking of", 
+      "is_verb": "false", 
+      "l": "englishman", 
+      "timepoint": 0, 
+      "r": "cool", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Was he planning to make a rush for the young woman at the very moment of the sacrifice", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "39": [
+    {
+      "index": 0, 
+      "sentence": "Sir Francis consented", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "to remain to the end of this terrible drama", 
+      "is_verb": "false", 
+      "l": "drama", 
+      "timepoint": 0, 
+      "r": "terrible", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "40": [
+    {
+      "index": 0, 
+      "sentence": "who had perched himself on the lower branches of a tree", 
+      "is_verb": "false", 
+      "l": "branches", 
+      "timepoint": 0, 
+      "r": "lower", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "41": [
+    {
+      "index": 0, 
+      "sentence": "after all", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 1, 
+      "sentence": "--perhaps the only one; and with such sots", 
+      "is_verb": "false", 
+      "l": "sots", 
+      "timepoint": 1, 
+      "r": "such", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 2, 
+      "sentence": "to the lowest branches", 
+      "is_verb": "false", 
+      "l": "branches", 
+      "timepoint": 1, 
+      "r": "lowest", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }
+  ], 
+  "42": [
+    {
+      "index": 0, 
+      "sentence": "and the lighter shades now announced the approach of day", 
+      "is_verb": "false", 
+      "l": "shades", 
+      "timepoint": 0, 
+      "r": "lighter", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and a bright light escaped from its interior", 
+      "is_verb": "false", 
+      "l": "light", 
+      "timepoint": 0, 
+      "r": "bright", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Fogg and Sir Francis espied the victim", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Sir Francis's heart throbbed; and", 
+      "is_verb": "false", 
+      "l": "francis's", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Fogg's hand", 
+      "is_verb": "false", 
+      "l": "hand", 
+      "timepoint": 0, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 5, 
+      "sentence": "found in it an open knife", 
+      "is_verb": "false", 
+      "l": "knife", 
+      "timepoint": 0, 
+      "r": "open", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 6, 
+      "sentence": "The young woman had again fallen into a stupor caused by the fumes of hemp", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }, 
+    {
+      "index": 7, 
+      "sentence": "religious cries", 
+      "is_verb": "false", 
+      "l": "cries", 
+      "timepoint": 0, 
+      "r": "religious", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }
+  ], 
+  "43": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg and his companions", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "mingling in the rear ranks of the crowd", 
+      "is_verb": "false", 
+      "l": "ranks", 
+      "timepoint": 0, 
+      "r": "rear", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "upon which still lay the rajah's corpse", 
+      "is_verb": "false", 
+      "l": "corpse", 
+      "timepoint": 0, 
+      "r": "rajah's", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "stretched out beside her husband's body", 
+      "is_verb": "false", 
+      "l": "body", 
+      "timepoint": 0, 
+      "r": "husband's", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "44": [
+    {
+      "index": 0, 
+      "sentence": "At this moment Sir Francis and the guide seized Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "sir", 
+      "timepoint": 0, 
+      "r": "moment", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "At this moment Sir Francis and the guide seized Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "At this moment Sir Francis and the guide seized Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "phileas", 
+      "timepoint": 0, 
+      "r": "seized", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 3, 
+      "sentence": "in an instant of mad generosity", 
+      "is_verb": "false", 
+      "l": "generosity", 
+      "timepoint": 0, 
+      "r": "mad", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 4, 
+      "sentence": "when the whole scene suddenly changed", 
+      "is_verb": "false", 
+      "l": "scene", 
+      "timepoint": 0, 
+      "r": "whole", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "The whole multitude prostrated themselves", 
+      "is_verb": "false", 
+      "l": "multitude", 
+      "timepoint": 0, 
+      "r": "whole", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "45": [
+    {
+      "index": 0, 
+      "sentence": "The old rajah was not dead", 
+      "is_verb": "false", 
+      "l": "rajah", 
+      "timepoint": 0, 
+      "r": "old", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "46": [
+    {
+      "index": 0, 
+      "sentence": "seized with instant terror", 
+      "is_verb": "false", 
+      "l": "terror", 
+      "timepoint": 0, 
+      "r": "instant", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "47": [
+    {
+      "index": 0, 
+      "sentence": "The inanimate victim was borne along by the vigorous arms which supported her", 
+      "is_verb": "false", 
+      "l": "victim", 
+      "timepoint": 0, 
+      "r": "inanimate", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The inanimate victim was borne along by the vigorous arms which supported her", 
+      "is_verb": "false", 
+      "l": "arms", 
+      "timepoint": 0, 
+      "r": "vigorous", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Fogg and Sir Francis stood erect", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "48": [
+    {
+      "index": 0, 
+      "sentence": "The resuscitated rajah approached Sir Francis and Mr", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The resuscitated rajah approached Sir Francis and Mr", 
+      "is_verb": "false", 
+      "l": "rajah", 
+      "timepoint": 0, 
+      "r": "resuscitated", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "in an abrupt tone", 
+      "is_verb": "false", 
+      "l": "tone", 
+      "timepoint": 0, 
+      "r": "abrupt", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "49": [
+    {
+      "index": 0, 
+      "sentence": "had delivered the young woman from death", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "playing his part with a happy audacity", 
+      "is_verb": "false", 
+      "l": "audacity", 
+      "timepoint": 0, 
+      "r": "happy", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "had passed through the crowd amid the general terror", 
+      "is_verb": "false", 
+      "l": "terror", 
+      "timepoint": 0, 
+      "r": "general", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "50": [
+    {
+      "index": 0, 
+      "sentence": "A moment after all four of the party had disappeared in the woods", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and the elephant was bearing them away at a rapid pace", 
+      "is_verb": "false", 
+      "l": "pace", 
+      "timepoint": 1, 
+      "r": "rapid", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and a ball which whizzed through Phileas Fogg's hat", 
+      "is_verb": "false", 
+      "l": "fogg's", 
+      "timepoint": 1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "51": [
+    {
+      "index": 0, 
+      "sentence": "The old rajah's body", 
+      "is_verb": "false", 
+      "l": "body", 
+      "timepoint": 0, 
+      "r": "rajah's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The old rajah's body", 
+      "is_verb": "false", 
+      "l": "rajah's", 
+      "timepoint": 0, 
+      "r": "old", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "who fired a volley after the fugitives; but the latter rapidly increased the distance between them", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 7
+    }
+  ]
+}

@@ -1,0 +1,1595 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH PHILEAS FOGG DESCENDS THE WHOLE LENGTH OF THE BEAUTIFUL VALLEY OF THE GANGES WITHOUT EVER THINKING OF SEEING IT ", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "PHILEAS", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "IN WHICH PHILEAS FOGG DESCENDS THE WHOLE LENGTH OF THE BEAUTIFUL VALLEY OF THE GANGES WITHOUT EVER THINKING OF SEEING IT ", 
+      "is_verb": "false", 
+      "l": "length", 
+      "timepoint": 0, 
+      "r": "WHOLE", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "IN WHICH PHILEAS FOGG DESCENDS THE WHOLE LENGTH OF THE BEAUTIFUL VALLEY OF THE GANGES WITHOUT EVER THINKING OF SEEING IT ", 
+      "is_verb": "false", 
+      "l": "valley", 
+      "timepoint": 0, 
+      "r": "BEAUTIFUL", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "The rash exploit had been accomplished; and for an hour Passepartout laughed gaily at his success", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "hour", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Sir Francis pressed the worthy fellow's hand", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Sir Francis pressed the worthy fellow's hand", 
+      "is_verb": "false", 
+      "l": "hand", 
+      "timepoint": 0, 
+      "r": "fellow's", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Sir Francis pressed the worthy fellow's hand", 
+      "is_verb": "false", 
+      "l": "fellow's", 
+      "timepoint": 0, 
+      "r": "worthy", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 4, 
+      "sentence": "was high commendation; to which Passepartout replied that all the credit of the affair belonged to Mr", 
+      "is_verb": "false", 
+      "l": "commendation", 
+      "timepoint": 0, 
+      "r": "high", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "idea; and he laughed to think that for a few moments he", 
+      "is_verb": "false", 
+      "l": "moments", 
+      "timepoint": 0, 
+      "r": "few", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 6, 
+      "sentence": "ex-sergeant fireman", 
+      "is_verb": "false", 
+      "l": "fireman", 
+      "timepoint": 0, 
+      "r": "ex-sergeant", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 7, 
+      "sentence": "had been the spouse of a charming woman", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "charming", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 8, 
+      "sentence": "embalmed rajah", 
+      "is_verb": "false", 
+      "l": "rajah", 
+      "timepoint": 0, 
+      "r": "embalmed", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }, 
+    {
+      "index": 9, 
+      "sentence": "As for the young Indian woman", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 10, 
+      "sentence": "As for the young Indian woman", 
+      "is_verb": "false", 
+      "l": "indian", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "thanks to the skilful guidance of the Parsee", 
+      "is_verb": "false", 
+      "l": "guidance", 
+      "timepoint": 0, 
+      "r": "skilful", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "was advancing rapidly through the still darksome forest", 
+      "is_verb": "false", 
+      "l": "forest", 
+      "timepoint": 0, 
+      "r": "darksome", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "an hour after leaving the pagoda", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "the young woman being still in a state of complete prostration", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 1, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "the young woman being still in a state of complete prostration", 
+      "is_verb": "false", 
+      "l": "prostration", 
+      "timepoint": 1, 
+      "r": "complete", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 5, 
+      "sentence": "The guide made her drink a little brandy and water", 
+      "is_verb": "false", 
+      "l": "brandy", 
+      "timepoint": 1, 
+      "r": "little", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 1, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 7, 
+      "sentence": "But he was more disturbed at the prospect of her future fate", 
+      "is_verb": "false", 
+      "l": "fate", 
+      "timepoint": 1, 
+      "r": "future", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 8, 
+      "sentence": "He told Phileas Fogg that", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 9, 
+      "sentence": "despite the English police", 
+      "is_verb": "false", 
+      "l": "police", 
+      "timepoint": 1, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg replied that he would reflect upon the matter", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "the interrupted line of railway being resumed", 
+      "is_verb": "false", 
+      "l": "line", 
+      "timepoint": 0, 
+      "r": "interrupted", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg would thus be able to arrive in time to take the steamer which left Calcutta the next day", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Phileas Fogg would thus be able to arrive in time to take the steamer which left Calcutta the next day", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "October 25th", 
+      "is_verb": "false", 
+      "l": "25th", 
+      "timepoint": 0, 
+      "r": "October", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "for Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "8": [
+    {
+      "index": 0, 
+      "sentence": "The young woman was placed in one of the waiting-rooms of the station", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "whilst Passepartout was charged with purchasing for her various articles of toilet", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "whilst", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "whilst Passepartout was charged with purchasing for her various articles of toilet", 
+      "is_verb": "false", 
+      "l": "articles", 
+      "timepoint": 0, 
+      "r": "various", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and some furs; for which his master gave him unlimited credit", 
+      "is_verb": "false", 
+      "l": "credit", 
+      "timepoint": 0, 
+      "r": "unlimited", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "being built at the junction of the two sacred rivers", 
+      "is_verb": "false", 
+      "l": "rivers", 
+      "timepoint": 0, 
+      "r": "sacred", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 5, 
+      "sentence": "owing to Brahma's agency", 
+      "is_verb": "false", 
+      "l": "agency", 
+      "timepoint": 0, 
+      "r": "Brahma's", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }
+  ], 
+  "9": [
+    {
+      "index": 0, 
+      "sentence": "It was formerly defended by a noble fort", 
+      "is_verb": "false", 
+      "l": "fort", 
+      "timepoint": 0, 
+      "r": "noble", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "which has since become a state prison; its commerce has dwindled away", 
+      "is_verb": "false", 
+      "l": "prison", 
+      "timepoint": 0, 
+      "r": "state", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and Passepartout in vain looked about him for such a bazaar as he used to frequent in Regent Street", 
+      "is_verb": "false", 
+      "l": "street", 
+      "timepoint": 0, 
+      "r": "Regent", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "crusty Jew", 
+      "is_verb": "false", 
+      "l": "jew", 
+      "timepoint": 0, 
+      "r": "crusty", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "who sold second-hand articles", 
+      "is_verb": "false", 
+      "l": "articles", 
+      "timepoint": 0, 
+      "r": "second-hand", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and from whom he purchased a dress of Scotch stuff", 
+      "is_verb": "false", 
+      "l": "stuff", 
+      "timepoint": 0, 
+      "r": "Scotch", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 6, 
+      "sentence": "a large mantle", 
+      "is_verb": "false", 
+      "l": "mantle", 
+      "timepoint": 0, 
+      "r": "large", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and a fine otter-skin pelisse", 
+      "is_verb": "false", 
+      "l": "pelisse", 
+      "timepoint": 0, 
+      "r": "otter-skin", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 8, 
+      "sentence": "and a fine otter-skin pelisse", 
+      "is_verb": "false", 
+      "l": "otter-skin", 
+      "timepoint": 0, 
+      "r": "fine", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "The influence to which the priests of Pillaji had subjected Aouda began gradually to yield", 
+      "is_verb": "false", 
+      "l": "aouda", 
+      "timepoint": 0, 
+      "r": "subjected", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "so that her fine eyes resumed all their soft Indian expression", 
+      "is_verb": "false", 
+      "l": "expression", 
+      "timepoint": 0, 
+      "r": "Indian", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "so that her fine eyes resumed all their soft Indian expression", 
+      "is_verb": "false", 
+      "l": "eyes", 
+      "timepoint": 0, 
+      "r": "fine", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "so that her fine eyes resumed all their soft Indian expression", 
+      "is_verb": "false", 
+      "l": "indian", 
+      "timepoint": 0, 
+      "r": "soft", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "Ucaf Uddaul", 
+      "is_verb": "false", 
+      "l": "uddaul", 
+      "timepoint": 0, 
+      "r": "Ucaf", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "encircle the harmonious contour of her white and delicate cheeks", 
+      "is_verb": "false", 
+      "l": "contour", 
+      "timepoint": 0, 
+      "r": "harmonious", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "encircle the harmonious contour of her white and delicate cheeks", 
+      "is_verb": "false", 
+      "l": "cheeks", 
+      "timepoint": 0, 
+      "r": "delicate", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Her ebony brows have the form and charm of the bow of Kama", 
+      "is_verb": "false", 
+      "l": "brows", 
+      "timepoint": 0, 
+      "r": "ebony", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and beneath her long silken lashes the purest reflections and a celestial light swim", 
+      "is_verb": "false", 
+      "l": "lashes", 
+      "timepoint": 0, 
+      "r": "silken", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and beneath her long silken lashes the purest reflections and a celestial light swim", 
+      "is_verb": "false", 
+      "l": "reflections", 
+      "timepoint": 0, 
+      "r": "purest", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and beneath her long silken lashes the purest reflections and a celestial light swim", 
+      "is_verb": "false", 
+      "l": "light", 
+      "timepoint": 0, 
+      "r": "celestial", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 6, 
+      "sentence": "as in the sacred lakes of Himalaya", 
+      "is_verb": "false", 
+      "l": "lakes", 
+      "timepoint": 0, 
+      "r": "sacred", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 7, 
+      "sentence": "in the black pupils of her great clear eyes", 
+      "is_verb": "false", 
+      "l": "pupils", 
+      "timepoint": 0, 
+      "r": "black", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 8, 
+      "sentence": "in the black pupils of her great clear eyes", 
+      "is_verb": "false", 
+      "l": "eyes", 
+      "timepoint": 0, 
+      "r": "clear", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 9, 
+      "sentence": "glitter between her smiling lips like dewdrops in a passion-flower's half-enveloped breast", 
+      "is_verb": "false", 
+      "l": "breast", 
+      "timepoint": 0, 
+      "r": "half-enveloped", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 10, 
+      "sentence": "Her delicately formed ears", 
+      "is_verb": "false", 
+      "l": "ears", 
+      "timepoint": 0, 
+      "r": "formed", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 11, 
+      "sentence": "her vermilion hands", 
+      "is_verb": "false", 
+      "l": "hands", 
+      "timepoint": 0, 
+      "r": "vermilion", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 12, 
+      "sentence": "her little feet", 
+      "is_verb": "false", 
+      "l": "feet", 
+      "timepoint": 0, 
+      "r": "little", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 13, 
+      "sentence": "glitter with the brilliancy of the loveliest pearls of Ceylon", 
+      "is_verb": "false", 
+      "l": "pearls", 
+      "timepoint": 0, 
+      "r": "loveliest", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }, 
+    {
+      "index": 14, 
+      "sentence": "the most dazzling diamonds of Golconda", 
+      "is_verb": "false", 
+      "l": "diamonds", 
+      "timepoint": 0, 
+      "r": "dazzling", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 15, 
+      "sentence": "Her narrow and supple waist", 
+      "is_verb": "false", 
+      "l": "waist", 
+      "timepoint": 0, 
+      "r": "supple", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 16, 
+      "sentence": "sets forth the outline of her rounded figure and the beauty of her bosom", 
+      "is_verb": "false", 
+      "l": "figure", 
+      "timepoint": 0, 
+      "r": "rounded", 
+      "relation": "has_property", 
+      "storypoints": 23
+    }, 
+    {
+      "index": 17, 
+      "sentence": "where youth in its flower displays the wealth of its treasures; and beneath the silken folds of her tunic she seems to have been modelled in pure silver by the godlike hand of Vicvarcarma", 
+      "is_verb": "false", 
+      "l": "displays", 
+      "timepoint": 0, 
+      "r": "flower", 
+      "relation": "has_property", 
+      "storypoints": 24
+    }, 
+    {
+      "index": 18, 
+      "sentence": "where youth in its flower displays the wealth of its treasures; and beneath the silken folds of her tunic she seems to have been modelled in pure silver by the godlike hand of Vicvarcarma", 
+      "is_verb": "false", 
+      "l": "folds", 
+      "timepoint": 0, 
+      "r": "silken", 
+      "relation": "has_property", 
+      "storypoints": 24
+    }, 
+    {
+      "index": 19, 
+      "sentence": "where youth in its flower displays the wealth of its treasures; and beneath the silken folds of her tunic she seems to have been modelled in pure silver by the godlike hand of Vicvarcarma", 
+      "is_verb": "false", 
+      "l": "silver", 
+      "timepoint": 0, 
+      "r": "pure", 
+      "relation": "has_property", 
+      "storypoints": 24
+    }, 
+    {
+      "index": 20, 
+      "sentence": "where youth in its flower displays the wealth of its treasures; and beneath the silken folds of her tunic she seems to have been modelled in pure silver by the godlike hand of Vicvarcarma", 
+      "is_verb": "false", 
+      "l": "hand", 
+      "timepoint": 0, 
+      "r": "godlike", 
+      "relation": "has_property", 
+      "storypoints": 24
+    }, 
+    {
+      "index": 21, 
+      "sentence": "the immortal sculptor", 
+      "is_verb": "false", 
+      "l": "sculptor", 
+      "timepoint": 0, 
+      "r": "immortal", 
+      "relation": "has_property", 
+      "storypoints": 25
+    }
+  ], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "without applying this poetical rhapsody to Aouda", 
+      "is_verb": "false", 
+      "l": "rhapsody", 
+      "timepoint": 0, 
+      "r": "poetical", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "that she was a charming woman", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "charming", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "in all the European acceptation of the phrase", 
+      "is_verb": "false", 
+      "l": "acceptation", 
+      "timepoint": 0, 
+      "r": "European", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "She spoke English with great purity", 
+      "is_verb": "false", 
+      "l": "purity", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and the guide had not exaggerated in saying that the young Parsee had been transformed by her bringing up", 
+      "is_verb": "false", 
+      "l": "parsee", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "and not a farthing more; which astonished Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "astonished", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "who remembered all that his master owed to the guide's devotion", 
+      "is_verb": "false", 
+      "l": "devotion", 
+      "timepoint": 0, 
+      "r": "guide's", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Phileas Fogg had already determined this question", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }
+  ], 
+  "15": [], 
+  "16": [
+    {
+      "index": 0, 
+      "sentence": "The guide's eyes glistened", 
+      "is_verb": "false", 
+      "l": "eyes", 
+      "timepoint": 0, 
+      "r": "guide's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "17": [], 
+  "18": [
+    {
+      "index": 0, 
+      "sentence": "returned Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "returned", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "exclaimed Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "exclaimed", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Kiouni is a brave and faithful beast", 
+      "is_verb": "false", 
+      "l": "beast", 
+      "timepoint": 0, 
+      "r": "faithful", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 2, 
+      "sentence": "he gave him several lumps of sugar", 
+      "is_verb": "false", 
+      "l": "lumps", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "20": [], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "Soon after", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Sir Francis Cromarty", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 1, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "who had the best seat", 
+      "is_verb": "false", 
+      "l": "seat", 
+      "timepoint": 1, 
+      "r": "best", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 4, 
+      "sentence": "the young woman fully recovered her senses", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 1, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 5, 
+      "sentence": "dressed in European habiliments", 
+      "is_verb": "false", 
+      "l": "habiliments", 
+      "timepoint": 1, 
+      "r": "European", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Her companions first set about fully reviving her with a little liquor", 
+      "is_verb": "false", 
+      "l": "liquor", 
+      "timepoint": 1, 
+      "r": "little", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and then Sir Francis narrated to her what had passed", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 1, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 8, 
+      "sentence": "dwelling upon the courage with which Phileas Fogg had not hesitated to risk his life to save her", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 9, 
+      "sentence": "and recounting the happy sequel of the venture", 
+      "is_verb": "false", 
+      "l": "sequel", 
+      "timepoint": 1, 
+      "r": "happy", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 10, 
+      "sentence": "the result of Passepartout's rash idea", 
+      "is_verb": "false", 
+      "l": "rash", 
+      "timepoint": 1, 
+      "r": "Passepartout's", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }
+  ], 
+  "22": [
+    {
+      "index": 0, 
+      "sentence": "rather with tears than words; her fine eyes interpreted her gratitude better than her lips", 
+      "is_verb": "false", 
+      "l": "eyes", 
+      "timepoint": 0, 
+      "r": "fine", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg understood what was passing in Aouda's mind", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg understood what was passing in Aouda's mind", 
+      "is_verb": "false", 
+      "l": "mind", 
+      "timepoint": 0, 
+      "r": "Aouda's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "to escort her to Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "where she might remain safely until the affair was hushed up--an offer which she eagerly and gratefully accepted", 
+      "is_verb": "false", 
+      "l": "offer", 
+      "timepoint": 0, 
+      "r": "up--an", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "where she might remain safely until the affair was hushed up--an offer which she eagerly and gratefully accepted", 
+      "is_verb": "false", 
+      "l": "up--an", 
+      "timepoint": 0, 
+      "r": "hushed", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 5, 
+      "sentence": "a Parsee relation", 
+      "is_verb": "false", 
+      "l": "relation", 
+      "timepoint": 0, 
+      "r": "Parsee", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 6, 
+      "sentence": "who was one of the principal merchants of Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 7, 
+      "sentence": "who was one of the principal merchants of Hong Kong", 
+      "is_verb": "false", 
+      "l": "merchants", 
+      "timepoint": 0, 
+      "r": "principal", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 8, 
+      "sentence": "which is wholly an English city", 
+      "is_verb": "false", 
+      "l": "city", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 9, 
+      "sentence": "though on an island on the Chinese coast", 
+      "is_verb": "false", 
+      "l": "coast", 
+      "timepoint": 0, 
+      "r": "Chinese", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "24": [
+    {
+      "index": 0, 
+      "sentence": "The Brahmin legends assert that this city is built on the site of the ancient Casi", 
+      "is_verb": "false", 
+      "l": "legends", 
+      "timepoint": 0, 
+      "r": "Brahmin", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The Brahmin legends assert that this city is built on the site of the ancient Casi", 
+      "is_verb": "false", 
+      "l": "casi", 
+      "timepoint": 0, 
+      "r": "ancient", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "like Mahomet's tomb", 
+      "is_verb": "false", 
+      "l": "tomb", 
+      "timepoint": 0, 
+      "r": "Mahomet's", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "stands quite unpoetically on the solid earth", 
+      "is_verb": "false", 
+      "l": "earth", 
+      "timepoint": 0, 
+      "r": "solid", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Passepartout caught glimpses of its brick houses and clay huts", 
+      "is_verb": "false", 
+      "l": "houses", 
+      "timepoint": 0, 
+      "r": "brick", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Passepartout caught glimpses of its brick houses and clay huts", 
+      "is_verb": "false", 
+      "l": "huts", 
+      "timepoint": 0, 
+      "r": "clay", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "25": [
+    {
+      "index": 0, 
+      "sentence": "Benares was Sir Francis Cromarty's destination", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "He bade adieu to Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and expressing the hope that he would come that way again in a less original but more profitable fashion", 
+      "is_verb": "false", 
+      "l": "fashion", 
+      "timepoint": 0, 
+      "r": "profitable", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "who did not forget what she owed to Sir Francis", 
+      "is_verb": "false", 
+      "l": "francis", 
+      "timepoint": 0, 
+      "r": "Sir", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 4, 
+      "sentence": "betrayed more warmth; and", 
+      "is_verb": "false", 
+      "l": "warmth", 
+      "timepoint": 0, 
+      "r": "more", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "Through the windows of their carriage the travellers had glimpses of the diversified landscape of Behar", 
+      "is_verb": "false", 
+      "l": "landscape", 
+      "timepoint": 0, 
+      "r": "diversified", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "its jungles peopled with green alligators", 
+      "is_verb": "false", 
+      "l": "alligators", 
+      "timepoint": 0, 
+      "r": "green", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 2, 
+      "sentence": "its neat villages", 
+      "is_verb": "false", 
+      "l": "villages", 
+      "timepoint": 0, 
+      "r": "neat", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and its still thickly-leaved forests", 
+      "is_verb": "false", 
+      "l": "forests", 
+      "timepoint": 0, 
+      "r": "thickly-leaved", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Elephants were bathing in the waters of the sacred river", 
+      "is_verb": "false", 
+      "l": "river", 
+      "timepoint": 0, 
+      "r": "sacred", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 5, 
+      "sentence": "despite the advanced season and chilly air", 
+      "is_verb": "false", 
+      "l": "season", 
+      "timepoint": 0, 
+      "r": "advanced", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 6, 
+      "sentence": "were performing solemnly their pious ablutions", 
+      "is_verb": "false", 
+      "l": "ablutions", 
+      "timepoint": 0, 
+      "r": "pious", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 7, 
+      "sentence": "These were fervent Brahmins", 
+      "is_verb": "false", 
+      "l": "brahmins", 
+      "timepoint": 0, 
+      "r": "fervent", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 8, 
+      "sentence": "the bitterest foes of Buddhism", 
+      "is_verb": "false", 
+      "l": "foes", 
+      "timepoint": 0, 
+      "r": "bitterest", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 9, 
+      "sentence": "the solar god", 
+      "is_verb": "false", 
+      "l": "god", 
+      "timepoint": 0, 
+      "r": "solar", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 10, 
+      "sentence": "the divine impersonation of natural forces", 
+      "is_verb": "false", 
+      "l": "impersonation", 
+      "timepoint": 0, 
+      "r": "divine", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 11, 
+      "sentence": "the divine impersonation of natural forces", 
+      "is_verb": "false", 
+      "l": "forces", 
+      "timepoint": 0, 
+      "r": "natural", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 12, 
+      "sentence": "the supreme ruler of priests and legislators", 
+      "is_verb": "false", 
+      "l": "ruler", 
+      "timepoint": 0, 
+      "r": "supreme", 
+      "relation": "has_property", 
+      "storypoints": 22
+    }
+  ], 
+  "27": [
+    {
+      "index": 0, 
+      "sentence": "The panorama passed before their eyes like a flash", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "twenty miles south-westward from Benares", 
+      "is_verb": "false", 
+      "l": "south-westward", 
+      "timepoint": -1, 
+      "r": "miles", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "the ancient stronghold of the rajahs of Behar; or Ghazipur and its famous rose-water factories; or the tomb of Lord Cornwallis", 
+      "is_verb": "false", 
+      "l": "factories", 
+      "timepoint": -1, 
+      "r": "rose-water", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "the ancient stronghold of the rajahs of Behar; or Ghazipur and its famous rose-water factories; or the tomb of Lord Cornwallis", 
+      "is_verb": "false", 
+      "l": "cornwallis", 
+      "timepoint": -1, 
+      "r": "Lord", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 4, 
+      "sentence": "the ancient stronghold of the rajahs of Behar; or Ghazipur and its famous rose-water factories; or the tomb of Lord Cornwallis", 
+      "is_verb": "false", 
+      "l": "stronghold", 
+      "timepoint": -1, 
+      "r": "ancient", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 5, 
+      "sentence": "the ancient stronghold of the rajahs of Behar; or Ghazipur and its famous rose-water factories; or the tomb of Lord Cornwallis", 
+      "is_verb": "false", 
+      "l": "rose-water", 
+      "timepoint": -1, 
+      "r": "famous", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 6, 
+      "sentence": "rising on the left bank of the Ganges; the fortified town of Buxar", 
+      "is_verb": "false", 
+      "l": "town", 
+      "timepoint": -1, 
+      "r": "fortified", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 7, 
+      "sentence": "where is held the principal opium market of India; or Monghir", 
+      "is_verb": "false", 
+      "l": "market", 
+      "timepoint": -1, 
+      "r": "opium", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 8, 
+      "sentence": "where is held the principal opium market of India; or Monghir", 
+      "is_verb": "false", 
+      "l": "opium", 
+      "timepoint": -1, 
+      "r": "principal", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 9, 
+      "sentence": "a more than European town", 
+      "is_verb": "false", 
+      "l": "town", 
+      "timepoint": -1, 
+      "r": "European", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 10, 
+      "sentence": "with its iron foundries", 
+      "is_verb": "false", 
+      "l": "foundries", 
+      "timepoint": -1, 
+      "r": "iron", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 11, 
+      "sentence": "edgetool factories", 
+      "is_verb": "false", 
+      "l": "factories", 
+      "timepoint": -1, 
+      "r": "edgetool", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 12, 
+      "sentence": "and high chimneys puffing clouds of black smoke heavenward", 
+      "is_verb": "false", 
+      "l": "chimneys", 
+      "timepoint": -1, 
+      "r": "high", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 13, 
+      "sentence": "and high chimneys puffing clouds of black smoke heavenward", 
+      "is_verb": "false", 
+      "l": "smoke", 
+      "timepoint": -1, 
+      "r": "black", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }
+  ], 
+  "28": [
+    {
+      "index": 0, 
+      "sentence": "and wolves which fled before the locomotive; and the marvels of Bengal", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Golconda ruined Gour", 
+      "is_verb": "false", 
+      "l": "gour", 
+      "timepoint": -1, 
+      "r": "ruined", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and the French town of Chandernagor", 
+      "is_verb": "false", 
+      "l": "town", 
+      "timepoint": -1, 
+      "r": "French", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 3, 
+      "sentence": "where Passepartout would have been proud to see his country's flag flying", 
+      "is_verb": "false", 
+      "l": "flag", 
+      "timepoint": -1, 
+      "r": "country's", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "29": [
+    {
+      "index": 0, 
+      "sentence": "and the packet left for Hong Kong at noon; so that Phileas Fogg had five hours before him", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and the packet left for Hong Kong at noon; so that Phileas Fogg had five hours before him", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": -1, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and the packet left for Hong Kong at noon; so that Phileas Fogg had five hours before him", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": -1, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "30": [
+    {
+      "index": 0, 
+      "sentence": "and that was the exact date of his actual arrival", 
+      "is_verb": "false", 
+      "l": "date", 
+      "timepoint": 0, 
+      "r": "exact", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "But it is not to be supposed that Phileas Fogg regretted them", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ]
+}

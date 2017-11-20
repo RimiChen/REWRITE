@@ -1,0 +1,1267 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "RUNS GREAT RISK OF LOSING A REWARD OF TWO HUNDRED POUNDS ", 
+      "is_verb": "false", 
+      "l": "risk", 
+      "timepoint": 0, 
+      "r": "GREAT", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "This voyage of eight hundred miles was a perilous venture on a craft of twenty tons", 
+      "is_verb": "false", 
+      "l": "venture", 
+      "timepoint": 0, 
+      "r": "perilous", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The Chinese seas are usually boisterous", 
+      "is_verb": "false", 
+      "l": "seas", 
+      "timepoint": 0, 
+      "r": "Chinese", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "subject to terrible gales of wind", 
+      "is_verb": "false", 
+      "l": "gales", 
+      "timepoint": 0, 
+      "r": "terrible", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "It would clearly have been to the master's advantage to carry his passengers to Yokohama", 
+      "is_verb": "false", 
+      "l": "advantage", 
+      "timepoint": 0, 
+      "r": "master's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "since he was paid a certain sum per day; but he would have been rash to attempt such a voyage", 
+      "is_verb": "false", 
+      "l": "sum", 
+      "timepoint": 0, 
+      "r": "certain", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "But John Bunsby believed in the Tankadere", 
+      "is_verb": "false", 
+      "l": "bunsby", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "6": [
+    {
+      "index": 0, 
+      "sentence": "Late in the day they passed through the capricious channels of Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Late in the day they passed through the capricious channels of Hong Kong", 
+      "is_verb": "false", 
+      "l": "channels", 
+      "timepoint": 0, 
+      "r": "capricious", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "impelled by favourable winds", 
+      "is_verb": "false", 
+      "l": "winds", 
+      "timepoint": 0, 
+      "r": "favourable", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "said Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "when they got into the open sea", 
+      "is_verb": "false", 
+      "l": "sea", 
+      "timepoint": 0, 
+      "r": "open", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "8": [], 
+  "9": [], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The young woman", 
+      "is_verb": "false", 
+      "l": "woman", 
+      "timepoint": 0, 
+      "r": "young", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Above her head rustled the white sails", 
+      "is_verb": "false", 
+      "l": "sails", 
+      "timepoint": 0, 
+      "r": "white", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 3, 
+      "sentence": "which seemed like great white wings", 
+      "is_verb": "false", 
+      "l": "wings", 
+      "timepoint": 0, 
+      "r": "white", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "The moon was entering her first quarter", 
+      "is_verb": "false", 
+      "l": "quarter", 
+      "timepoint": 0, 
+      "r": "first", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and her insufficient light would soon die out in the mist on the horizon", 
+      "is_verb": "false", 
+      "l": "light", 
+      "timepoint": 0, 
+      "r": "insufficient", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "12": [
+    {
+      "index": 0, 
+      "sentence": "which was very necessary in these seas crowded with vessels bound landward; for collisions are not uncommon occurrences", 
+      "is_verb": "false", 
+      "l": "occurrences", 
+      "timepoint": 0, 
+      "r": "uncommon", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "the least shock would shatter the gallant little craft", 
+      "is_verb": "false", 
+      "l": "shock", 
+      "timepoint": 0, 
+      "r": "least", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "the least shock would shatter the gallant little craft", 
+      "is_verb": "false", 
+      "l": "craft", 
+      "timepoint": 0, 
+      "r": "little", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "Fogg's taciturn tastes; besides", 
+      "is_verb": "false", 
+      "l": "taciturn", 
+      "timepoint": 0, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 1, 
+      "sentence": "but would at once take the boat for San Francisco; and the vast extent of America would ensure him impunity and safety", 
+      "is_verb": "false", 
+      "l": "francisco", 
+      "timepoint": 0, 
+      "r": "San", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 2, 
+      "sentence": "but would at once take the boat for San Francisco; and the vast extent of America would ensure him impunity and safety", 
+      "is_verb": "false", 
+      "l": "extent", 
+      "timepoint": 0, 
+      "r": "vast", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Fogg's plan appeared to him the simplest in the world", 
+      "is_verb": "false", 
+      "l": "plan", 
+      "timepoint": 0, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Instead of sailing directly from England to the United States", 
+      "is_verb": "false", 
+      "l": "states", 
+      "timepoint": 0, 
+      "r": "United", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 5, 
+      "sentence": "like a common villain", 
+      "is_verb": "false", 
+      "l": "villain", 
+      "timepoint": 0, 
+      "r": "common", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 6, 
+      "sentence": "so as to gain the American continent more surely; and there", 
+      "is_verb": "false", 
+      "l": "continent", 
+      "timepoint": 0, 
+      "r": "American", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 7, 
+      "sentence": "after throwing the police off his track", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 17
+    }, 
+    {
+      "index": 8, 
+      "sentence": "once in the United States", 
+      "is_verb": "false", 
+      "l": "states", 
+      "timepoint": 1, 
+      "r": "United", 
+      "relation": "has_property", 
+      "storypoints": 20
+    }, 
+    {
+      "index": 9, 
+      "sentence": "after the confidences Fix had imparted to him", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 2, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 33
+    }
+  ], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg was also thinking of Passepartout", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "the man might have embarked on the Carnatic at the last moment; and this was also Aouda's opinion", 
+      "is_verb": "false", 
+      "l": "opinion", 
+      "timepoint": 0, 
+      "r": "Aouda's", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "the man might have embarked on the Carnatic at the last moment; and this was also Aouda's opinion", 
+      "is_verb": "false", 
+      "l": "moment", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "who regretted very much the loss of the worthy fellow to whom she owed so much", 
+      "is_verb": "false", 
+      "l": "fellow", 
+      "timepoint": 0, 
+      "r": "worthy", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "A brisk breeze arose about ten o'clock; but", 
+      "is_verb": "false", 
+      "l": "breeze", 
+      "timepoint": 0, 
+      "r": "brisk", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "after carefully examining the heavens", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "let the craft remain rigged as before", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": 0, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 4
+    }
+  ], 
+  "16": [], 
+  "17": [
+    {
+      "index": 0, 
+      "sentence": "At sunrise the next day", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "next", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "which was 8th November", 
+      "is_verb": "false", 
+      "l": "november", 
+      "timepoint": 0, 
+      "r": "8th", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and was accomplishing her greatest capacity of speed", 
+      "is_verb": "false", 
+      "l": "capacity", 
+      "timepoint": 0, 
+      "r": "greatest", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "since the wind came off land--a fortunate circumstance for the boat", 
+      "is_verb": "false", 
+      "l": "circumstance", 
+      "timepoint": 0, 
+      "r": "fortunate", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 4, 
+      "sentence": "owing to its small tonnage", 
+      "is_verb": "false", 
+      "l": "tonnage", 
+      "timepoint": 0, 
+      "r": "small", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 5, 
+      "sentence": "by a heavy surge on the sea", 
+      "is_verb": "false", 
+      "l": "surge", 
+      "timepoint": 0, 
+      "r": "heavy", 
+      "relation": "has_property", 
+      "storypoints": 17
+    }
+  ], 
+  "18": [], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "ate with a good appetite", 
+      "is_verb": "false", 
+      "l": "appetite", 
+      "timepoint": 0, 
+      "r": "good", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "which he accepted with secret chagrin", 
+      "is_verb": "false", 
+      "l": "chagrin", 
+      "timepoint": 0, 
+      "r": "secret", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "To travel at this man's expense and live upon his provisions was not palatable to him", 
+      "is_verb": "false", 
+      "l": "expense", 
+      "timepoint": 0, 
+      "r": "man's", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "20": [], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "replied Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "22": [], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "repeated Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "repeated", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "This enters into my general expenses", 
+      "is_verb": "false", 
+      "l": "expenses", 
+      "timepoint": 0, 
+      "r": "general", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "24": [], 
+  "25": [
+    {
+      "index": 0, 
+      "sentence": "and John Bunsby was in high hope", 
+      "is_verb": "false", 
+      "l": "bunsby", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and John Bunsby was in high hope", 
+      "is_verb": "false", 
+      "l": "hope", 
+      "timepoint": 0, 
+      "r": "high", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "He several times assured Mr", 
+      "is_verb": "false", 
+      "l": "times", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The crew set to work in good earnest", 
+      "is_verb": "false", 
+      "l": "earnest", 
+      "timepoint": 0, 
+      "r": "good", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "They worked as desperately as if they were contesting in a Royal yacht regatta", 
+      "is_verb": "false", 
+      "l": "regatta", 
+      "timepoint": 0, 
+      "r": "yacht", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 5, 
+      "sentence": "They worked as desperately as if they were contesting in a Royal yacht regatta", 
+      "is_verb": "false", 
+      "l": "yacht", 
+      "timepoint": 0, 
+      "r": "Royal", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "the log showed that two hundred and twenty miles had been accomplished from Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "the many misadventures which had overtaken him since he left London would not seriously affect his journey", 
+      "is_verb": "false", 
+      "l": "misadventures", 
+      "timepoint": 0, 
+      "r": "many", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "27": [
+    {
+      "index": 0, 
+      "sentence": "which separate the island of Formosa from the Chinese coast", 
+      "is_verb": "false", 
+      "l": "coast", 
+      "timepoint": 0, 
+      "r": "Chinese", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "in the small hours of the night", 
+      "is_verb": "false", 
+      "l": "hours", 
+      "timepoint": 0, 
+      "r": "small", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "28": [
+    {
+      "index": 0, 
+      "sentence": "The barometer announced a speedy change", 
+      "is_verb": "false", 
+      "l": "change", 
+      "timepoint": 0, 
+      "r": "speedy", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "raised long surges which indicated a tempest", 
+      "is_verb": "false", 
+      "l": "surges", 
+      "timepoint": 0, 
+      "r": "long", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "The sun had set the evening before in a red mist", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The sun had set the evening before in a red mist", 
+      "is_verb": "false", 
+      "l": "mist", 
+      "timepoint": -1, 
+      "r": "red", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "in the midst of the phosphorescent scintillations of the ocean", 
+      "is_verb": "false", 
+      "l": "scintillations", 
+      "timepoint": -1, 
+      "r": "phosphorescent", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "29": [
+    {
+      "index": 0, 
+      "sentence": "John Bunsby long examined the threatening aspect of the heavens", 
+      "is_verb": "false", 
+      "l": "bunsby", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "At last he said in a low voice to Mr", 
+      "is_verb": "false", 
+      "l": "voice", 
+      "timepoint": 0, 
+      "r": "low", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "30": [], 
+  "31": [], 
+  "32": [
+    {
+      "index": 0, 
+      "sentence": "asked Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "asked", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "33": [], 
+  "34": [
+    {
+      "index": 0, 
+      "sentence": "Glad it's a typhoon from the south", 
+      "is_verb": "false", 
+      "l": "it's", 
+      "timepoint": 0, 
+      "r": "Glad", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "35": [
+    {
+      "index": 0, 
+      "sentence": "said John Bunsby", 
+      "is_verb": "false", 
+      "l": "bunsby", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "John Bunsby's suspicions were confirmed", 
+      "is_verb": "false", 
+      "l": "bunsby's", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 2, 
+      "sentence": "At a less advanced season of the year the typhoon", 
+      "is_verb": "false", 
+      "l": "season", 
+      "timepoint": 0, 
+      "r": "advanced", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 3, 
+      "sentence": "according to a famous meteorologist", 
+      "is_verb": "false", 
+      "l": "meteorologist", 
+      "timepoint": 0, 
+      "r": "famous", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "would have passed away like a luminous cascade of electric flame; but in the winter equinox it was to be feared that it would burst upon them with great violence", 
+      "is_verb": "false", 
+      "l": "equinox", 
+      "timepoint": 0, 
+      "r": "winter", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 5, 
+      "sentence": "would have passed away like a luminous cascade of electric flame; but in the winter equinox it was to be feared that it would burst upon them with great violence", 
+      "is_verb": "false", 
+      "l": "cascade", 
+      "timepoint": 0, 
+      "r": "luminous", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 6, 
+      "sentence": "would have passed away like a luminous cascade of electric flame; but in the winter equinox it was to be feared that it would burst upon them with great violence", 
+      "is_verb": "false", 
+      "l": "flame", 
+      "timepoint": 0, 
+      "r": "electric", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 7, 
+      "sentence": "would have passed away like a luminous cascade of electric flame; but in the winter equinox it was to be feared that it would burst upon them with great violence", 
+      "is_verb": "false", 
+      "l": "violence", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "36": [
+    {
+      "index": 0, 
+      "sentence": "of strong canvas", 
+      "is_verb": "false", 
+      "l": "canvas", 
+      "timepoint": 0, 
+      "r": "strong", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "37": [
+    {
+      "index": 0, 
+      "sentence": "John Bunsby had requested his passengers to go below; but this imprisonment in so narrow a space", 
+      "is_verb": "false", 
+      "l": "bunsby", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "with little air", 
+      "is_verb": "false", 
+      "l": "air", 
+      "timepoint": 0, 
+      "r": "little", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "38": [
+    {
+      "index": 0, 
+      "sentence": "To compare her speed to four times that of a locomotive going on full steam would be below the truth", 
+      "is_verb": "false", 
+      "l": "steam", 
+      "timepoint": 0, 
+      "r": "full", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "39": [
+    {
+      "index": 0, 
+      "sentence": "The boat scudded thus northward during the whole day", 
+      "is_verb": "false", 
+      "l": "day", 
+      "timepoint": 0, 
+      "r": "whole", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "borne on by monstrous waves", 
+      "is_verb": "false", 
+      "l": "waves", 
+      "timepoint": 0, 
+      "r": "monstrous", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Twenty times she seemed almost to be submerged by these mountains of water which rose behind her; but the adroit management of the pilot saved her", 
+      "is_verb": "false", 
+      "l": "management", 
+      "timepoint": 0, 
+      "r": "adroit", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "As for Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }
+  ], 
+  "40": [
+    {
+      "index": 0, 
+      "sentence": "shook and rolled terribly; the sea struck her with fearful violence", 
+      "is_verb": "false", 
+      "l": "violence", 
+      "timepoint": 0, 
+      "r": "fearful", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 1, 
+      "sentence": "John Bunsby saw the approach of darkness and the rising of the storm with dark misgivings", 
+      "is_verb": "false", 
+      "l": "bunsby", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 2, 
+      "sentence": "John Bunsby saw the approach of darkness and the rising of the storm with dark misgivings", 
+      "is_verb": "false", 
+      "l": "misgivings", 
+      "timepoint": 0, 
+      "r": "dark", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 3, 
+      "sentence": "After a consultation he approached Mr", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "After a consultation he approached Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 1, 
+      "r": "approached", 
+      "relation": "has_property", 
+      "storypoints": 10
+    }
+  ], 
+  "41": [], 
+  "42": [], 
+  "43": [
+    {
+      "index": 0, 
+      "sentence": "returned Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "returned", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "44": [], 
+  "45": [], 
+  "46": [
+    {
+      "index": 0, 
+      "sentence": "did not seem to comprehend; he could scarcely realise so much determination and tenacity", 
+      "is_verb": "false", 
+      "l": "determination", 
+      "timepoint": 0, 
+      "r": "much", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "47": [], 
+  "48": [], 
+  "49": [
+    {
+      "index": 0, 
+      "sentence": "The tempest still raged with undiminished fury; but the wind now returned to the south-east", 
+      "is_verb": "false", 
+      "l": "fury", 
+      "timepoint": 0, 
+      "r": "undiminished", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "It was a favourable change", 
+      "is_verb": "false", 
+      "l": "change", 
+      "timepoint": 0, 
+      "r": "favourable", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and the Tankadere again bounded forward on this mountainous sea", 
+      "is_verb": "false", 
+      "l": "sea", 
+      "timepoint": 0, 
+      "r": "mountainous", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and imparted shocks and counter-shocks which would have crushed a craft less solidly built", 
+      "is_verb": "false", 
+      "l": "shocks", 
+      "timepoint": 0, 
+      "r": "imparted", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "50": [], 
+  "51": [
+    {
+      "index": 0, 
+      "sentence": "and John Bunsby was able to assert that they were not one hundred miles from Shanghai", 
+      "is_verb": "false", 
+      "l": "bunsby", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "during which several hours were lost", 
+      "is_verb": "false", 
+      "l": "hours", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }
+  ], 
+  "52": [
+    {
+      "index": 0, 
+      "sentence": "and every one--Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "one--Phileas", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 1, 
+      "sentence": "It was a capricious breeze", 
+      "is_verb": "false", 
+      "l": "breeze", 
+      "timepoint": 0, 
+      "r": "capricious", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and after it passed the sea became smooth", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and her fine sails caught the fickle zephyrs so well", 
+      "is_verb": "false", 
+      "l": "sails", 
+      "timepoint": 1, 
+      "r": "fine", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and her fine sails caught the fickle zephyrs so well", 
+      "is_verb": "false", 
+      "l": "zephyrs", 
+      "timepoint": 1, 
+      "r": "fickle", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 5, 
+      "sentence": "with the aid of the currents John Bunsby found himself at six o'clock not more than ten miles from the mouth of Shanghai River", 
+      "is_verb": "false", 
+      "l": "john", 
+      "timepoint": 1, 
+      "r": "currents", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 6, 
+      "sentence": "with the aid of the currents John Bunsby found himself at six o'clock not more than ten miles from the mouth of Shanghai River", 
+      "is_verb": "false", 
+      "l": "river", 
+      "timepoint": 1, 
+      "r": "Shanghai", 
+      "relation": "has_property", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 7, 
+      "sentence": "The pilot swore an angry oath; the reward of two hundred pounds was evidently on the point of escaping him", 
+      "is_verb": "false", 
+      "l": "oath", 
+      "timepoint": 1, 
+      "r": "angry", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 8, 
+      "sentence": "Fogg was perfectly tranquil; and yet his whole fortune was at this moment at stake", 
+      "is_verb": "false", 
+      "l": "fortune", 
+      "timepoint": 1, 
+      "r": "whole", 
+      "relation": "has_property", 
+      "storypoints": 25
+    }
+  ], 
+  "53": [
+    {
+      "index": 0, 
+      "sentence": "It was the American steamer", 
+      "is_verb": "false", 
+      "l": "steamer", 
+      "timepoint": 0, 
+      "r": "American", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 1, 
+      "sentence": "leaving for Yokohama at the appointed time", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 0, 
+      "r": "appointed", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "54": [
+    {
+      "index": 0, 
+      "sentence": "cried John Bunsby", 
+      "is_verb": "false", 
+      "l": "bunsby", 
+      "timepoint": 0, 
+      "r": "John", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "cried John Bunsby", 
+      "is_verb": "false", 
+      "l": "john", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "pushing back the rudder with a desperate jerk", 
+      "is_verb": "false", 
+      "l": "jerk", 
+      "timepoint": 0, 
+      "r": "desperate", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "55": [
+    {
+      "index": 0, 
+      "sentence": "said Phileas Fogg quietly", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "56": [
+    {
+      "index": 0, 
+      "sentence": "A small brass cannon stood on the forward deck of the Tankadere", 
+      "is_verb": "false", 
+      "l": "cannon", 
+      "timepoint": 0, 
+      "r": "brass", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "A small brass cannon stood on the forward deck of the Tankadere", 
+      "is_verb": "false", 
+      "l": "brass", 
+      "timepoint": 0, 
+      "r": "small", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "57": [
+    {
+      "index": 0, 
+      "sentence": "it was hoped that the American steamer", 
+      "is_verb": "false", 
+      "l": "steamer", 
+      "timepoint": 0, 
+      "r": "American", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "58": [
+    {
+      "index": 0, 
+      "sentence": "And the booming of the little cannon resounded in the air", 
+      "is_verb": "false", 
+      "l": "cannon", 
+      "timepoint": 0, 
+      "r": "little", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ]
+}

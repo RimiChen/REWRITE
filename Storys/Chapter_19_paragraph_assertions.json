@@ -1,0 +1,1304 @@
+{
+  "2": [
+    {
+      "index": 0, 
+      "sentence": "IN WHICH PASSEPARTOUT TAKES A TOO GREAT INTEREST IN HIS MASTER", 
+      "is_verb": "false", 
+      "l": "interest", 
+      "timepoint": 0, 
+      "r": "GREAT", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "IN WHICH PASSEPARTOUT TAKES A TOO GREAT INTEREST IN HIS MASTER", 
+      "is_verb": "false", 
+      "l": "master", 
+      "timepoint": 0, 
+      "r": "HIS", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "4": [
+    {
+      "index": 0, 
+      "sentence": "Hong Kong is an island which came into the possession of the English by the Treaty of Nankin", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "after the war of 1842; and the colonising genius of the English has created upon it an important city and an excellent port", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "after the war of 1842; and the colonising genius of the English has created upon it an important city and an excellent port", 
+      "is_verb": "false", 
+      "l": "city", 
+      "timepoint": 1, 
+      "r": "important", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "after the war of 1842; and the colonising genius of the English has created upon it an important city and an excellent port", 
+      "is_verb": "false", 
+      "l": "port", 
+      "timepoint": 1, 
+      "r": "excellent", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 4, 
+      "sentence": "The island is situated at the mouth of the Canton River", 
+      "is_verb": "false", 
+      "l": "river", 
+      "timepoint": 1, 
+      "r": "Canton", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and is separated by about sixty miles from the Portuguese town of Macao", 
+      "is_verb": "false", 
+      "l": "town", 
+      "timepoint": 1, 
+      "r": "Portuguese", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 6, 
+      "sentence": "on the opposite coast", 
+      "is_verb": "false", 
+      "l": "coast", 
+      "timepoint": 1, 
+      "r": "opposite", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 7, 
+      "sentence": "Hong Kong has beaten Macao in the struggle for the Chinese trade", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 1, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 8, 
+      "sentence": "Hong Kong has beaten Macao in the struggle for the Chinese trade", 
+      "is_verb": "false", 
+      "l": "trade", 
+      "timepoint": 1, 
+      "r": "Chinese", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 9, 
+      "sentence": "and now the greater part of the transportation of Chinese goods finds its depot at the former place", 
+      "is_verb": "false", 
+      "l": "part", 
+      "timepoint": 1, 
+      "r": "greater", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 10, 
+      "sentence": "and now the greater part of the transportation of Chinese goods finds its depot at the former place", 
+      "is_verb": "false", 
+      "l": "goods", 
+      "timepoint": 1, 
+      "r": "Chinese", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 11, 
+      "sentence": "and now the greater part of the transportation of Chinese goods finds its depot at the former place", 
+      "is_verb": "false", 
+      "l": "place", 
+      "timepoint": 1, 
+      "r": "former", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 12, 
+      "sentence": "a government house", 
+      "is_verb": "false", 
+      "l": "house", 
+      "timepoint": 1, 
+      "r": "government", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 13, 
+      "sentence": "macadamised streets", 
+      "is_verb": "false", 
+      "l": "streets", 
+      "timepoint": 1, 
+      "r": "macadamised", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 14, 
+      "sentence": "give to Hong Kong the appearance of a town in Kent or Surrey transferred by some strange magic to the antipodes", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 1, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 15, 
+      "sentence": "give to Hong Kong the appearance of a town in Kent or Surrey transferred by some strange magic to the antipodes", 
+      "is_verb": "false", 
+      "l": "magic", 
+      "timepoint": 1, 
+      "r": "strange", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }
+  ], 
+  "5": [
+    {
+      "index": 0, 
+      "sentence": "towards the Victoria port", 
+      "is_verb": "false", 
+      "l": "port", 
+      "timepoint": 0, 
+      "r": "Victoria", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "gazing as he went at the curious palanquins and other modes of conveyance", 
+      "is_verb": "false", 
+      "l": "palanquins", 
+      "timepoint": 0, 
+      "r": "curious", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "gazing as he went at the curious palanquins and other modes of conveyance", 
+      "is_verb": "false", 
+      "l": "modes", 
+      "timepoint": 0, 
+      "r": "other", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Hong Kong seemed to him not unlike Bombay", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "it betrayed everywhere the evidence of English supremacy", 
+      "is_verb": "false", 
+      "l": "supremacy", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 5, 
+      "sentence": "At the Victoria port he found a confused mass of ships of all nations: English", 
+      "is_verb": "false", 
+      "l": "port", 
+      "timepoint": 0, 
+      "r": "Victoria", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 6, 
+      "sentence": "At the Victoria port he found a confused mass of ships of all nations: English", 
+      "is_verb": "false", 
+      "l": "mass", 
+      "timepoint": 0, 
+      "r": "confused", 
+      "relation": "has_property", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 7, 
+      "sentence": "On going into a barber's to get shaved he learned that these ancient men were all at least eighty years old", 
+      "is_verb": "false", 
+      "l": "men", 
+      "timepoint": 0, 
+      "r": "ancient", 
+      "relation": "has_property", 
+      "storypoints": 24
+    }, 
+    {
+      "index": 8, 
+      "sentence": "which is the Imperial colour", 
+      "is_verb": "false", 
+      "l": "colour", 
+      "timepoint": 0, 
+      "r": "Imperial", 
+      "relation": "has_property", 
+      "storypoints": 26
+    }
+  ], 
+  "6": [], 
+  "7": [
+    {
+      "index": 0, 
+      "sentence": "muttered Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "muttered", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "for the gentlemen of the Reform Club", 
+      "is_verb": "false", 
+      "l": "club", 
+      "timepoint": 0, 
+      "r": "Reform", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "He accosted Fix with a merry smile", 
+      "is_verb": "false", 
+      "l": "smile", 
+      "timepoint": 0, 
+      "r": "merry", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 3, 
+      "sentence": "as if he had not perceived that gentleman's chagrin", 
+      "is_verb": "false", 
+      "l": "chagrin", 
+      "timepoint": 0, 
+      "r": "gentleman's", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 4, 
+      "sentence": "good reasons to inveigh against the bad luck which pursued him", 
+      "is_verb": "false", 
+      "l": "reasons", 
+      "timepoint": 0, 
+      "r": "good", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 5, 
+      "sentence": "good reasons to inveigh against the bad luck which pursued him", 
+      "is_verb": "false", 
+      "l": "luck", 
+      "timepoint": 0, 
+      "r": "bad", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 6, 
+      "sentence": "but as certainly it could not now reach Hong Kong for several days; and", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 7, 
+      "sentence": "but as certainly it could not now reach Hong Kong for several days; and", 
+      "is_verb": "false", 
+      "l": "days", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 8, 
+      "sentence": "this being the last English territory on Mr", 
+      "is_verb": "false", 
+      "l": "territory", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 9, 
+      "sentence": "this being the last English territory on Mr", 
+      "is_verb": "false", 
+      "l": "english", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 10, 
+      "sentence": "Fogg's route", 
+      "is_verb": "false", 
+      "l": "route", 
+      "timepoint": 0, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }
+  ], 
+  "8": [], 
+  "9": [], 
+  "10": [
+    {
+      "index": 0, 
+      "sentence": "exclaimed Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "exclaimed", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "11": [
+    {
+      "index": 0, 
+      "sentence": "They entered the steamer office and secured cabins for four persons", 
+      "is_verb": "false", 
+      "l": "office", 
+      "timepoint": 0, 
+      "r": "steamer", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "They entered the steamer office and secured cabins for four persons", 
+      "is_verb": "false", 
+      "l": "cabins", 
+      "timepoint": 0, 
+      "r": "secured", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "12": [], 
+  "13": [
+    {
+      "index": 0, 
+      "sentence": "Fix now decided to make a bold move; he resolved to tell Passepartout all", 
+      "is_verb": "false", 
+      "l": "move", 
+      "timepoint": 0, 
+      "r": "bold", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "It seemed to be the only possible means of keeping Phileas Fogg several days longer at Hong Kong", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "It seemed to be the only possible means of keeping Phileas Fogg several days longer at Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "It seemed to be the only possible means of keeping Phileas Fogg several days longer at Hong Kong", 
+      "is_verb": "false", 
+      "l": "days", 
+      "timepoint": 0, 
+      "r": "several", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 4, 
+      "sentence": "they found themselves in a large room handsomely decorated", 
+      "is_verb": "false", 
+      "l": "room", 
+      "timepoint": 0, 
+      "r": "large", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Several persons lay upon this bed in a deep sleep", 
+      "is_verb": "false", 
+      "l": "persons", 
+      "timepoint": 0, 
+      "r": "Several", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 6, 
+      "sentence": "At the small tables which were arranged about the room some thirty customers were drinking English beer", 
+      "is_verb": "false", 
+      "l": "beer", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 7, 
+      "sentence": "At the small tables which were arranged about the room some thirty customers were drinking English beer", 
+      "is_verb": "false", 
+      "l": "tables", 
+      "timepoint": 0, 
+      "r": "small", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 8, 
+      "sentence": "long red clay pipes stuffed with little balls of opium mingled with essence of rose", 
+      "is_verb": "false", 
+      "l": "pipes", 
+      "timepoint": 0, 
+      "r": "clay", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 9, 
+      "sentence": "long red clay pipes stuffed with little balls of opium mingled with essence of rose", 
+      "is_verb": "false", 
+      "l": "clay", 
+      "timepoint": 0, 
+      "r": "red", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 10, 
+      "sentence": "long red clay pipes stuffed with little balls of opium mingled with essence of rose", 
+      "is_verb": "false", 
+      "l": "balls", 
+      "timepoint": 0, 
+      "r": "little", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 11, 
+      "sentence": "The bed already supported twenty of these stupefied sots", 
+      "is_verb": "false", 
+      "l": "sots", 
+      "timepoint": 0, 
+      "r": "stupefied", 
+      "relation": "has_property", 
+      "storypoints": 19
+    }
+  ], 
+  "14": [
+    {
+      "index": 0, 
+      "sentence": "idiotic creatures to whom the English merchants sell every year the miserable drug called opium", 
+      "is_verb": "false", 
+      "l": "merchants", 
+      "timepoint": 0, 
+      "r": "English", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "idiotic creatures to whom the English merchants sell every year the miserable drug called opium", 
+      "is_verb": "false", 
+      "l": "creatures", 
+      "timepoint": 0, 
+      "r": "idiotic", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "idiotic creatures to whom the English merchants sell every year the miserable drug called opium", 
+      "is_verb": "false", 
+      "l": "drug", 
+      "timepoint": 0, 
+      "r": "miserable", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 3, 
+      "sentence": "to the amount of one million four hundred thousand pounds--thousands devoted to one of the most despicable vices which afflict humanity", 
+      "is_verb": "false", 
+      "l": "vices", 
+      "timepoint": 0, 
+      "r": "despicable", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 4, 
+      "sentence": "The Chinese government has in vain attempted to deal with the evil by stringent laws", 
+      "is_verb": "false", 
+      "l": "government", 
+      "timepoint": 0, 
+      "r": "Chinese", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 5, 
+      "sentence": "The Chinese government has in vain attempted to deal with the evil by stringent laws", 
+      "is_verb": "false", 
+      "l": "laws", 
+      "timepoint": 0, 
+      "r": "stringent", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 6, 
+      "sentence": "to the lower classes", 
+      "is_verb": "false", 
+      "l": "classes", 
+      "timepoint": 0, 
+      "r": "lower", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 7, 
+      "sentence": "in the Celestial Empire; and", 
+      "is_verb": "false", 
+      "l": "empire", 
+      "timepoint": 0, 
+      "r": "Celestial", 
+      "relation": "has_property", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 8, 
+      "sentence": "A great smoker can smoke as many as eight pipes a day; but he dies in five years", 
+      "is_verb": "false", 
+      "l": "smoker", 
+      "timepoint": 0, 
+      "r": "great", 
+      "relation": "has_property", 
+      "storypoints": 16
+    }, 
+    {
+      "index": 9, 
+      "sentence": "but willingly accepted Fix's invitation in the hope of returning the obligation at some future time", 
+      "is_verb": "false", 
+      "l": "invitation", 
+      "timepoint": 0, 
+      "r": "Fix's", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 10, 
+      "sentence": "but willingly accepted Fix's invitation in the hope of returning the obligation at some future time", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 0, 
+      "r": "future", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 11, 
+      "sentence": "but willingly accepted Fix's invitation in the hope of returning the obligation at some future time", 
+      "is_verb": "false", 
+      "l": "fix's", 
+      "timepoint": 0, 
+      "r": "accepted", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }
+  ], 
+  "15": [
+    {
+      "index": 0, 
+      "sentence": "to which the Frenchman did ample justice", 
+      "is_verb": "false", 
+      "l": "justice", 
+      "timepoint": 0, 
+      "r": "ample", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "16": [], 
+  "17": [], 
+  "18": [], 
+  "19": [
+    {
+      "index": 0, 
+      "sentence": "cried Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "drinking up the little wine that was left in the bottom of his glass", 
+      "is_verb": "false", 
+      "l": "wine", 
+      "timepoint": 0, 
+      "r": "little", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "we'll talk about it to-morrow; I haven't time now", 
+      "is_verb": "false", 
+      "l": "time", 
+      "timepoint": 0, 
+      "r": "haven't", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "20": [], 
+  "21": [
+    {
+      "index": 0, 
+      "sentence": "Fix's face seemed to have a singular expression", 
+      "is_verb": "false", 
+      "l": "face", 
+      "timepoint": 0, 
+      "r": "Fix's", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Fix's face seemed to have a singular expression", 
+      "is_verb": "false", 
+      "l": "expression", 
+      "timepoint": 0, 
+      "r": "singular", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "22": [], 
+  "23": [
+    {
+      "index": 0, 
+      "sentence": "Fix placed his hand upon Passepartout's arm", 
+      "is_verb": "false", 
+      "l": "arm", 
+      "timepoint": 0, 
+      "r": "Passepartout's", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "24": [], 
+  "25": [], 
+  "26": [
+    {
+      "index": 0, 
+      "sentence": "let me tell you that those gentlemen have put themselves to a useless expense", 
+      "is_verb": "false", 
+      "l": "expense", 
+      "timepoint": 0, 
+      "r": "useless", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "27": [], 
+  "28": [
+    {
+      "index": 0, 
+      "sentence": "returned Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "returned", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "29": [
+    {
+      "index": 0, 
+      "sentence": "pressing his companion's hand", 
+      "is_verb": "false", 
+      "l": "hand", 
+      "timepoint": 0, 
+      "r": "companion's", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "30": [
+    {
+      "index": 0, 
+      "sentence": "Has Monsieur Fogg dared--fifty-five thousand pounds", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Monsieur", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 1, 
+      "sentence": "there's all the more reason for not losing an instant", 
+      "is_verb": "false", 
+      "l": "reason", 
+      "timepoint": 0, 
+      "r": "more", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "31": [
+    {
+      "index": 0, 
+      "sentence": "Fix pushed Passepartout back in his chair", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "pushed", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }
+  ], 
+  "32": [
+    {
+      "index": 0, 
+      "sentence": "cried Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "33": [], 
+  "34": [], 
+  "35": [], 
+  "36": [
+    {
+      "index": 0, 
+      "sentence": "I mean that it is a piece of shameful trickery", 
+      "is_verb": "false", 
+      "l": "trickery", 
+      "timepoint": 0, 
+      "r": "shameful", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "They might as well waylay Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "waylay", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "37": [], 
+  "38": [
+    {
+      "index": 0, 
+      "sentence": "cried Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "A real conspiracy", 
+      "is_verb": "false", 
+      "l": "conspiracy", 
+      "timepoint": 0, 
+      "r": "real", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "39": [], 
+  "40": [
+    {
+      "index": 0, 
+      "sentence": "Members of the Reform Club", 
+      "is_verb": "false", 
+      "l": "club", 
+      "timepoint": 0, 
+      "r": "Reform", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "continued Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "continued", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "that my master is an honest man", 
+      "is_verb": "false", 
+      "l": "man", 
+      "timepoint": 0, 
+      "r": "honest", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "41": [], 
+  "42": [
+    {
+      "index": 0, 
+      "sentence": "An agent of the members of the Reform Club", 
+      "is_verb": "false", 
+      "l": "club", 
+      "timepoint": 0, 
+      "r": "Reform", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "sent out here to interrupt my master's journey", 
+      "is_verb": "false", 
+      "l": "journey", 
+      "timepoint": 0, 
+      "r": "master's", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "I've taken good care to say nothing about it to Mr", 
+      "is_verb": "false", 
+      "l": "care", 
+      "timepoint": 0, 
+      "r": "good", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "43": [], 
+  "44": [
+    {
+      "index": 0, 
+      "sentence": "replied Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "45": [
+    {
+      "index": 0, 
+      "sentence": "hesitating before he spoke again", 
+      "is_verb": "false", 
+      "l": "before", 
+      "timepoint": -1, 
+      "r": -1, 
+      "relation": "time_shift", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Passepartout's mistake seemed sincere", 
+      "is_verb": "false", 
+      "l": "mistake", 
+      "timepoint": -1, 
+      "r": "Passepartout's", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "It was evident that the servant was not the master's accomplice", 
+      "is_verb": "false", 
+      "l": "accomplice", 
+      "timepoint": -1, 
+      "r": "master's", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }
+  ], 
+  "46": [], 
+  "47": [
+    {
+      "index": 0, 
+      "sentence": "He had no time to lose: Fogg must be detained at Hong Kong", 
+      "is_verb": "false", 
+      "l": "kong", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "so he resolved to make a clean breast of it", 
+      "is_verb": "false", 
+      "l": "breast", 
+      "timepoint": 0, 
+      "r": "clean", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "48": [
+    {
+      "index": 0, 
+      "sentence": "an agent of the members of the Reform Club--", 
+      "is_verb": "false", 
+      "l": "club--", 
+      "timepoint": 0, 
+      "r": "Reform", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "49": [
+    {
+      "index": 0, 
+      "sentence": "retorted Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "retorted", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "50": [
+    {
+      "index": 0, 
+      "sentence": "I am a police detective", 
+      "is_verb": "false", 
+      "l": "detective", 
+      "timepoint": 0, 
+      "r": "police", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "sent out here by the London office", 
+      "is_verb": "false", 
+      "l": "office", 
+      "timepoint": 0, 
+      "r": "London", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }
+  ], 
+  "51": [], 
+  "52": [], 
+  "53": [], 
+  "54": [
+    {
+      "index": 0, 
+      "sentence": "Fogg's wager", 
+      "is_verb": "false", 
+      "l": "wager", 
+      "timepoint": 0, 
+      "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "He had a motive for securing your innocent complicity", 
+      "is_verb": "false", 
+      "l": "complicity", 
+      "timepoint": 0, 
+      "r": "innocent", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "55": [], 
+  "56": [
+    {
+      "index": 0, 
+      "sentence": "On the 28th of last September a robbery of fifty-five thousand pounds was committed at the Bank of England by a person whose description was fortunately secured", 
+      "is_verb": "false", 
+      "l": "september", 
+      "timepoint": 0, 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "57": [
+    {
+      "index": 0, 
+      "sentence": "cried Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "cried", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "58": [
+    {
+      "index": 0, 
+      "sentence": "You went into his service the day he came away; and he came away on a foolish pretext", 
+      "is_verb": "false", 
+      "l": "pretext", 
+      "timepoint": 0, 
+      "r": "foolish", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and carrying a large amount in banknotes", 
+      "is_verb": "false", 
+      "l": "amount", 
+      "timepoint": 0, 
+      "r": "large", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 2, 
+      "sentence": "And yet you are bold enough to assert that he is an honest man", 
+      "is_verb": "false", 
+      "l": "man", 
+      "timepoint": 0, 
+      "r": "honest", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }
+  ], 
+  "59": [
+    {
+      "index": 0, 
+      "sentence": "repeated the poor fellow", 
+      "is_verb": "false", 
+      "l": "fellow", 
+      "timepoint": 0, 
+      "r": "poor", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }
+  ], 
+  "60": [], 
+  "61": [
+    {
+      "index": 0, 
+      "sentence": "Phileas Fogg", 
+      "is_verb": "false", 
+      "l": "fogg", 
+      "timepoint": 0, 
+      "r": "Phileas", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "that brave and generous man", 
+      "is_verb": "false", 
+      "l": "man", 
+      "timepoint": 0, 
+      "r": "generous", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 2, 
+      "sentence": "And yet how many presumptions there were against him", 
+      "is_verb": "false", 
+      "l": "presumptions", 
+      "timepoint": 0, 
+      "r": "many", 
+      "relation": "has_property", 
+      "storypoints": 8
+    }
+  ], 
+  "62": [], 
+  "63": [
+    {
+      "index": 0, 
+      "sentence": "I have tracked Mr", 
+      "is_verb": "false", 
+      "l": "mr", 
+      "timepoint": 0, 
+      "r": "tracked", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 1, 
+      "sentence": "You must help me to keep him here in Hong Kong--", 
+      "is_verb": "false", 
+      "l": "kong--", 
+      "timepoint": 0, 
+      "r": "Hong", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "64": [], 
+  "65": [
+    {
+      "index": 0, 
+      "sentence": "I will share with you the two thousand pounds reward offered by the Bank of England", 
+      "is_verb": "false", 
+      "l": "reward", 
+      "timepoint": 0, 
+      "r": "pounds", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }
+  ], 
+  "66": [
+    {
+      "index": 0, 
+      "sentence": "replied Passepartout", 
+      "is_verb": "false", 
+      "l": "passepartout", 
+      "timepoint": 0, 
+      "r": "replied", 
+      "relation": "has_property", 
+      "storypoints": 3
+    }
+  ], 
+  "67": [], 
+  "68": [], 
+  "69": [], 
+  "70": [], 
+  "71": [], 
+  "72": [
+    {
+      "index": 0, 
+      "sentence": "Fix slipped one into Passepartout's hand", 
+      "is_verb": "false", 
+      "l": "hand", 
+      "timepoint": 0, 
+      "r": "Passepartout's", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }
+  ], 
+  "73": [
+    {
+      "index": 0, 
+      "sentence": "Fogg will not be informed of the Carnatic's departure; and", 
+      "is_verb": "false", 
+      "l": "departure", 
+      "timepoint": 0, 
+      "r": "Carnatic's", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 1, 
+      "sentence": "he will have to go without this cursed Frenchman", 
+      "is_verb": "false", 
+      "l": "frenchman", 
+      "timepoint": 0, 
+      "r": "cursed", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }
+  ], 
+  "74": [
+    {
+      "index": 0, 
+      "sentence": "after paying his bill", 
+      "is_verb": "false", 
+      "l": "after", 
+      "timepoint": 1, 
+      "r": 1, 
+      "relation": "time_shift", 
+      "storypoints": 1
+    }
+  ]
+}
