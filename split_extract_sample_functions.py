@@ -7,6 +7,8 @@ import os
 from pprint import pprint
 import json
 import codecs
+from nltk.corpus import wordnet as wn
+from sets import Set
 
 memory_path = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '.', 'src'))
 sys.path.insert(0, memory_path)
@@ -268,6 +270,73 @@ def runOne(chapter, chapter_dictionary):
     saveAssertion2Json(chapter, paragraph_assertion_dictionary)
     saveAssertion2Json_easy_read(chapter, paragraph_assertion_dictionary_easy)
 
+    return paragraph_assertion_dictionary
+#### word net part
+def getSubjectMeanings(chapter, meaningDictionary, paragraph_assertion_dictionary):
+    # if the word is searched, don't do again
+    #pprint(paragraph_assertion_dictionary)
+   
+    # one chapter
+    defineRelatedGroups = defineCategorys()
+
+    for paragraph in paragraph_assertion_dictionary:
+        #pprint(paragraph_assertion_dictionary[paragraph])
+        for assertion in paragraph_assertion_dictionary[paragraph]:
+            #print("=====")
+            #pprint(subject)
+            subject = assertion["r"]
+            if subject not in meaningDictionary:
+                syn = wn.synsets(str(subject))
+                if len(syn) > 0:
+                    #print("get word: " + str(subject))
+                    #print(syn[0].definition())
+                    
+                    meaningDictionary[subject] = {}
+                    meaningDictionary[subject]["definition"] = syn[0].definition()
+                    meaningDictionary[subject]["category"] = getCategories(subject, syn[0].definition(), defineRelatedGroups)
+                    
+                    print("\n\n"+str(subject)+"\nmeaning: "+syn[0].definition()+"\ngroup: " + meaningDictionary[subject]["category"])
+                    #print(meaningDictionary[subject])
+
+
+    return meaningDictionary
+
+def defineCategorys():
+    # dictionary of groups
+    defineRelatedGroups = {}
+    defineRelatedGroups["move"] = "act"
+    defineRelatedGroups["act"] = "act"
+    
+    defineRelatedGroups["place"]="location"
+    defineRelatedGroups["condition"]="location"
+    defineRelatedGroups["position"]="location"
+    defineRelatedGroups["city"]="location"
+    defineRelatedGroups["space"]="location"
+    defineRelatedGroups["room"]="location"
+    defineRelatedGroups["church"]="location"
+    defineRelatedGroups["building"]="location"
+
+
+    defineRelatedGroups["cat"]="animal"
+    defineRelatedGroups["dog"]="animal"
+    defineRelatedGroups["animal"]="animal"
+
+    defineRelatedGroups["count"] = "quantifier"
+    defineRelatedGroups["number"] = "quantifier"
+    defineRelatedGroups["size"] = "quantifier"
+
+    #defineRelatedGroups["act"]=Set(['move','act'])
+    #defineRelatedGroups["location"]=Set(['place','condition', 'position'])
+
+    return defineRelatedGroups
+
+def getCategories(word, sentence, defineRelatedGroups):
+    for key in defineRelatedGroups:
+        if sentence.find(key)  >= 0:
+            #print(word +" in group : "+ defineRelatedGroups[key])
+            return defineRelatedGroups[key]
+
+    return "??"
 if __name__ == '__main__':
     #read a text file and separate to sentences
     #for number of sentences
@@ -318,27 +387,37 @@ if __name__ == '__main__':
 
     #### PREPROCESSING text file 2:
     # read chapters from json and separate to paragraphs
-    for chapter in chapter_dictionary:
-        paragraph_list = []
-        paragraph_list = readParagraphsFromChapters(chapter, paragraph_list)
+#    for chapter in chapter_dictionary:
+#        paragraph_list = []
+#        paragraph_list = readParagraphsFromChapters(chapter, paragraph_list)
         #pprint(paragraph_list)
-        saveParagraph2Json(chapter,paragraph_list)
+#        saveParagraph2Json(chapter,paragraph_list)
     #pprint(paragraph_dictionary)
+#    for chapter in chapter_dictionary:
+    paragraph_list = []
+    paragraph_list = readParagraphsFromChapters("Chapter_1", paragraph_list)
+        #pprint(paragraph_list)
+    saveParagraph2Json("Chapter_1",paragraph_list)
+
 
     #### get assertion for each paragraph:
     #
     
     #runAll(chapter_dictionary)
-    runOne("Chapter_1", chapter_dictionary)
+    paragraph_assertion_dictionary = runOne("Chapter_1", chapter_dictionary)
 
 
-
-        
+    #### test wordnet
+    #
+    #print(wn.synsets('sofa')) 
+    #### get meaning of the subjects, and save them to meaning json    
 
     #print(len(paragraphs))
     #print("========".join(paragraphs[0:10]))
-
-
+    defineRelatedGroups = defineCategorys()
+    #print(defineRelatedGroups)
+    meaningDictionary = getSubjectMeanings("Chapter_1", chapter_dictionary, paragraph_assertion_dictionary)
+    #pprint(meaningDictionary)
     
 
     #print()    
