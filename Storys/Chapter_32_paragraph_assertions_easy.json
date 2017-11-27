@@ -16,7 +16,13 @@
     "The trip is additional.", 
     "The efforts are last.", 
     "The steamer is Inman.", 
-    "The day is next."
+    "The day is next.", 
+    "The steamers were instances of .", 
+    "The steamers are instances of .", 
+    "The steamers were instances of .", 
+    "The steamers are instances of .", 
+    "The steamer did.", 
+    "The boats did."
   ], 
   "5": [
     "The steamers are trans-Atlantic."
@@ -41,7 +47,11 @@
     "", 
     "Fogg is Phileas.", 
     "The steamers are fastest.", 
-    "The liverpool is reached."
+    "The liverpool is reached.", 
+    "The day was an instance of .", 
+    "The day was an instance of 12th.", 
+    "The day was an instance of .", 
+    "The day was an instance of 12th."
   ], 
   "9": [
     "", 
@@ -106,7 +116,8 @@
     "The disappointment is least.", 
     "The york is New.", 
     "Kong is Hong.", 
-    "The money is time."
+    "The money is time.", 
+    "The money had."
   ], 
   "42": [
     "Fogg is Phileas."
@@ -128,7 +139,9 @@
   ], 
   "52": [
     "The voyage is last.", 
-    "The gamut is vocal."
+    "The gamut is vocal.", 
+    "The voyage was an instance of .", 
+    "The voyage was an instance of ."
   ], 
   "53": [
     "The england is reached."

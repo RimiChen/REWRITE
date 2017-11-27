@@ -143,6 +143,30 @@
       "r": "Phileas", 
       "relation": "has_property", 
       "storypoints": 7
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and many new wagers were made", 
+      "is_verb": "true", 
+      "l": "wagers", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and many new wagers were made", 
+      "is_verb": "true", 
+      "l": "wagers", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 6
     }
   ], 
   "6": [
@@ -369,6 +393,90 @@
       "r": "highest", 
       "relation": "has_property", 
       "storypoints": 7
+    }, 
+    {
+      "index": 7, 
+      "sentence": "A great crowd was collected in Pall Mall and the neighbouring streets on Saturday evening; it seemed like a multitude of brokers permanently established around the Reform Club", 
+      "is_verb": "true", 
+      "l": "crowd", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 8, 
+      "sentence": "A great crowd was collected in Pall Mall and the neighbouring streets on Saturday evening; it seemed like a multitude of brokers permanently established around the Reform Club", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "collected", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 9, 
+      "sentence": "A great crowd was collected in Pall Mall and the neighbouring streets on Saturday evening; it seemed like a multitude of brokers permanently established around the Reform Club", 
+      "is_verb": "true", 
+      "l": "crowd", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 10, 
+      "sentence": "A great crowd was collected in Pall Mall and the neighbouring streets on Saturday evening; it seemed like a multitude of brokers permanently established around the Reform Club", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "collected", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 11, 
+      "sentence": "and financial transactions were going on", 
+      "is_verb": "true", 
+      "l": "transactions", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 12, 
+      "sentence": "and financial transactions were going on", 
+      "is_verb": "true", 
+      "l": "transactions", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 13, 
+      "sentence": "and as the hour when Phileas Fogg was due approached", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "due", 
+      "relation": "has_property", 
+      "storypoints": 6
     }
   ], 
   "9": [
@@ -485,6 +593,30 @@
       "r": "asked", 
       "relation": "has_property", 
       "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "What time did the last train arrive from Liverpool", 
+      "is_verb": "true", 
+      "l": "train", 
+      "timepoint": [
+        0
+      ], 
+      "r": "arrive", 
+      "relation": "action", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 4, 
+      "sentence": "What time did the last train arrive from Liverpool", 
+      "is_verb": "true", 
+      "l": "train", 
+      "timepoint": [
+        0
+      ], 
+      "r": "arrive", 
+      "relation": "action", 
+      "storypoints": 1
     }
   ], 
   "12": [
@@ -643,6 +775,30 @@
       "l": "project", 
       "timepoint": 0, 
       "r": "Fogg's", 
+      "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Fogg's project was absurdly foolish", 
+      "is_verb": "true", 
+      "l": "project", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Fogg's project was absurdly foolish", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "foolish", 
       "relation": "has_property", 
       "storypoints": 6
     }
@@ -884,6 +1040,54 @@
       "r": "mathematical", 
       "relation": "has_property", 
       "storypoints": 6
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The great saloon was perfectly quiet; but the murmurs of the crowd outside were heard", 
+      "is_verb": "true", 
+      "l": "saloon", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 4, 
+      "sentence": "The great saloon was perfectly quiet; but the murmurs of the crowd outside were heard", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "quiet", 
+      "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 5, 
+      "sentence": "The great saloon was perfectly quiet; but the murmurs of the crowd outside were heard", 
+      "is_verb": "true", 
+      "l": "saloon", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 6, 
+      "sentence": "The great saloon was perfectly quiet; but the murmurs of the crowd outside were heard", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "quiet", 
+      "relation": "has_property", 
+      "storypoints": 1
     }
   ], 
   "28": [
@@ -920,6 +1124,30 @@
       "timepoint": 0, 
       "r": "loud", 
       "relation": "has_property", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "a loud cry was heard in the street", 
+      "is_verb": "true", 
+      "l": "cry", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "a loud cry was heard in the street", 
+      "is_verb": "true", 
+      "l": "cry", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
       "storypoints": 1
     }
   ], 

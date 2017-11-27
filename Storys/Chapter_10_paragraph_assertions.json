@@ -233,6 +233,18 @@
       "r": "British", 
       "relation": "has_property", 
       "storypoints": 14
+    }, 
+    {
+      "index": 14, 
+      "sentence": "A considerable portion of India is still free from British authority; and there are certain ferocious rajahs in the interior who are absolutely independent", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "free", 
+      "relation": "has_property", 
+      "storypoints": 4
     }
   ], 
   "6": [
@@ -325,6 +337,42 @@
       "r": "road", 
       "relation": "has_property", 
       "storypoints": 8
+    }, 
+    {
+      "index": 9, 
+      "sentence": "with branch lines joining the main line at many points on its route", 
+      "is_verb": "true", 
+      "l": "lines", 
+      "timepoint": [
+        0
+      ], 
+      "r": "joining", 
+      "relation": "action", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 10, 
+      "sentence": "with branch lines joining the main line at many points on its route", 
+      "is_verb": "true", 
+      "l": "lines", 
+      "timepoint": [
+        0
+      ], 
+      "r": "joining", 
+      "relation": "action", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 11, 
+      "sentence": "This railway does not run in a direct line across India", 
+      "is_verb": "true", 
+      "l": "railway", 
+      "timepoint": [
+        0
+      ], 
+      "r": "does", 
+      "relation": "action", 
+      "storypoints": 5
     }
   ], 
   "7": [
@@ -773,6 +821,54 @@
       "r": "Phileas", 
       "relation": "has_property", 
       "storypoints": 20
+    }, 
+    {
+      "index": 10, 
+      "sentence": "and his first destination was the headquarters of the Bombay police", 
+      "is_verb": "true", 
+      "l": "destination", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 11, 
+      "sentence": "and his first destination was the headquarters of the Bombay police", 
+      "is_verb": "true", 
+      "l": "destination", 
+      "timepoint": [
+        0
+      ], 
+      "r": "headquarters", 
+      "relation": "instance_of", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 12, 
+      "sentence": "and his first destination was the headquarters of the Bombay police", 
+      "is_verb": "true", 
+      "l": "destination", 
+      "timepoint": [
+        2
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 13, 
+      "sentence": "and his first destination was the headquarters of the Bombay police", 
+      "is_verb": "true", 
+      "l": "destination", 
+      "timepoint": [
+        2
+      ], 
+      "r": "headquarters", 
+      "relation": "instance_of", 
+      "storypoints": 4
     }
   ], 
   "19": [

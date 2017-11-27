@@ -27,7 +27,9 @@
     "Francis are Sir.", 
     "The fate is future.", 
     "Fogg is Phileas.", 
-    "Police are English."
+    "Police are English.", 
+    "The woman being an instance of .", 
+    "The woman being an instance of ."
   ], 
   "6": [
     "Fogg is Phileas."
@@ -45,7 +47,12 @@
     "The articles are various.", 
     "The credit is unlimited.", 
     "The rivers are sacred.", 
-    "The agency is Brahma's."
+    "The agency is Brahma's.", 
+    "The woman was an instance of .", 
+    "The  is placed.", 
+    "The woman was an instance of .", 
+    "The  is placed.", 
+    "The  is charged."
   ], 
   "9": [
     "The fort is noble.", 
@@ -89,7 +96,11 @@
     "The folds are silken.", 
     "The silver is pure.", 
     "The hand is godlike.", 
-    "The sculptor is immortal."
+    "The sculptor is immortal.", 
+    "The brows have.", 
+    "The brows have the form.", 
+    "The light swims.", 
+    "The light swims."
   ], 
   "13": [
     "The rhapsody is poetical.", 
@@ -151,7 +162,8 @@
     "The tomb is Mahomet's.", 
     "The earth is solid.", 
     "The houses are brick.", 
-    "The huts are clay."
+    "The huts are clay.", 
+    "The legends assert."
   ], 
   "25": [
     "Francis are Sir.", 
@@ -189,13 +201,16 @@
     "The foundries are iron.", 
     "The factories are edgetool.", 
     "The chimneys are high.", 
-    "The smoke is black."
+    "The smoke is black.", 
+    "The chimneys puffing.", 
+    "The chimneys puffing."
   ], 
   "28": [
     "", 
     "Gour is ruined.", 
     "The town is French.", 
-    "The flag is country's."
+    "The flag is country's.", 
+    "The flag flying."
   ], 
   "29": [
     "", 

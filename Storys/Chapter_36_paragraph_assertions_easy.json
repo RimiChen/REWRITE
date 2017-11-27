@@ -17,7 +17,9 @@
   "5": [
     "Fogg is Phileas.", 
     "The wagers are new.", 
-    "Fogg's are Phileas."
+    "Fogg's are Phileas.", 
+    "The wagers were instances of .", 
+    "The wagers were instances of ."
   ], 
   "6": [
     "The club is Reform.", 
@@ -45,7 +47,14 @@
     "The transactions are financial.", 
     "The difficulty is great.", 
     "Fogg is Phileas.", 
-    "The pitch is highest."
+    "The pitch is highest.", 
+    "The crowd was an instance of .", 
+    "The  is collected.", 
+    "The crowd was an instance of .", 
+    "The  is collected.", 
+    "The transactions were instances of .", 
+    "The transactions were instances of .", 
+    "The  is due."
   ], 
   "9": [
     "Fogg is Phileas.", 
@@ -62,7 +71,9 @@
   "11": [
     "The train is last.", 
     "Flanagan is Thomas.", 
-    "Thomas are asked."
+    "Thomas are asked.", 
+    "The train arrives.", 
+    "The train arrives."
   ], 
   "12": [
     "Ralph is Gauthier.", 
@@ -87,7 +98,9 @@
   "16": [
     "Flanagan is Thomas.", 
     "Thomas are resumed.", 
-    "The project is Fogg's."
+    "The project is Fogg's.", 
+    "The project was an instance of .", 
+    "The  is foolish."
   ], 
   "17": [
     "The sullivan is John.", 
@@ -128,7 +141,11 @@
   "27": [
     "The saloon is great.", 
     "The cry is shrill.", 
-    "The regularity is mathematical."
+    "The regularity is mathematical.", 
+    "The saloon was an instance of .", 
+    "The  is quiet.", 
+    "The saloon was an instance of .", 
+    "The  is quiet."
   ], 
   "28": [
     "The sullivan is John."
@@ -138,7 +155,9 @@
   ], 
   "30": [], 
   "31": [
-    "The cry is loud."
+    "The cry is loud.", 
+    "The cry was an instance of .", 
+    "The cry was an instance of ."
   ], 
   "32": [], 
   "33": [

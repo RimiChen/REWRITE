@@ -243,6 +243,30 @@
       "r": "English", 
       "relation": "has_property", 
       "storypoints": 19
+    }, 
+    {
+      "index": 10, 
+      "sentence": "the young woman being still in a state of complete prostration", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 11, 
+      "sentence": "the young woman being still in a state of complete prostration", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        1
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 7
     }
   ], 
   "6": [
@@ -369,6 +393,66 @@
       "r": "Brahma's", 
       "relation": "has_property", 
       "storypoints": 17
+    }, 
+    {
+      "index": 6, 
+      "sentence": "The young woman was placed in one of the waiting-rooms of the station", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 7, 
+      "sentence": "The young woman was placed in one of the waiting-rooms of the station", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "placed", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 8, 
+      "sentence": "The young woman was placed in one of the waiting-rooms of the station", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 9, 
+      "sentence": "The young woman was placed in one of the waiting-rooms of the station", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "placed", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 10, 
+      "sentence": "whilst Passepartout was charged with purchasing for her various articles of toilet", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "charged", 
+      "relation": "has_property", 
+      "storypoints": 1
     }
   ], 
   "9": [
@@ -737,6 +821,54 @@
       "r": "immortal", 
       "relation": "has_property", 
       "storypoints": 25
+    }, 
+    {
+      "index": 22, 
+      "sentence": "Her ebony brows have the form and charm of the bow of Kama", 
+      "is_verb": "true", 
+      "l": "brows", 
+      "timepoint": [
+        0
+      ], 
+      "r": "have", 
+      "relation": "action", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 23, 
+      "sentence": "Her ebony brows have the form and charm of the bow of Kama", 
+      "is_verb": "true", 
+      "l": "brows", 
+      "timepoint": [
+        0
+      ], 
+      "r": "have", 
+      "relation": "action", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 24, 
+      "sentence": "and beneath her long silken lashes the purest reflections and a celestial light swim", 
+      "is_verb": "true", 
+      "l": "light", 
+      "timepoint": [
+        0
+      ], 
+      "r": "swim", 
+      "relation": "action", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 25, 
+      "sentence": "and beneath her long silken lashes the purest reflections and a celestial light swim", 
+      "is_verb": "true", 
+      "l": "light", 
+      "timepoint": [
+        0
+      ], 
+      "r": "swim", 
+      "relation": "action", 
+      "storypoints": 7
     }
   ], 
   "13": [
@@ -1168,6 +1300,18 @@
       "r": "clay", 
       "relation": "has_property", 
       "storypoints": 7
+    }, 
+    {
+      "index": 6, 
+      "sentence": "The Brahmin legends assert that this city is built on the site of the ancient Casi", 
+      "is_verb": "true", 
+      "l": "legends", 
+      "timepoint": [
+        0
+      ], 
+      "r": "assert", 
+      "relation": "action", 
+      "storypoints": 1
     }
   ], 
   "25": [
@@ -1494,6 +1638,30 @@
       "r": "black", 
       "relation": "has_property", 
       "storypoints": 12
+    }, 
+    {
+      "index": 14, 
+      "sentence": "and high chimneys puffing clouds of black smoke heavenward", 
+      "is_verb": "true", 
+      "l": "chimneys", 
+      "timepoint": [
+        0
+      ], 
+      "r": "puffing", 
+      "relation": "action", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 15, 
+      "sentence": "and high chimneys puffing clouds of black smoke heavenward", 
+      "is_verb": "true", 
+      "l": "chimneys", 
+      "timepoint": [
+        -1
+      ], 
+      "r": "puffing", 
+      "relation": "action", 
+      "storypoints": 12
     }
   ], 
   "28": [
@@ -1535,6 +1703,18 @@
       "timepoint": -1, 
       "r": "country's", 
       "relation": "has_property", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "where Passepartout would have been proud to see his country's flag flying", 
+      "is_verb": "true", 
+      "l": "flag", 
+      "timepoint": [
+        -1
+      ], 
+      "r": "flying", 
+      "relation": "action", 
       "storypoints": 10
     }
   ], 

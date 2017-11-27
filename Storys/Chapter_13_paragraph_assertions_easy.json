@@ -44,7 +44,11 @@
     "The woman is young.", 
     "The party is whole.", 
     "The pyre is funeral.", 
-    "The intervention is human."
+    "The intervention is human.", 
+    "The woman was an instance of .", 
+    "The  is imprisoned.", 
+    "The woman was an instance of .", 
+    "The  is imprisoned."
   ], 
   "16": [
     "The opium is liquid."
@@ -70,7 +74,9 @@
   "24": [], 
   "25": [], 
   "26": [
-    "The light is dim."
+    "The light is dim.", 
+    "The light crept.", 
+    "The light crept."
   ], 
   "27": [
     "The plan is other."
@@ -86,13 +92,16 @@
   "30": [
     "The walls are temple.", 
     "", 
-    "The difficulty is little."
+    "The difficulty is little.", 
+    "The walls were instances of ."
   ], 
   "31": [
     "The cries are other.", 
     "The prudence is Common.", 
     "Fogg is Phileas.", 
-    "Francis are Sir."
+    "Francis are Sir.", 
+    "The cries replying.", 
+    "The cries replying."
   ], 
   "32": [
     "Francis are Sir.", 
@@ -142,7 +151,10 @@
     "The hand is Fogg's.", 
     "The knife is open.", 
     "The woman is young.", 
-    "The cries are religious."
+    "The cries are religious.", 
+    "The cries arose.", 
+    "The woman had.", 
+    "The woman had."
   ], 
   "43": [
     "Fogg is Phileas.", 
@@ -159,7 +171,11 @@
     "The multitude is whole."
   ], 
   "45": [
-    "The rajah is old."
+    "The rajah is old.", 
+    "The rajah was an instance of .", 
+    "The  is dead.", 
+    "The rajah was an instance of .", 
+    "The  is dead."
   ], 
   "46": [
     "The terror is instant."
@@ -167,7 +183,9 @@
   "47": [
     "The victim is inanimate.", 
     "The arms are vigorous.", 
-    "Francis are Sir."
+    "Francis are Sir.", 
+    "The victim was an instance of .", 
+    "The victim was an instance of ."
   ], 
   "48": [
     "Francis are Sir.", 

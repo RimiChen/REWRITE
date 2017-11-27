@@ -73,6 +73,30 @@
       "r": "young", 
       "relation": "has_property", 
       "storypoints": 5
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Passepartout explained to her how it was that the honest and courageous Fogg was arrested as a robber", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "arrested", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Passepartout explained to her how it was that the honest and courageous Fogg was arrested as a robber", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "arrested", 
+      "relation": "has_property", 
+      "storypoints": 4
     }
   ], 
   "6": [
@@ -255,6 +279,18 @@
       "r": "Phileas", 
       "relation": "has_property", 
       "storypoints": 9
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and might be thus stated: if Phileas Fogg was honest he was ruined; if he was a knave", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "honest", 
+      "relation": "has_property", 
+      "storypoints": 9
     }
   ], 
   "12": [
@@ -383,6 +419,30 @@
       "r": "Phileas", 
       "relation": "has_property", 
       "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Passepartout's voice was audible", 
+      "is_verb": "true", 
+      "l": "voice", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Passepartout's voice was audible", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "audible", 
+      "relation": "has_property", 
+      "storypoints": 2
     }
   ], 
   "16": [], 
@@ -406,6 +466,18 @@
       "r": "days", 
       "relation": "has_property", 
       "storypoints": 8
+    }, 
+    {
+      "index": 2, 
+      "sentence": "sir--forgive me--most--unfortunate resemblance--robber arrested three days ago--you are free", 
+      "is_verb": "true", 
+      "l": "ago--you", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 8
     }
   ], 
   "18": [
@@ -428,6 +500,18 @@
       "r": "rapid", 
       "relation": "has_property", 
       "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "Phileas Fogg was free", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "free", 
+      "relation": "has_property", 
+      "storypoints": 0
     }
   ], 
   "19": [
@@ -544,6 +628,18 @@
       "r": "special", 
       "relation": "has_property", 
       "storypoints": 3
+    }, 
+    {
+      "index": 6, 
+      "sentence": "The express train had left thirty-five minutes before", 
+      "is_verb": "true", 
+      "l": "train", 
+      "timepoint": [
+        -1
+      ], 
+      "r": "had", 
+      "relation": "action", 
+      "storypoints": 2
     }
   ], 
   "22": [
@@ -575,6 +671,18 @@
       "timepoint": 0, 
       "r": "special", 
       "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 3, 
+      "sentence": "There were several rapid locomotives on hand; but the railway arrangements did not permit the special train to leave until three o'clock", 
+      "is_verb": "true", 
+      "l": "arrangements", 
+      "timepoint": [
+        0
+      ], 
+      "r": "did", 
+      "relation": "action", 
       "storypoints": 0
     }
   ], 

@@ -43,7 +43,16 @@
     "The brigantine is large.", 
     "The journeys are rapid.", 
     "The sails are more.", 
-    "The trains are express."
+    "The trains are express.", 
+    "The trains are instances of .", 
+    "The brigantine sails.", 
+    "The brigantine sails.", 
+    "The mast was an instance of .", 
+    "The  is fixed.", 
+    "The mast held.", 
+    "The mast held the iron.", 
+    "The mast was an instance of .", 
+    "The  is fixed."
   ], 
   "18": [
     "The mr is transport.", 
@@ -64,18 +73,22 @@
     "The round is journey.", 
     "The opinion is Fix's.", 
     "Fogg is Phileas.", 
-    "The party is whole."
+    "The party is whole.", 
+    "The  is modified."
   ], 
   "21": [
     "The sails are great.", 
-    "The snow is hardened."
+    "The snow is hardened.", 
+    "The sails were instances of .", 
+    "The sails were instances of ."
   ], 
   "22": [
     "Kearney is Fort."
   ], 
   "23": [
     "The line is straight.", 
-    "The sails are other."
+    "The sails are other.", 
+    "The sails were instances of ."
   ], 
   "24": [], 
   "25": [
@@ -97,7 +110,9 @@
     "The lashings are metallic.", 
     "The instrument is stringed.", 
     "The bow is violin.", 
-    "The melody is intense."
+    "The melody is intense.", 
+    "The lashings held.", 
+    "The lashings held."
   ], 
   "28": [], 
   "29": [
@@ -122,7 +137,11 @@
     "", 
     "Prairie-wolves are ferocious.", 
     "The danger is terrible.", 
-    "The distance is safe."
+    "The distance is safe.", 
+    "Prairie-wolves ran.", 
+    "Prairie-wolves ran.", 
+    "The birds rose.", 
+    "The birds rose."
   ], 
   "32": [
     "Mudge is noon.", 

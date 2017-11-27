@@ -26,14 +26,19 @@
     "The heart is human.", 
     "Fogg is Phileas.", 
     "The persons is eccentric.", 
-    "The sciences are exact."
+    "The sciences are exact.", 
+    "The heart beats really.", 
+    "The heart beats really.", 
+    "The  is tall."
   ], 
   "5": [
     "Fogg is Phileas.", 
     "Francis are Sir.", 
     "The eccentricity is useless.", 
     "The sense is common.", 
-    "The gentleman is strange."
+    "The gentleman is strange.", 
+    "The gentleman was an instance of .", 
+    "The gentleman was an instance of ."
   ], 
   "6": [
     "", 
@@ -74,7 +79,11 @@
     "The country is well-cultivated.", 
     "The territory is fertile.", 
     "The rivers are small.", 
-    "The streams are limpid."
+    "The streams are limpid.", 
+    "The territory is an instance of .", 
+    "The  is watered.", 
+    "The territory is an instance of .", 
+    "The  is watered."
   ], 
   "13": [
     "The train is railway.", 
@@ -97,7 +106,9 @@
     "The death is goddess.", 
     "The victims are strangled.", 
     "The government is English.", 
-    "The rites are horrible."
+    "The rites are horrible.", 
+    "The tracts extending.", 
+    "The tracts extending."
   ], 
   "14": [
     "The slippers are Indian.", 
@@ -118,7 +129,13 @@
     "The period is designated.", 
     "The delays are possible.", 
     "", 
-    "The fellow is worthy."
+    "The fellow is worthy.", 
+    "The fellow was an instance of .", 
+    "The  is ignorant.", 
+    "The fellow was an instance of .", 
+    "The  is ignorant.", 
+    "The change had.", 
+    "The change had."
   ], 
   "16": [
     "The mountains are Sutpour.", 
@@ -172,7 +189,8 @@
   ], 
   "32": [], 
   "33": [
-    "Francis are Sir."
+    "Francis are Sir.", 
+    "The  is furious."
   ], 
   "34": [
     "Francis are Sir."
@@ -218,7 +236,8 @@
     "The instruction is animal's.", 
     "Gentleness are natural.", 
     "The time is long.", 
-    "The sum is excessive."
+    "The sum is excessive.", 
+    "The elephants are instances of ."
   ], 
   "48": [
     "Fogg is Phileas.", 
@@ -247,6 +266,8 @@
     "The beast is gigantic.", 
     "Francis are Sir.", 
     "The neck is elephant's.", 
-    "The forest is dense."
+    "The forest is dense.", 
+    "The elephant was an instance of .", 
+    "The  is led."
   ]
 }

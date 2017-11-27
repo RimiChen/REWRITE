@@ -251,6 +251,42 @@
       "r": "exact", 
       "relation": "has_property", 
       "storypoints": 33
+    }, 
+    {
+      "index": 23, 
+      "sentence": "and between two rubbers--and questioned himself whether a human heart really beat beneath this cold exterior", 
+      "is_verb": "true", 
+      "l": "heart", 
+      "timepoint": [
+        0
+      ], 
+      "r": "beat", 
+      "relation": "action", 
+      "storypoints": 29
+    }, 
+    {
+      "index": 24, 
+      "sentence": "and between two rubbers--and questioned himself whether a human heart really beat beneath this cold exterior", 
+      "is_verb": "true", 
+      "l": "heart", 
+      "timepoint": [
+        0
+      ], 
+      "r": "beat", 
+      "relation": "action", 
+      "storypoints": 29
+    }, 
+    {
+      "index": 25, 
+      "sentence": "Sir Francis was a tall", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "tall", 
+      "relation": "has_property", 
+      "storypoints": 11
     }
   ], 
   "5": [
@@ -302,6 +338,30 @@
       "timepoint": 0, 
       "r": "strange", 
       "relation": "has_property", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 5, 
+      "sentence": "In the way this strange gentleman was going on", 
+      "is_verb": "true", 
+      "l": "gentleman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 6, 
+      "sentence": "In the way this strange gentleman was going on", 
+      "is_verb": "true", 
+      "l": "gentleman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
       "storypoints": 2
     }
   ], 
@@ -587,6 +647,54 @@
       "r": "limpid", 
       "relation": "has_property", 
       "storypoints": 7
+    }, 
+    {
+      "index": 6, 
+      "sentence": "This fertile territory is watered by numerous small rivers and limpid streams", 
+      "is_verb": "true", 
+      "l": "territory", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 7, 
+      "sentence": "This fertile territory is watered by numerous small rivers and limpid streams", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "watered", 
+      "relation": "has_property", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 8, 
+      "sentence": "This fertile territory is watered by numerous small rivers and limpid streams", 
+      "is_verb": "true", 
+      "l": "territory", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 9, 
+      "sentence": "This fertile territory is watered by numerous small rivers and limpid streams", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "watered", 
+      "relation": "has_property", 
+      "storypoints": 7
     }
   ], 
   "13": [
@@ -799,6 +907,30 @@
       "r": "horrible", 
       "relation": "has_property", 
       "storypoints": 38
+    }, 
+    {
+      "index": 21, 
+      "sentence": "Then they came upon vast tracts extending to the horizon", 
+      "is_verb": "true", 
+      "l": "tracts", 
+      "timepoint": [
+        0
+      ], 
+      "r": "extending", 
+      "relation": "action", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 22, 
+      "sentence": "Then they came upon vast tracts extending to the horizon", 
+      "is_verb": "true", 
+      "l": "tracts", 
+      "timepoint": [
+        0
+      ], 
+      "r": "extending", 
+      "relation": "action", 
+      "storypoints": 14
     }
   ], 
   "14": [
@@ -973,6 +1105,78 @@
       "r": "worthy", 
       "relation": "has_property", 
       "storypoints": 21
+    }, 
+    {
+      "index": 10, 
+      "sentence": "The worthy fellow was ignorant that", 
+      "is_verb": "true", 
+      "l": "fellow", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 11, 
+      "sentence": "The worthy fellow was ignorant that", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "ignorant", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 12, 
+      "sentence": "The worthy fellow was ignorant that", 
+      "is_verb": "true", 
+      "l": "fellow", 
+      "timepoint": [
+        -1
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 13, 
+      "sentence": "The worthy fellow was ignorant that", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        -1
+      ], 
+      "r": "ignorant", 
+      "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 14, 
+      "sentence": "a sudden change had come over the spirit of his dreams", 
+      "is_verb": "true", 
+      "l": "change", 
+      "timepoint": [
+        0
+      ], 
+      "r": "had", 
+      "relation": "action", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 15, 
+      "sentence": "a sudden change had come over the spirit of his dreams", 
+      "is_verb": "true", 
+      "l": "change", 
+      "timepoint": [
+        0
+      ], 
+      "r": "had", 
+      "relation": "action", 
+      "storypoints": 4
     }
   ], 
   "16": [
@@ -1270,6 +1474,18 @@
       "r": "Sir", 
       "relation": "has_property", 
       "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Sir Francis was furious", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "furious", 
+      "relation": "has_property", 
+      "storypoints": 0
     }
   ], 
   "34": [
@@ -1523,6 +1739,18 @@
       "r": "excessive", 
       "relation": "has_property", 
       "storypoints": 40
+    }, 
+    {
+      "index": 8, 
+      "sentence": "But elephants are far from cheap in India", 
+      "is_verb": "true", 
+      "l": "elephants", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 29
     }
   ], 
   "48": [
@@ -1732,6 +1960,30 @@
       "r": "dense", 
       "relation": "has_property", 
       "storypoints": 25
+    }, 
+    {
+      "index": 13, 
+      "sentence": "The elephant was led out and equipped", 
+      "is_verb": "true", 
+      "l": "elephant", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 14, 
+      "sentence": "The elephant was led out and equipped", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "led", 
+      "relation": "has_property", 
+      "storypoints": 8
     }
   ]
 }

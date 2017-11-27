@@ -307,6 +307,54 @@
       "r": "exclusive", 
       "relation": "has_property", 
       "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The way in which he got admission to this exclusive club was simple enough", 
+      "is_verb": "true", 
+      "l": "club", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "The way in which he got admission to this exclusive club was simple enough", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "simple", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The way in which he got admission to this exclusive club was simple enough", 
+      "is_verb": "true", 
+      "l": "club", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 4, 
+      "sentence": "The way in which he got admission to this exclusive club was simple enough", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "simple", 
+      "relation": "has_property", 
+      "storypoints": 0
     }
   ], 
   "8": [
@@ -371,6 +419,18 @@
       "r": -1, 
       "relation": "time_shift", 
       "storypoints": 18
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Fogg was the last person to whom to apply for the information", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 4
     }
   ], 
   "10": [
@@ -464,6 +524,30 @@
       "timepoint": 0, 
       "r": "sole", 
       "relation": "has_property", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 4, 
+      "sentence": "His sole pastimes were reading the papers and playing whist", 
+      "is_verb": "true", 
+      "l": "pastimes", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 5, 
+      "sentence": "His sole pastimes were reading the papers and playing whist", 
+      "is_verb": "true", 
+      "l": "pastimes", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
       "storypoints": 3
     }
   ], 
@@ -790,6 +874,18 @@
       "r": "degrees", 
       "relation": "has_property", 
       "storypoints": 6
+    }, 
+    {
+      "index": 6, 
+      "sentence": "because that luckless youth had brought him shaving-water at eighty-four degrees Fahrenheit instead of eighty-six; and he was awaiting his successor", 
+      "is_verb": "true", 
+      "l": "youth", 
+      "timepoint": [
+        0
+      ], 
+      "r": "had", 
+      "relation": "action", 
+      "storypoints": 6
     }
   ], 
   "15": [
@@ -822,6 +918,18 @@
       "r": "Saville", 
       "relation": "has_property", 
       "storypoints": 13
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Phileas Fogg was seated squarely in his armchair", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "seated", 
+      "relation": "has_property", 
+      "storypoints": 0
     }
   ], 
   "16": [
@@ -864,6 +972,18 @@
       "r": "dismissed", 
       "relation": "has_property", 
       "storypoints": 2
+    }, 
+    {
+      "index": 4, 
+      "sentence": "A rap at this moment sounded on the door of the cosy apartment where Phileas Fogg was seated", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "seated", 
+      "relation": "has_property", 
+      "storypoints": 0
     }
   ], 
   "17": [
@@ -1108,6 +1228,30 @@
       "r": "enormous", 
       "relation": "has_property", 
       "storypoints": 4
+    }, 
+    {
+      "index": 3, 
+      "sentence": "drawing an enormous silver watch from the depths of his pocket", 
+      "is_verb": "true", 
+      "l": "silver", 
+      "timepoint": [
+        0
+      ], 
+      "r": "watch", 
+      "relation": "action", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "drawing an enormous silver watch from the depths of his pocket", 
+      "is_verb": "true", 
+      "l": "silver", 
+      "timepoint": [
+        1
+      ], 
+      "r": "watch", 
+      "relation": "action", 
+      "storypoints": 4
     }
   ], 
   "25": [], 
@@ -1196,6 +1340,42 @@
       "r": "Saville", 
       "relation": "has_property", 
       "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "Passepartout heard the street door shut once; it was his new master going out", 
+      "is_verb": "true", 
+      "l": "master", 
+      "timepoint": [
+        0
+      ], 
+      "r": "going", 
+      "relation": "action", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Passepartout heard the street door shut once; it was his new master going out", 
+      "is_verb": "true", 
+      "l": "master", 
+      "timepoint": [
+        0
+      ], 
+      "r": "going", 
+      "relation": "action", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Passepartout heard the street door shut once; it was his new master going out", 
+      "is_verb": "true", 
+      "l": "door", 
+      "timepoint": [
+        0
+      ], 
+      "r": "shut", 
+      "relation": "action", 
+      "storypoints": 0
     }
   ]
 }

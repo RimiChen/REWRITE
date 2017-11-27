@@ -37,7 +37,11 @@
     "Fogg is Phileas."
   ], 
   "7": [
-    "The club is exclusive."
+    "The club is exclusive.", 
+    "The club was an instance of .", 
+    "The  is simple.", 
+    "The club was an instance of .", 
+    "The  is simple."
   ], 
   "8": [
     "The credit is open."
@@ -47,7 +51,8 @@
     "The person is last.", 
     "The purpose is benevolent.", 
     "The manner is taciturn.", 
-    ""
+    "", 
+    "The  is last."
   ], 
   "10": [
     "The acquaintance is intimate.", 
@@ -60,7 +65,9 @@
     "Fogg is Phileas.", 
     "The years are many.", 
     "The acquaintance is better.", 
-    "The pastimes are sole."
+    "The pastimes are sole.", 
+    "The pastimes were instances of .", 
+    "The pastimes were instances of ."
   ], 
   "12": [
     "Fogg is Phileas.", 
@@ -97,18 +104,21 @@
     "Forster is James.", 
     "James are dismissed.", 
     "The youth is luckless.", 
-    "The fahrenheit is degrees."
+    "The fahrenheit is degrees.", 
+    "The youth had."
   ], 
   "15": [
     "Fogg is Phileas.", 
     "The clock is complicated.", 
-    "The row is Saville."
+    "The row is Saville.", 
+    "The  is seated."
   ], 
   "16": [
     "Fogg is Phileas.", 
     "The apartment is cosy.", 
     "Forster is James.", 
-    "The servant is dismissed."
+    "The servant is dismissed.", 
+    "The  is seated."
   ], 
   "17": [
     "The servant is new."
@@ -145,7 +155,9 @@
   "24": [
     "", 
     "Passepartout is returned.", 
-    "The silver is enormous."
+    "The silver is enormous.", 
+    "The silver watches.", 
+    "The silver watches."
   ], 
   "25": [], 
   "26": [], 
@@ -161,6 +173,9 @@
     "The door is street.", 
     "The master is new.", 
     "Forster is James.", 
-    "The row is Saville."
+    "The row is Saville.", 
+    "The master going.", 
+    "The master going.", 
+    "The door shuts."
   ]
 }

@@ -80,6 +80,30 @@
       "r": "young", 
       "relation": "has_property", 
       "storypoints": 1
+    }, 
+    {
+      "index": 1, 
+      "sentence": "May this young lady go with us", 
+      "is_verb": "true", 
+      "l": "lady", 
+      "timepoint": [
+        0
+      ], 
+      "r": "go", 
+      "relation": "action", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 2, 
+      "sentence": "May this young lady go with us", 
+      "is_verb": "true", 
+      "l": "lady", 
+      "timepoint": [
+        0
+      ], 
+      "r": "go", 
+      "relation": "action", 
+      "storypoints": 1
     }
   ], 
   "12": [], 
@@ -192,6 +216,30 @@
       "timepoint": -1, 
       "r": "handsome", 
       "relation": "has_property", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 11, 
+      "sentence": "elegantly dressed horsemen and handsome equipages were passing back and forth", 
+      "is_verb": "true", 
+      "l": "equipages", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 21
+    }, 
+    {
+      "index": 12, 
+      "sentence": "elegantly dressed horsemen and handsome equipages were passing back and forth", 
+      "is_verb": "true", 
+      "l": "equipages", 
+      "timepoint": [
+        -1
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
       "storypoints": 21
     }
   ], 
@@ -813,6 +861,30 @@
       "r": "Judge", 
       "relation": "has_property", 
       "storypoints": 18
+    }, 
+    {
+      "index": 13, 
+      "sentence": "Knowing that the English authorities dealt very severely with this kind of misdemeanour", 
+      "is_verb": "true", 
+      "l": "authorities", 
+      "timepoint": [
+        0
+      ], 
+      "r": "dealt", 
+      "relation": "action", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 14, 
+      "sentence": "had foreseen the advantage which Passepartout's escapade gave him", 
+      "is_verb": "true", 
+      "l": "escapade", 
+      "timepoint": [
+        0
+      ], 
+      "r": "gave", 
+      "relation": "action", 
+      "storypoints": 1
     }
   ], 
   "59": [], 
@@ -921,6 +993,18 @@
       "r": "said", 
       "relation": "has_property", 
       "storypoints": 9
+    }, 
+    {
+      "index": 6, 
+      "sentence": "as the English law protects equally and sternly the religions of the Indian people", 
+      "is_verb": "true", 
+      "l": "law", 
+      "timepoint": [
+        0
+      ], 
+      "r": "protects", 
+      "relation": "action", 
+      "storypoints": 5
     }
   ], 
   "64": [
@@ -1032,6 +1116,18 @@
       "timepoint": 0, 
       "r": "Fix's", 
       "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "Fix's blood ran cold", 
+      "is_verb": "true", 
+      "l": "blood", 
+      "timepoint": [
+        0
+      ], 
+      "r": "ran", 
+      "relation": "action", 
       "storypoints": 0
     }
   ], 

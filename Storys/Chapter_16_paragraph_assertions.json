@@ -70,6 +70,66 @@
       "r": "young", 
       "relation": "has_property", 
       "storypoints": 11
+    }, 
+    {
+      "index": 7, 
+      "sentence": "and the young woman was not difficult to please", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 8, 
+      "sentence": "and the young woman was not difficult to please", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "difficult", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 9, 
+      "sentence": "and the young woman was not difficult to please", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 10, 
+      "sentence": "and the young woman was not difficult to please", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "difficult", 
+      "relation": "has_property", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 11, 
+      "sentence": "The Rangoon--one of the Peninsular and Oriental Company's boats plying in the Chinese and Japanese seas--was a screw steamer", 
+      "is_verb": "true", 
+      "l": "boats", 
+      "timepoint": [
+        0
+      ], 
+      "r": "plying", 
+      "relation": "action", 
+      "storypoints": 0
     }
   ], 
   "5": [
@@ -304,6 +364,18 @@
       "r": "intractable", 
       "relation": "has_property", 
       "storypoints": 18
+    }, 
+    {
+      "index": 11, 
+      "sentence": "Many of the Parsee merchants have made great fortunes there by dealing in cotton; and one of them", 
+      "is_verb": "true", 
+      "l": "merchants", 
+      "timepoint": [
+        0
+      ], 
+      "r": "have", 
+      "relation": "action", 
+      "storypoints": 4
     }
   ], 
   "7": [
@@ -488,6 +560,18 @@
       "r": "China", 
       "relation": "has_property", 
       "storypoints": 14
+    }, 
+    {
+      "index": 10, 
+      "sentence": "The varied landscape afforded by the Andaman Islands was soon passed", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "passed", 
+      "relation": "has_property", 
+      "storypoints": 11
     }
   ], 
   "9": [
@@ -662,6 +746,18 @@
       "r": "elude", 
       "relation": "has_property", 
       "storypoints": 13
+    }, 
+    {
+      "index": 13, 
+      "sentence": "Hong Kong was the last English ground on which he would set foot; beyond", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "last", 
+      "relation": "has_property", 
+      "storypoints": 3
     }
   ], 
   "11": [
@@ -746,6 +842,30 @@
       "r": "Phileas", 
       "relation": "has_property", 
       "storypoints": 16
+    }, 
+    {
+      "index": 4, 
+      "sentence": "But suddenly a new idea struck him", 
+      "is_verb": "true", 
+      "l": "idea", 
+      "timepoint": [
+        0
+      ], 
+      "r": "struck", 
+      "relation": "action", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 5, 
+      "sentence": "But suddenly a new idea struck him", 
+      "is_verb": "true", 
+      "l": "idea", 
+      "timepoint": [
+        0
+      ], 
+      "r": "struck", 
+      "relation": "action", 
+      "storypoints": 14
     }
   ], 
   "13": [
@@ -808,6 +928,30 @@
       "r": "Hong", 
       "relation": "has_property", 
       "storypoints": 9
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Whether the young woman were married or not", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 7, 
+      "sentence": "Whether the young woman were married or not", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 7
     }
   ], 
   "14": [

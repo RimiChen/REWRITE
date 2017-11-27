@@ -399,6 +399,54 @@
       "r": "convulsed", 
       "relation": "has_property", 
       "storypoints": 18
+    }, 
+    {
+      "index": 15, 
+      "sentence": "Few animals were observed on the route; even the monkeys hurried from their path with contortions and grimaces which convulsed Passepartout with laughter", 
+      "is_verb": "true", 
+      "l": "animals", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 16, 
+      "sentence": "Few animals were observed on the route; even the monkeys hurried from their path with contortions and grimaces which convulsed Passepartout with laughter", 
+      "is_verb": "true", 
+      "l": "animals", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 18
+    }, 
+    {
+      "index": 17, 
+      "sentence": "The travellers several times saw bands of ferocious Indians", 
+      "is_verb": "true", 
+      "l": "times", 
+      "timepoint": [
+        0
+      ], 
+      "r": "saw", 
+      "relation": "action", 
+      "storypoints": 13
+    }, 
+    {
+      "index": 18, 
+      "sentence": "The travellers several times saw bands of ferocious Indians", 
+      "is_verb": "true", 
+      "l": "times", 
+      "timepoint": [
+        0
+      ], 
+      "r": "saw", 
+      "relation": "action", 
+      "storypoints": 13
     }
   ], 
   "9": [
@@ -605,6 +653,78 @@
       "r": "serene", 
       "relation": "has_property", 
       "storypoints": 18
+    }, 
+    {
+      "index": 13, 
+      "sentence": "although occasional growls from panthers and chatterings of monkeys broke the silence; the more formidable beasts made no cries or hostile demonstration against the occupants of the bungalow", 
+      "is_verb": "true", 
+      "l": "beasts", 
+      "timepoint": [
+        0
+      ], 
+      "r": "made", 
+      "relation": "action", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 14, 
+      "sentence": "although occasional growls from panthers and chatterings of monkeys broke the silence; the more formidable beasts made no cries or hostile demonstration against the occupants of the bungalow", 
+      "is_verb": "true", 
+      "l": "beasts", 
+      "timepoint": [
+        0
+      ], 
+      "r": "made", 
+      "relation": "action", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 15, 
+      "sentence": "although occasional growls from panthers and chatterings of monkeys broke the silence; the more formidable beasts made no cries or hostile demonstration against the occupants of the bungalow", 
+      "is_verb": "true", 
+      "l": "beasts", 
+      "timepoint": [
+        0
+      ], 
+      "r": "made", 
+      "relation": "action", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 16, 
+      "sentence": "although occasional growls from panthers and chatterings of monkeys broke the silence; the more formidable beasts made no cries or hostile demonstration against the occupants of the bungalow", 
+      "is_verb": "true", 
+      "l": "beasts", 
+      "timepoint": [
+        0
+      ], 
+      "r": "made", 
+      "relation": "action", 
+      "storypoints": 12
+    }, 
+    {
+      "index": 17, 
+      "sentence": "like an honest soldier overcome with fatigue", 
+      "is_verb": "true", 
+      "l": "soldier", 
+      "timepoint": [
+        0
+      ], 
+      "r": "overcome", 
+      "relation": "action", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 18, 
+      "sentence": "like an honest soldier overcome with fatigue", 
+      "is_verb": "true", 
+      "l": "soldier", 
+      "timepoint": [
+        0
+      ], 
+      "r": "overcome", 
+      "relation": "action", 
+      "storypoints": 14
     }
   ], 
   "12": [
@@ -809,6 +929,54 @@
       "r": "thick", 
       "relation": "has_property", 
       "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "at the same time asking the travellers not to stir", 
+      "is_verb": "true", 
+      "l": "time", 
+      "timepoint": [
+        0
+      ], 
+      "r": "asking", 
+      "relation": "action", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 4, 
+      "sentence": "at the same time asking the travellers not to stir", 
+      "is_verb": "true", 
+      "l": "time", 
+      "timepoint": [
+        0
+      ], 
+      "r": "asking", 
+      "relation": "action", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 5, 
+      "sentence": "at the same time asking the travellers not to stir", 
+      "is_verb": "true", 
+      "l": "time", 
+      "timepoint": [
+        0
+      ], 
+      "r": "asking", 
+      "relation": "action", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 6, 
+      "sentence": "at the same time asking the travellers not to stir", 
+      "is_verb": "true", 
+      "l": "time", 
+      "timepoint": [
+        0
+      ], 
+      "r": "asking", 
+      "relation": "action", 
+      "storypoints": 1
     }
   ], 
   "20": [
@@ -951,6 +1119,30 @@
       "r": "headless", 
       "relation": "has_property", 
       "storypoints": 21
+    }, 
+    {
+      "index": 14, 
+      "sentence": "a hundred paces away; and the strange figures who performed the religious ceremony were easily distinguished through the branches", 
+      "is_verb": "true", 
+      "l": "ceremony", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 15, 
+      "sentence": "a hundred paces away; and the strange figures who performed the religious ceremony were easily distinguished through the branches", 
+      "is_verb": "true", 
+      "l": "ceremony", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 3
     }
   ], 
   "21": [
@@ -1068,6 +1260,30 @@
       "r": "light", 
       "relation": "has_property", 
       "storypoints": 19
+    }, 
+    {
+      "index": 9, 
+      "sentence": "A group of old fakirs were capering and making a wild ado round the statue; these were striped with ochre", 
+      "is_verb": "true", 
+      "l": "fakirs", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 10, 
+      "sentence": "A group of old fakirs were capering and making a wild ado round the statue; these were striped with ochre", 
+      "is_verb": "true", 
+      "l": "fakirs", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
     }
   ], 
   "25": [
@@ -1140,6 +1356,30 @@
       "r": "magnificent", 
       "relation": "has_property", 
       "storypoints": 11
+    }, 
+    {
+      "index": 7, 
+      "sentence": "armed as they were with naked sabres hung at their waists", 
+      "is_verb": "true", 
+      "l": "sabres", 
+      "timepoint": [
+        0
+      ], 
+      "r": "hung", 
+      "relation": "action", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 8, 
+      "sentence": "armed as they were with naked sabres hung at their waists", 
+      "is_verb": "true", 
+      "l": "sabres", 
+      "timepoint": [
+        0
+      ], 
+      "r": "hung", 
+      "relation": "action", 
+      "storypoints": 1
     }
   ], 
   "26": [
@@ -1295,6 +1535,30 @@
       "timepoint": 0, 
       "r": "barbarous", 
       "relation": "has_property", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "that these barbarous customs still exist in India", 
+      "is_verb": "true", 
+      "l": "customs", 
+      "timepoint": [
+        0
+      ], 
+      "r": "exist", 
+      "relation": "action", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 5, 
+      "sentence": "that these barbarous customs still exist in India", 
+      "is_verb": "true", 
+      "l": "customs", 
+      "timepoint": [
+        0
+      ], 
+      "r": "exist", 
+      "relation": "action", 
       "storypoints": 6
     }
   ], 
@@ -1578,6 +1842,30 @@
       "r": "observed", 
       "relation": "has_property", 
       "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "But the wretched creature did not seem to be making any resistance", 
+      "is_verb": "true", 
+      "l": "creature", 
+      "timepoint": [
+        0
+      ], 
+      "r": "did", 
+      "relation": "action", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 4, 
+      "sentence": "But the wretched creature did not seem to be making any resistance", 
+      "is_verb": "true", 
+      "l": "creature", 
+      "timepoint": [
+        0
+      ], 
+      "r": "did", 
+      "relation": "action", 
+      "storypoints": 1
     }
   ], 
   "41": [], 

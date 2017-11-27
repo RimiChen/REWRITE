@@ -230,6 +230,44 @@ def saveAssertion2Json_easy_read(chapter, paragraph_assertion_dictionary):
     with open("./Storys/"+str(chapter)+"_paragraph_assertions_easy.json", 'w') as outfile:
         json.dump(paragraph_assertion_dictionary, outfile, indent=2)  
 
+def runAll(chapter_dictionary):
+    for chapter in chapter_dictionary:
+        paragraphs = readParagraphs(chapter)
+        paragraph_assertion_dictionary = {}
+        paragraph_assertion_dictionary_easy = {}
+        for paragraph in paragraphs:
+            # get assertions
+            #print(paragraph["number"])
+            
+            assertion_list = getAssertions(paragraph["paragraph"])
+            assertion_list_easy = getAssertions_easy_read(paragraph["paragraph"])
+            paragraph_assertion_dictionary[paragraph["number"]] = assertion_list
+            paragraph_assertion_dictionary_easy[paragraph["number"]] = assertion_list_easy
+
+        #pprint(paragraph_assertion_dictionary)
+
+        saveAssertion2Json(chapter, paragraph_assertion_dictionary)
+        saveAssertion2Json_easy_read(chapter, paragraph_assertion_dictionary_easy)
+
+def runOne(chapter, chapter_dictionary):
+
+    paragraphs = readParagraphs(chapter)
+    paragraph_assertion_dictionary = {}
+    paragraph_assertion_dictionary_easy = {}
+    for paragraph in paragraphs:
+            # get assertions
+            #print(paragraph["number"])
+            
+        assertion_list = getAssertions(paragraph["paragraph"])
+        assertion_list_easy = getAssertions_easy_read(paragraph["paragraph"])
+        paragraph_assertion_dictionary[paragraph["number"]] = assertion_list
+        paragraph_assertion_dictionary_easy[paragraph["number"]] = assertion_list_easy
+
+        #pprint(paragraph_assertion_dictionary)
+
+    saveAssertion2Json(chapter, paragraph_assertion_dictionary)
+    saveAssertion2Json_easy_read(chapter, paragraph_assertion_dictionary_easy)
+
 if __name__ == '__main__':
     #read a text file and separate to sentences
     #for number of sentences
@@ -290,24 +328,8 @@ if __name__ == '__main__':
     #### get assertion for each paragraph:
     #
     
-    for chapter in chapter_dictionary:
-        paragraphs = readParagraphs(chapter)
-        paragraph_assertion_dictionary = {}
-        paragraph_assertion_dictionary_easy = {}
-        for paragraph in paragraphs:
-            # get assertions
-            #print(paragraph["number"])
-            
-            assertion_list = getAssertions(paragraph["paragraph"])
-            assertion_list_easy = getAssertions_easy_read(paragraph["paragraph"])
-            paragraph_assertion_dictionary[paragraph["number"]] = assertion_list
-            paragraph_assertion_dictionary_easy[paragraph["number"]] = assertion_list_easy
-
-        #pprint(paragraph_assertion_dictionary)
-
-        saveAssertion2Json(chapter, paragraph_assertion_dictionary)
-        saveAssertion2Json_easy_read(chapter, paragraph_assertion_dictionary_easy)
-
+    #runAll(chapter_dictionary)
+    runOne("Chapter_1", chapter_dictionary)
 
 
 

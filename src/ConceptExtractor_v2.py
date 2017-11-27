@@ -70,15 +70,15 @@ def extract_story_concepts(s):
     #print("*****************************************")
     #print(actors)
 
-    print("==DEBUG== actors:")
-    print(actors)
+    #print("==DEBUG== actors:")
+    #print(actor_count)
     
     #### retrieve actors' actions
     #### retriece actors' propoties
     #assertions = []
     start_actors = datetime.datetime.now()
     for actor_name in actor_count:
-        if actor_count[actor_name] >= 20 and actor_name in sentence_dictionary:
+        if actor_count[actor_name] >= 1 and actor_name in sentence_dictionary:
         #if actor_name !="" and actor_name in sentence_dictionary and count > 3:
             #print("============= " +actor_name+" ======== " + str(actor_count[actor_name])+ " =======")
 

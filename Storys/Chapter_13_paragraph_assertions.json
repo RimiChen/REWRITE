@@ -269,6 +269,54 @@
       "r": "human", 
       "relation": "has_property", 
       "storypoints": 11
+    }, 
+    {
+      "index": 4, 
+      "sentence": "the young woman was imprisoned", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 5, 
+      "sentence": "the young woman was imprisoned", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "imprisoned", 
+      "relation": "has_property", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 6, 
+      "sentence": "the young woman was imprisoned", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 7, 
+      "sentence": "the young woman was imprisoned", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "imprisoned", 
+      "relation": "has_property", 
+      "storypoints": 4
     }
   ], 
   "16": [
@@ -385,6 +433,30 @@
       "r": "dim", 
       "relation": "has_property", 
       "storypoints": 2
+    }, 
+    {
+      "index": 1, 
+      "sentence": "and a dim light crept through the windows of the pagoda", 
+      "is_verb": "true", 
+      "l": "light", 
+      "timepoint": [
+        0
+      ], 
+      "r": "crept", 
+      "relation": "action", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and a dim light crept through the windows of the pagoda", 
+      "is_verb": "true", 
+      "l": "light", 
+      "timepoint": [
+        0
+      ], 
+      "r": "crept", 
+      "relation": "action", 
+      "storypoints": 2
     }
   ], 
   "27": [
@@ -473,6 +545,18 @@
       "r": "little", 
       "relation": "has_property", 
       "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "Happily the temple walls were built of brick and wood", 
+      "is_verb": "true", 
+      "l": "walls", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 2
     }
   ], 
   "31": [
@@ -515,6 +599,30 @@
       "r": "Sir", 
       "relation": "has_property", 
       "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "followed almost instantly by other cries replying from the outside", 
+      "is_verb": "true", 
+      "l": "cries", 
+      "timepoint": [
+        0
+      ], 
+      "r": "replying", 
+      "relation": "action", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 5, 
+      "sentence": "followed almost instantly by other cries replying from the outside", 
+      "is_verb": "true", 
+      "l": "cries", 
+      "timepoint": [
+        0
+      ], 
+      "r": "replying", 
+      "relation": "action", 
+      "storypoints": 4
     }
   ], 
   "32": [
@@ -826,6 +934,42 @@
       "r": "religious", 
       "relation": "has_property", 
       "storypoints": 22
+    }, 
+    {
+      "index": 8, 
+      "sentence": "songs and cries arose; the hour of the sacrifice had come", 
+      "is_verb": "true", 
+      "l": "cries", 
+      "timepoint": [
+        0
+      ], 
+      "r": "arose", 
+      "relation": "action", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 9, 
+      "sentence": "The young woman had again fallen into a stupor caused by the fumes of hemp", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "had", 
+      "relation": "action", 
+      "storypoints": 19
+    }, 
+    {
+      "index": 10, 
+      "sentence": "The young woman had again fallen into a stupor caused by the fumes of hemp", 
+      "is_verb": "true", 
+      "l": "woman", 
+      "timepoint": [
+        0
+      ], 
+      "r": "had", 
+      "relation": "action", 
+      "storypoints": 19
     }
   ], 
   "43": [
@@ -942,6 +1086,54 @@
       "r": "old", 
       "relation": "has_property", 
       "storypoints": 0
+    }, 
+    {
+      "index": 1, 
+      "sentence": "The old rajah was not dead", 
+      "is_verb": "true", 
+      "l": "rajah", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 2, 
+      "sentence": "The old rajah was not dead", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "dead", 
+      "relation": "has_property", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The old rajah was not dead", 
+      "is_verb": "true", 
+      "l": "rajah", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 4, 
+      "sentence": "The old rajah was not dead", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "dead", 
+      "relation": "has_property", 
+      "storypoints": 0
     }
   ], 
   "46": [
@@ -986,6 +1178,30 @@
       "r": "Sir", 
       "relation": "has_property", 
       "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The inanimate victim was borne along by the vigorous arms which supported her", 
+      "is_verb": "true", 
+      "l": "victim", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 4, 
+      "sentence": "The inanimate victim was borne along by the vigorous arms which supported her", 
+      "is_verb": "true", 
+      "l": "victim", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
     }
   ], 
   "48": [

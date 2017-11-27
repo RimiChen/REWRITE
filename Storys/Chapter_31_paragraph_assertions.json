@@ -232,6 +232,114 @@
       "r": "express", 
       "relation": "has_property", 
       "storypoints": 19
+    }, 
+    {
+      "index": 8, 
+      "sentence": "when the trains are blocked up by the snow", 
+      "is_verb": "true", 
+      "l": "trains", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 15
+    }, 
+    {
+      "index": 9, 
+      "sentence": "to which was attached a large brigantine sail", 
+      "is_verb": "true", 
+      "l": "brigantine", 
+      "timepoint": [
+        0
+      ], 
+      "r": "sail", 
+      "relation": "action", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 10, 
+      "sentence": "to which was attached a large brigantine sail", 
+      "is_verb": "true", 
+      "l": "brigantine", 
+      "timepoint": [
+        0
+      ], 
+      "r": "sail", 
+      "relation": "action", 
+      "storypoints": 7
+    }, 
+    {
+      "index": 11, 
+      "sentence": "A high mast was fixed on the frame", 
+      "is_verb": "true", 
+      "l": "mast", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 12, 
+      "sentence": "A high mast was fixed on the frame", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "fixed", 
+      "relation": "has_property", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 13, 
+      "sentence": "This mast held an iron stay upon which to hoist a jib-sail", 
+      "is_verb": "true", 
+      "l": "mast", 
+      "timepoint": [
+        0
+      ], 
+      "r": "held", 
+      "relation": "action", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 14, 
+      "sentence": "This mast held an iron stay upon which to hoist a jib-sail", 
+      "is_verb": "true", 
+      "l": "mast", 
+      "timepoint": [
+        0
+      ], 
+      "r": "held", 
+      "relation": "action", 
+      "storypoints": 8
+    }, 
+    {
+      "index": 15, 
+      "sentence": "A high mast was fixed on the frame", 
+      "is_verb": "true", 
+      "l": "mast", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 16, 
+      "sentence": "A high mast was fixed on the frame", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "fixed", 
+      "relation": "has_property", 
+      "storypoints": 5
     }
   ], 
   "18": [
@@ -388,6 +496,18 @@
       "r": "whole", 
       "relation": "has_property", 
       "storypoints": 7
+    }, 
+    {
+      "index": 6, 
+      "sentence": "Perhaps Fix's opinion of Phileas Fogg was somewhat modified; but he was nevertheless resolved to do his duty", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "modified", 
+      "relation": "has_property", 
+      "storypoints": 6
     }
   ], 
   "21": [
@@ -410,6 +530,30 @@
       "r": "hardened", 
       "relation": "has_property", 
       "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "The two great sails were hoisted", 
+      "is_verb": "true", 
+      "l": "sails", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The two great sails were hoisted", 
+      "is_verb": "true", 
+      "l": "sails", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 3
     }
   ], 
   "22": [
@@ -444,6 +588,18 @@
       "r": "other", 
       "relation": "has_property", 
       "storypoints": 16
+    }, 
+    {
+      "index": 2, 
+      "sentence": "All the sails were up", 
+      "is_verb": "true", 
+      "l": "sails", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 11
     }
   ], 
   "24": [], 
@@ -601,6 +757,30 @@
       "r": "intense", 
       "relation": "has_property", 
       "storypoints": 9
+    }, 
+    {
+      "index": 4, 
+      "sentence": "the metallic lashings held firmly", 
+      "is_verb": "true", 
+      "l": "lashings", 
+      "timepoint": [
+        0
+      ], 
+      "r": "held", 
+      "relation": "action", 
+      "storypoints": 5
+    }, 
+    {
+      "index": 5, 
+      "sentence": "the metallic lashings held firmly", 
+      "is_verb": "true", 
+      "l": "lashings", 
+      "timepoint": [
+        0
+      ], 
+      "r": "held", 
+      "relation": "action", 
+      "storypoints": 5
     }
   ], 
   "28": [], 
@@ -788,6 +968,54 @@
       "r": "safe", 
       "relation": "has_property", 
       "storypoints": 23
+    }, 
+    {
+      "index": 12, 
+      "sentence": "ferocious prairie-wolves ran howling after the sledge", 
+      "is_verb": "true", 
+      "l": "prairie-wolves", 
+      "timepoint": [
+        0
+      ], 
+      "r": "ran", 
+      "relation": "action", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 13, 
+      "sentence": "ferocious prairie-wolves ran howling after the sledge", 
+      "is_verb": "true", 
+      "l": "prairie-wolves", 
+      "timepoint": [
+        1
+      ], 
+      "r": "ran", 
+      "relation": "action", 
+      "storypoints": 14
+    }, 
+    {
+      "index": 14, 
+      "sentence": "Sometimes flocks of wild birds rose", 
+      "is_verb": "true", 
+      "l": "birds", 
+      "timepoint": [
+        0
+      ], 
+      "r": "rose", 
+      "relation": "action", 
+      "storypoints": 11
+    }, 
+    {
+      "index": 15, 
+      "sentence": "Sometimes flocks of wild birds rose", 
+      "is_verb": "true", 
+      "l": "birds", 
+      "timepoint": [
+        0
+      ], 
+      "r": "rose", 
+      "relation": "action", 
+      "storypoints": 11
     }
   ], 
   "32": [

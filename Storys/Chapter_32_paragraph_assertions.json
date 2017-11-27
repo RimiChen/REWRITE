@@ -151,6 +151,78 @@
       "r": "next", 
       "relation": "has_property", 
       "storypoints": 9
+    }, 
+    {
+      "index": 12, 
+      "sentence": "None of the other steamers were able to serve his projects", 
+      "is_verb": "true", 
+      "l": "steamers", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 13, 
+      "sentence": "whose admirable steamers are equal to any in speed and comfort", 
+      "is_verb": "true", 
+      "l": "steamers", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 14, 
+      "sentence": "None of the other steamers were able to serve his projects", 
+      "is_verb": "true", 
+      "l": "steamers", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 3
+    }, 
+    {
+      "index": 15, 
+      "sentence": "whose admirable steamers are equal to any in speed and comfort", 
+      "is_verb": "true", 
+      "l": "steamers", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 16, 
+      "sentence": "The Inman steamer did not depart till the next day", 
+      "is_verb": "true", 
+      "l": "steamer", 
+      "timepoint": [
+        0
+      ], 
+      "r": "did", 
+      "relation": "action", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 17, 
+      "sentence": "did not leave until the 14th; the Hamburg boats did not go directly to Liverpool or London", 
+      "is_verb": "true", 
+      "l": "boats", 
+      "timepoint": [
+        0
+      ], 
+      "r": "did", 
+      "relation": "action", 
+      "storypoints": 7
     }
   ], 
   "5": [
@@ -329,6 +401,54 @@
       "r": "reached", 
       "relation": "has_property", 
       "storypoints": 6
+    }, 
+    {
+      "index": 5, 
+      "sentence": "The next day was the 12th of December", 
+      "is_verb": "true", 
+      "l": "day", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 6, 
+      "sentence": "The next day was the 12th of December", 
+      "is_verb": "true", 
+      "l": "day", 
+      "timepoint": [
+        0
+      ], 
+      "r": "12th", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 7, 
+      "sentence": "The next day was the 12th of December", 
+      "is_verb": "true", 
+      "l": "day", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 8, 
+      "sentence": "The next day was the 12th of December", 
+      "is_verb": "true", 
+      "l": "day", 
+      "timepoint": [
+        0
+      ], 
+      "r": "12th", 
+      "relation": "instance_of", 
+      "storypoints": 0
     }
   ], 
   "9": [
@@ -601,6 +721,18 @@
       "r": "time", 
       "relation": "has_property", 
       "storypoints": 3
+    }, 
+    {
+      "index": 5, 
+      "sentence": "Up to this time money had smoothed away every obstacle", 
+      "is_verb": "true", 
+      "l": "money", 
+      "timepoint": [
+        0
+      ], 
+      "r": "had", 
+      "relation": "action", 
+      "storypoints": 3
     }
   ], 
   "42": [
@@ -686,6 +818,30 @@
       "r": "vocal", 
       "relation": "has_property", 
       "storypoints": 4
+    }, 
+    {
+      "index": 2, 
+      "sentence": "When Passepartout heard what this last voyage was going to cost", 
+      "is_verb": "true", 
+      "l": "voyage", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
+    }, 
+    {
+      "index": 3, 
+      "sentence": "When Passepartout heard what this last voyage was going to cost", 
+      "is_verb": "true", 
+      "l": "voyage", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 0
     }
   ], 
   "53": [

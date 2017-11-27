@@ -116,6 +116,30 @@
       "r": "Republican", 
       "relation": "has_property", 
       "storypoints": 6
+    }, 
+    {
+      "index": 4, 
+      "sentence": "red trails were visible", 
+      "is_verb": "true", 
+      "l": "trails", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 5, 
+      "sentence": "red trails were visible", 
+      "is_verb": "true", 
+      "l": "trails", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 4
     }
   ], 
   "8": [
@@ -583,6 +607,42 @@
       "r": "next", 
       "relation": "has_property", 
       "storypoints": 9
+    }, 
+    {
+      "index": 6, 
+      "sentence": "neither had there been time for the succour asked for by telegraph to arrive; the train from Omaha to San Francisco was not due till the next day", 
+      "is_verb": "false", 
+      "l": "", 
+      "timepoint": [
+        0
+      ], 
+      "r": "due", 
+      "relation": "has_property", 
+      "storypoints": 9
+    }, 
+    {
+      "index": 7, 
+      "sentence": "long whistles were heard approaching from the east", 
+      "is_verb": "true", 
+      "l": "whistles", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 2
+    }, 
+    {
+      "index": 8, 
+      "sentence": "long whistles were heard approaching from the east", 
+      "is_verb": "true", 
+      "l": "whistles", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 2
     }
   ], 
   "39": [
@@ -731,6 +791,30 @@
       "r": "station", 
       "relation": "has_property", 
       "storypoints": 7
+    }, 
+    {
+      "index": 4, 
+      "sentence": "an irresistible influence held him back", 
+      "is_verb": "true", 
+      "l": "influence", 
+      "timepoint": [
+        0
+      ], 
+      "r": "held", 
+      "relation": "action", 
+      "storypoints": 6
+    }, 
+    {
+      "index": 5, 
+      "sentence": "an irresistible influence held him back", 
+      "is_verb": "true", 
+      "l": "influence", 
+      "timepoint": [
+        -1
+      ], 
+      "r": "held", 
+      "relation": "action", 
+      "storypoints": 6
     }
   ], 
   "52": [
@@ -763,6 +847,30 @@
       "r": "white", 
       "relation": "has_property", 
       "storypoints": 9
+    }, 
+    {
+      "index": 3, 
+      "sentence": "The buzzing of the over-heated boiler was heard", 
+      "is_verb": "true", 
+      "l": "boiler", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 4
+    }, 
+    {
+      "index": 4, 
+      "sentence": "The buzzing of the over-heated boiler was heard", 
+      "is_verb": "true", 
+      "l": "boiler", 
+      "timepoint": [
+        0
+      ], 
+      "r": "", 
+      "relation": "instance_of", 
+      "storypoints": 4
     }
   ], 
   "53": [], 
@@ -828,6 +936,30 @@
       "r": "Absolute", 
       "relation": "has_property", 
       "storypoints": 11
+    }, 
+    {
+      "index": 2, 
+      "sentence": "and the little band had not returned", 
+      "is_verb": "true", 
+      "l": "band", 
+      "timepoint": [
+        0
+      ], 
+      "r": "had", 
+      "relation": "action", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "and the little band had not returned", 
+      "is_verb": "true", 
+      "l": "band", 
+      "timepoint": [
+        0
+      ], 
+      "r": "had", 
+      "relation": "action", 
+      "storypoints": 1
     }
   ], 
   "56": [
@@ -967,6 +1099,30 @@
       "r": "good", 
       "relation": "has_property", 
       "storypoints": 10
+    }, 
+    {
+      "index": 4, 
+      "sentence": "and half a mile off they perceived a little band returning in good order", 
+      "is_verb": "true", 
+      "l": "band", 
+      "timepoint": [
+        0
+      ], 
+      "r": "returning", 
+      "relation": "action", 
+      "storypoints": 10
+    }, 
+    {
+      "index": 5, 
+      "sentence": "and half a mile off they perceived a little band returning in good order", 
+      "is_verb": "true", 
+      "l": "band", 
+      "timepoint": [
+        0
+      ], 
+      "r": "returning", 
+      "relation": "action", 
+      "storypoints": 10
     }
   ], 
   "61": [], 
@@ -1049,6 +1205,30 @@
       "r": "Phileas", 
       "relation": "has_property", 
       "storypoints": 3
+    }, 
+    {
+      "index": 2, 
+      "sentence": "And when does the next train pass here", 
+      "is_verb": "true", 
+      "l": "train", 
+      "timepoint": [
+        0
+      ], 
+      "r": "pass", 
+      "relation": "action", 
+      "storypoints": 1
+    }, 
+    {
+      "index": 3, 
+      "sentence": "And when does the next train pass here", 
+      "is_verb": "true", 
+      "l": "train", 
+      "timepoint": [
+        0
+      ], 
+      "r": "pass", 
+      "relation": "action", 
+      "storypoints": 1
     }
   ], 
   "69": [], 
